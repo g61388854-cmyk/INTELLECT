@@ -1,0 +1,46 @@
+name: Ежедневное обновление новостей INTELLECT
+
+on:
+  schedule:
+    # каждый день в 06:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "update-news"
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: claude/gracious-wozniak-wdeugq
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Собрать свежие новости и анонсировать в Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/fetch-news.mjs
+
+      - name: Закоммитить обновление, если есть изменения
+        run: |
+          if [[ -n "$(git status --porcelain data/articles.generated.js)" ]]; then
+            git config user.name "INTELLECT bot"
+            git config user.email "bot@users.noreply.github.com"
+            git add data/articles.generated.js
+            git commit -m "Авто-обновление новостей $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "Изменений нет — коммит не требуется."
+          fi

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ru" id="top">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>INTELLECT — панель управления</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%23D4A017'/%3E%3Cstop offset='1' stop-color='%238B1E3F'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='14' fill='url(%23g)'/%3E%3Cpath d='M32 12l5 13 13 5-13 5-5 13-5-13-13-5 13-5z' fill='white'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/theme.css">
+<link rel="stylesheet" href="assets/pages.css">
+</head>
+<body>
+
+<div class="bg" aria-hidden="true"><i class="blob b1"></i><i class="blob b2"></i><i class="blob b3"></i><i class="blob b4"></i></div>
+<canvas id="net" aria-hidden="true"></canvas>
+<div class="glow" id="glow" aria-hidden="true"></div>
+<div class="grain" aria-hidden="true"></div>
+
+<div id="cursor" aria-hidden="true"><div class="cursor-inner">
+  <svg viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F2D27C"/><stop offset="1" stop-color="#D4A017"/></linearGradient></defs>
+    <path d="M3 5 L25 14 L3 23 L8.5 14 Z" fill="url(#cg)" stroke="rgba(255,255,255,.55)" stroke-width=".6" stroke-linejoin="round"/>
+    <path d="M8.5 14 L25 14" stroke="rgba(139,30,63,.55)" stroke-width=".8"/>
+  </svg>
+</div></div>
+
+<!-- ВХОД -->
+<div class="admin-gate" id="gate">
+  <div class="box glass">
+    <h1>Панель управления</h1>
+    <p>Доступ только для администратора проекта INTELLECT.</p>
+    <form id="gate-form">
+      <div class="field"><label>Код доступа</label><input type="password" id="gate-pass" class="input" placeholder="••••••••" autocomplete="current-password"></div>
+      <button class="btn btn-primary" type="submit" style="width:100%">Войти</button>
+    </form>
+    <div style="margin-top:18px"><span class="admin-pill">подсказка: код по умолчанию — intellect</span></div>
+  </div>
+</div>
+
+<!-- ПАНЕЛЬ -->
+<div class="admin-shell" id="shell" style="display:none">
+  <div class="container">
+    <div class="admin-head">
+      <h1>Панель управления INTELLECT</h1>
+      <div style="display:flex;gap:10px">
+        <a class="btn btn-ghost btn-small" href="index.html" target="_blank" rel="noopener">Открыть сайт ↗</a>
+        <button class="btn btn-ghost btn-small" id="logout">Выйти</button>
+      </div>
+    </div>
+
+    <div class="admin-tabs">
+      <button class="admin-tab active" data-tab="news">Новости</button>
+      <button class="admin-tab" data-tab="facts">Факты</button>
+      <button class="admin-tab" data-tab="help">Автопубликация</button>
+    </div>
+
+    <!-- НОВОСТИ -->
+    <section data-panel="news">
+      <div class="admin-grid">
+        <div class="admin-card">
+          <h2 style="font:700 1.2rem 'Playfair Display',serif;margin-bottom:18px" id="form-title">Новая публикация</h2>
+          <form id="news-form">
+            <input type="hidden" id="f-id">
+            <div class="field"><label>Заголовок</label><input id="f-title" required placeholder="Заголовок новости"></div>
+            <div class="row2">
+              <div class="field"><label>Категория</label><select id="f-category"></select></div>
+              <div class="field"><label>Источник</label><input id="f-source" placeholder="OpenAI, Anthropic…"></div>
+            </div>
+            <div class="row2">
+              <div class="field"><label>Автор</label><input id="f-author" placeholder="Имя автора"></div>
+              <div class="field"><label>Дата</label><input id="f-date" type="date"></div>
+            </div>
+            <div class="row2">
+              <div class="field"><label>Время чтения (мин)</label><input id="f-read" type="number" min="1" max="60" value="5"></div>
+              <div class="field"><label>Сделать материалом дня</label>
+                <select id="f-featured"><option value="">Нет</option><option value="1">Да</option></select></div>
+            </div>
+            <div class="field"><label>Краткое описание</label><textarea id="f-excerpt" style="min-height:70px" placeholder="1–2 предложения для карточки"></textarea></div>
+            <div class="field"><label>Полный текст</label>
+              <textarea id="f-body" placeholder="Абзацы разделяйте пустой строкой.&#10;## — подзаголовок&#10;&gt; — цитата&#10;- — пункт списка"></textarea>
+              <div class="hint">Поддерживается разметка: «## подзаголовок», «&gt; цитата», «- пункт списка».</div>
+            </div>
+            <div class="field"><label>Изображение (необязательно)</label>
+              <div class="img-drop" id="img-drop">Нажмите, чтобы выбрать изображение<br><span style="font-size:11px">оно ужмётся автоматически</span></div>
+              <input type="file" id="f-image" accept="image/*" hidden>
+              <img class="img-preview" id="img-preview" alt="">
+            </div>
+            <div class="admin-actions">
+              <button class="btn btn-primary" type="submit" id="save-btn">Опубликовать</button>
+              <button class="btn btn-ghost" type="button" id="reset-btn">Очистить</button>
+            </div>
+          </form>
+        </div>
+
+        <div class="admin-card">
+          <h2 style="font:700 1.2rem 'Playfair Display',serif;margin-bottom:6px">Опубликованные материалы</h2>
+          <p style="color:var(--mut);font-size:13px;margin-bottom:16px" id="news-count"></p>
+          <div class="admin-list" id="news-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ФАКТЫ -->
+    <section data-panel="facts" style="display:none">
+      <div class="admin-grid">
+        <div class="admin-card">
+          <h2 style="font:700 1.2rem 'Playfair Display',serif;margin-bottom:18px">Добавить факт</h2>
+          <form id="fact-form">
+            <div class="field"><label>Текст факта</label><textarea id="fact-input" required placeholder="Интересный факт об искусственном интеллекте"></textarea></div>
+            <button class="btn btn-primary" type="submit">Добавить факт</button>
+          </form>
+        </div>
+        <div class="admin-card">
+          <h2 style="font:700 1.2rem 'Playfair Display',serif;margin-bottom:6px">База фактов</h2>
+          <p style="color:var(--mut);font-size:13px;margin-bottom:16px" id="facts-count"></p>
+          <div class="admin-list" id="facts-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- АВТОПУБЛИКАЦИЯ -->
+    <section data-panel="help" style="display:none">
+      <div class="admin-card">
+        <h2 style="font:700 1.3rem 'Playfair Display',serif;margin-bottom:14px">Автоматическое обновление новостей</h2>
+        <div class="acc-text" style="padding:0;max-width:760px">
+          <p style="margin-bottom:14px">В проект встроен каркас ежедневной автопубликации. Скрипт <code>scripts/fetch-news.mjs</code> забирает свежие материалы из RSS-лент источников (OpenAI, Anthropic, Google DeepMind, Meta AI, Microsoft, NVIDIA, Hugging Face, Stability AI), формирует карточки и обновляет <code>data/articles.generated.js</code>.</p>
+          <p style="margin-bottom:14px">Запуск по расписанию настроен в GitHub Actions (<code>.github/workflows/update-news.yml</code>) — раз в день. При наличии секретов <code>TELEGRAM_BOT_TOKEN</code> и <code>TELEGRAM_CHAT_ID</code> новые статьи автоматически анонсируются в Telegram-канале проекта.</p>
+          <p>Материалы, добавленные здесь вручную, сохраняются в браузере и сразу видны на сайте. Подробности — в файле <code>README.md</code>, раздел «Автопубликация».</p>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+
+<div class="admin-toast" id="toast"></div>
+
+<script src="data/articles.js"></script>
+<script src="data/articles.generated.js"></script>
+<script src="data/facts.js"></script>
+<script src="assets/site.js"></script>
+<script src="assets/admin.js"></script>
+</body>
+</html>
