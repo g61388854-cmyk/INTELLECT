@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html lang="ru" id="top">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>INTELLECT — новости искусственного интеллекта</title>
+<meta name="description" content="Главные события мира искусственного интеллекта — модели, железо, исследования и люди, которые учат машины думать. Без хайпа и шума.">
+<meta property="og:title" content="INTELLECT — новости искусственного интеллекта">
+<meta property="og:description" content="Машинный разум. Человеческий взгляд. Главные новости ИИ — каждый день.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%238b5cf6'/%3E%3Cstop offset='1' stop-color='%2322d3ee'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='14' fill='url(%23g)'/%3E%3Cpath d='M32 12l5 13 13 5-13 5-5 13-5-13-13-5 13-5z' fill='white'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;600;700;900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* ============ БАЗА ============ */
+:root{
+  --bg:#05060e;
+  --bg-2:#0a0c1a;
+  --card:rgba(255,255,255,.035);
+  --line:rgba(255,255,255,.09);
+  --txt:#eef0f8;
+  --mut:#9298b0;
+  --mut-2:#646a85;
+  --vio:#8b5cf6;
+  --cyn:#22d3ee;
+  --pnk:#f472b6;
+  --grad:linear-gradient(135deg,#8b5cf6 0%,#6366f1 45%,#22d3ee 100%);
+  --ease:cubic-bezier(.22,1,.36,1);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:96px}
+body{
+  background:var(--bg);
+  color:var(--txt);
+  font:400 16px/1.6 "Inter",system-ui,sans-serif;
+  -webkit-font-smoothing:antialiased;
+  overflow-x:hidden;
+}
+::selection{background:rgba(139,92,246,.45);color:#fff}
+::-webkit-scrollbar{width:10px}
+::-webkit-scrollbar-track{background:var(--bg)}
+::-webkit-scrollbar-thumb{background:linear-gradient(180deg,#8b5cf6,#22d3ee);border-radius:99px;border:2px solid var(--bg)}
+a{color:inherit;text-decoration:none}
+img{max-width:100%;display:block}
+.container{width:min(1180px,92%);margin:0 auto}
+:focus-visible{outline:2px solid var(--vio);outline-offset:3px;border-radius:6px}
+
+/* ============ ГЛОБАЛЬНЫЕ СЛОИ ============ */
+.progress{
+  position:fixed;top:0;left:0;z-index:100;
+  width:100%;height:2px;
+  background:var(--grad);
+  transform-origin:0 50%;transform:scaleX(0);
+}
+.glow{
+  position:fixed;top:0;left:0;z-index:1;
+  width:620px;height:620px;border-radius:50%;
+  background:radial-gradient(closest-side,rgba(139,92,246,.13),transparent 70%);
+  pointer-events:none;mix-blend-mode:screen;
+  will-change:transform;
+}
+.grain{
+  position:fixed;inset:0;z-index:90;pointer-events:none;
+  opacity:.05;mix-blend-mode:overlay;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='0.5'/%3E%3C/svg%3E");
+}
+@media (pointer:coarse){.glow{display:none}}
+
+/* ============ НАВИГАЦИЯ ============ */
+.nav{
+  position:fixed;top:0;left:0;right:0;z-index:50;
+  transition:background .4s,border-color .4s,backdrop-filter .4s;
+  border-bottom:1px solid transparent;
+}
+.nav.scrolled{
+  background:rgba(5,6,14,.72);
+  -webkit-backdrop-filter:blur(18px);backdrop-filter:blur(18px);
+  border-bottom-color:var(--line);
+}
+.nav-inner{height:74px;display:flex;align-items:center;justify-content:space-between;gap:24px}
+.logo{
+  font:700 19px "Unbounded",sans-serif;letter-spacing:.5px;
+  display:flex;align-items:center;gap:10px;white-space:nowrap;
+}
+.logo .spark{
+  background:var(--grad);
+  -webkit-background-clip:text;background-clip:text;color:transparent;
+  font-size:22px;
+}
+.nav-links{display:flex;gap:34px}
+.nav-links a{
+  font:500 14px "Inter",sans-serif;color:var(--mut);
+  padding:6px 0;position:relative;transition:color .3s;
+}
+.nav-links a::after{
+  content:"";position:absolute;left:0;bottom:0;height:2px;width:100%;
+  background:var(--grad);border-radius:2px;
+  transform:scaleX(0);transform-origin:0 50%;transition:transform .35s var(--ease);
+}
+.nav-links a:hover{color:var(--txt)}
+.nav-links a:hover::after{transform:scaleX(1)}
+
+.btn{
+  display:inline-flex;align-items:center;justify-content:center;gap:9px;
+  padding:15px 30px;border-radius:999px;border:0;cursor:pointer;
+  font:600 15px "Inter",sans-serif;color:var(--txt);
+  transition:transform .3s var(--ease),box-shadow .3s,background .3s,border-color .3s;
+  white-space:nowrap;
+}
+.btn-primary{
+  background:var(--grad);color:#fff;
+  box-shadow:0 8px 32px rgba(124,58,237,.38);
+}
+.btn-primary:hover{transform:translateY(-2px);box-shadow:0 14px 44px rgba(124,58,237,.5)}
+.btn-ghost{
+  background:rgba(255,255,255,.05);
+  border:1px solid var(--line);
+}
+.btn-ghost:hover{transform:translateY(-2px);border-color:rgba(255,255,255,.25);background:rgba(255,255,255,.08)}
+.btn-small{padding:11px 22px;font-size:13.5px}
+
+.burger{
+  display:none;flex-direction:column;gap:6px;
+  background:none;border:0;cursor:pointer;padding:8px;z-index:60;
+}
+.burger span{width:24px;height:2px;background:var(--txt);border-radius:2px;transition:transform .35s var(--ease),opacity .3s}
+.menu-open .burger span:nth-child(1){transform:translateY(4px) rotate(45deg)}
+.menu-open .burger span:nth-child(2){transform:translateY(-4px) rotate(-45deg)}
+
+.mobile-menu{
+  position:fixed;inset:0;z-index:49;
+  background:rgba(5,6,14,.93);
+  -webkit-backdrop-filter:blur(24px);backdrop-filter:blur(24px);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;
+  opacity:0;pointer-events:none;transition:opacity .4s;
+}
+.menu-open .mobile-menu{opacity:1;pointer-events:auto}
+.mobile-menu a{font:600 1.55rem "Unbounded",sans-serif;padding:16px;color:var(--mut);transition:color .3s}
+.mobile-menu a:hover{color:var(--txt)}
+
+/* ============ HERO ============ */
+.hero{
+  position:relative;min-height:100svh;
+  display:flex;align-items:center;
+  padding:150px 0 110px;
+  overflow:hidden;
+  background:radial-gradient(ellipse 80% 50% at 50% -10%,rgba(99,102,241,.12),transparent 70%);
+}
+.aurora{
+  position:absolute;border-radius:50%;
+  filter:blur(95px);pointer-events:none;will-change:transform;
+}
+.a1{width:54vw;height:54vw;left:-14vw;top:-12vw;background:rgba(124,58,237,.21);animation:drift1 22s ease-in-out infinite alternate}
+.a2{width:46vw;height:46vw;right:-12vw;top:16%;background:rgba(34,211,238,.13);animation:drift2 26s ease-in-out infinite alternate}
+.a3{width:38vw;height:38vw;left:28%;bottom:-18vw;background:rgba(236,72,153,.11);animation:drift3 30s ease-in-out infinite alternate}
+@keyframes drift1{to{transform:translate(9vw,7vw) scale(1.15)}}
+@keyframes drift2{to{transform:translate(-7vw,9vw) scale(1.2)}}
+@keyframes drift3{to{transform:translate(6vw,-8vw) scale(1.1)}}
+
+#net{position:absolute;inset:0;width:100%;height:100%;z-index:1}
+.hero-content{position:relative;z-index:2;text-align:center}
+
+.live-chip{
+  display:inline-flex;align-items:center;gap:10px;
+  font:500 12px "JetBrains Mono",monospace;letter-spacing:1.6px;text-transform:uppercase;
+  color:var(--mut);
+  background:rgba(255,255,255,.045);border:1px solid var(--line);
+  padding:9px 18px;border-radius:999px;margin-bottom:34px;
+  -webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);
+}
+.live-chip .dot{
+  width:8px;height:8px;border-radius:50%;background:#4ade80;
+  animation:pulse 2s ease-in-out infinite;
+}
+@keyframes pulse{
+  0%,100%{box-shadow:0 0 0 0 rgba(74,222,128,.55)}
+  50%{box-shadow:0 0 0 7px rgba(74,222,128,0)}
+}
+
+.hero h1{
+  font:700 clamp(2.15rem,5.6vw,4.1rem)/1.14 "Unbounded",sans-serif;
+  letter-spacing:-.5px;margin-bottom:26px;
+}
+.grad{
+  background:linear-gradient(120deg,#a78bfa,#818cf8 30%,#22d3ee 60%,#f472b6 90%);
+  background-size:220% 220%;
+  -webkit-background-clip:text;background-clip:text;color:transparent;
+  animation:gradShift 8s ease-in-out infinite alternate;
+}
+@keyframes gradShift{to{background-position:100% 100%}}
+
+.hero-sub{
+  max-width:620px;margin:0 auto 40px;
+  font-size:17px;line-height:1.75;color:var(--mut);
+}
+.hero-actions{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-bottom:58px}
+
+.hero-stats{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+.stat{
+  background:rgba(255,255,255,.04);border:1px solid var(--line);
+  -webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);
+  border-radius:18px;padding:15px 26px;text-align:left;
+  animation:float 7s ease-in-out infinite;
+}
+.stat:nth-child(2){animation-delay:1.2s;animation-duration:8s}
+.stat:nth-child(3){animation-delay:2.4s;animation-duration:9s}
+@keyframes float{50%{transform:translateY(-9px)}}
+.stat b{display:block;font:700 19px "Unbounded",sans-serif;
+  background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent;}
+.stat span{font-size:12.5px;color:var(--mut)}
+
+.scroll-hint{
+  position:absolute;bottom:26px;left:50%;transform:translateX(-50%);z-index:2;
+  font:500 11px "JetBrains Mono",monospace;letter-spacing:3px;text-transform:uppercase;
+  color:var(--mut-2);display:flex;flex-direction:column;align-items:center;gap:8px;
+}
+.scroll-hint i{font-style:normal;animation:bounce 1.8s ease-in-out infinite}
+@keyframes bounce{50%{transform:translateY(6px)}}
+
+/* ============ БЕГУЩАЯ СТРОКА ============ */
+.ticker{
+  border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+  background:rgba(255,255,255,.018);
+  padding:17px 0;overflow:hidden;position:relative;z-index:2;
+}
+.ticker-track{display:flex;width:max-content;animation:tick 42s linear infinite}
+.ticker:hover .ticker-track{animation-play-state:paused}
+.ticker-group{display:flex;align-items:center;gap:38px;padding-right:38px}
+.ticker .item{font:400 13px "JetBrains Mono",monospace;color:var(--mut);white-space:nowrap}
+.ticker .sep{color:var(--vio);font-size:11px}
+@keyframes tick{to{transform:translateX(-50%)}}
+
+/* ============ СЕКЦИИ ============ */
+.section{padding:112px 0;position:relative;z-index:2}
+.section-head{margin-bottom:46px}
+.kicker{
+  font:500 12px "JetBrains Mono",monospace;letter-spacing:2.5px;text-transform:uppercase;
+  color:var(--vio);margin-bottom:12px;
+}
+.section-head h2{font:700 clamp(1.65rem,3.4vw,2.45rem) "Unbounded",sans-serif;letter-spacing:-.3px}
+
+/* чипы категорий */
+.chip{
+  display:inline-flex;align-self:flex-start;
+  font:500 11px "JetBrains Mono",monospace;letter-spacing:1.6px;text-transform:uppercase;
+  padding:7px 15px;border-radius:999px;
+}
+.chip-violet{color:#c4b5fd;background:rgba(139,92,246,.12);border:1px solid rgba(139,92,246,.32)}
+.chip-cyan{color:#67e8f9;background:rgba(34,211,238,.1);border:1px solid rgba(34,211,238,.3)}
+.chip-pink{color:#f9a8d4;background:rgba(236,72,153,.1);border:1px solid rgba(236,72,153,.3)}
+.chip-amber{color:#fcd34d;background:rgba(251,191,36,.09);border:1px solid rgba(251,191,36,.28)}
+.chip-green{color:#6ee7b7;background:rgba(52,211,153,.09);border:1px solid rgba(52,211,153,.28)}
+.chip-blue{color:#93c5fd;background:rgba(96,165,250,.1);border:1px solid rgba(96,165,250,.3)}
+
+/* ============ ГЛАВНЫЙ МАТЕРИАЛ ============ */
+.featured{
+  display:grid;grid-template-columns:1.05fr 1fr;
+  background:var(--card);border:1px solid var(--line);border-radius:28px;
+  overflow:hidden;position:relative;margin-bottom:118px;
+  transition:transform .15s linear;will-change:transform;
+}
+.featured::before{
+  content:"";position:absolute;inset:0;border-radius:inherit;padding:1px;
+  background:linear-gradient(135deg,rgba(139,92,246,.55),rgba(34,211,238,.22) 45%,transparent 70%);
+  -webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);
+  -webkit-mask-composite:xor;mask-composite:exclude;
+  pointer-events:none;
+}
+.featured-art{
+  position:relative;min-height:400px;overflow:hidden;
+  background:
+    radial-gradient(90% 90% at 15% 15%,rgba(124,58,237,.3),transparent 60%),
+    radial-gradient(90% 90% at 85% 85%,rgba(34,211,238,.22),transparent 60%),
+    linear-gradient(160deg,#0b0d20,#10142e);
+}
+.featured-art::before{
+  content:"";position:absolute;inset:0;
+  background-image:
+    repeating-linear-gradient(90deg,rgba(255,255,255,.045) 0 1px,transparent 1px 44px),
+    repeating-linear-gradient(0deg,rgba(255,255,255,.045) 0 1px,transparent 1px 44px);
+  -webkit-mask:radial-gradient(80% 80% at 50% 50%,#000 30%,transparent 100%);
+  mask:radial-gradient(80% 80% at 50% 50%,#000 30%,transparent 100%);
+}
+.ring{
+  position:absolute;top:50%;left:50%;border-radius:50%;
+  border:1px dashed rgba(255,255,255,.16);
+  translate:-50% -50%;
+}
+.r1{width:190px;height:190px;animation:spin 18s linear infinite}
+.r2{width:290px;height:290px;animation:spin 30s linear infinite reverse;border-color:rgba(139,92,246,.3)}
+.r3{width:390px;height:390px;animation:spin 44s linear infinite;border-color:rgba(34,211,238,.2)}
+@keyframes spin{to{rotate:360deg}}
+.core{
+  position:absolute;top:50%;left:50%;translate:-50% -50%;
+  width:110px;height:110px;border-radius:50%;
+  background:radial-gradient(circle at 35% 35%,#a78bfa,#6366f1 55%,#0ea5e9);
+  filter:blur(2px);
+  box-shadow:0 0 80px 24px rgba(124,58,237,.45),0 0 160px 60px rgba(34,211,238,.18);
+  animation:corePulse 5s ease-in-out infinite;
+}
+@keyframes corePulse{50%{scale:1.12;box-shadow:0 0 100px 34px rgba(124,58,237,.6),0 0 200px 80px rgba(34,211,238,.25)}}
+.sat{
+  position:absolute;top:50%;left:50%;width:10px;height:10px;border-radius:50%;
+  background:#22d3ee;box-shadow:0 0 14px 3px rgba(34,211,238,.8);
+  translate:-50% -50%;
+  animation:orbit 9s linear infinite;
+}
+@keyframes orbit{
+  from{transform:rotate(0) translateX(145px)}
+  to{transform:rotate(360deg) translateX(145px)}
+}
+.featured-body{
+  padding:clamp(30px,4.5vw,58px);
+  display:flex;flex-direction:column;justify-content:center;gap:19px;
+}
+.featured-body h3{
+  font:600 clamp(1.32rem,2.5vw,1.92rem)/1.28 "Unbounded",sans-serif;letter-spacing:-.3px;
+}
+.featured-body p{color:var(--mut);font-size:15.5px;line-height:1.78}
+.meta{font:400 12px "JetBrains Mono",monospace;color:var(--mut-2);letter-spacing:.4px}
+.more{
+  display:inline-flex;align-items:center;gap:9px;align-self:flex-start;
+  font:600 15px "Inter",sans-serif;
+  background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent;
+}
+.more span{transition:transform .3s var(--ease);background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.more:hover span{transform:translateX(6px)}
+
+/* ============ СЕТКА НОВОСТЕЙ ============ */
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.card{
+  background:var(--card);border:1px solid var(--line);border-radius:22px;
+  overflow:hidden;display:flex;flex-direction:column;
+  transition:transform .45s var(--ease),border-color .45s,box-shadow .45s;
+}
+.card:hover{
+  transform:translateY(-8px);
+  border-color:rgba(255,255,255,.2);
+  box-shadow:0 28px 64px -22px rgba(124,58,237,.4);
+}
+.card-art{height:188px;position:relative;overflow:hidden}
+.card-art::before{
+  content:"";position:absolute;inset:0;z-index:1;
+  background-image:
+    repeating-linear-gradient(90deg,rgba(255,255,255,.04) 0 1px,transparent 1px 36px),
+    repeating-linear-gradient(0deg,rgba(255,255,255,.04) 0 1px,transparent 1px 36px);
+  -webkit-mask:radial-gradient(90% 90% at 50% 50%,#000 20%,transparent 100%);
+  mask:radial-gradient(90% 90% at 50% 50%,#000 20%,transparent 100%);
+}
+.orb{
+  position:absolute;width:150px;height:150px;border-radius:50%;
+  filter:blur(36px);opacity:.75;top:14%;left:52%;
+  animation:orbDrift 9s ease-in-out infinite alternate;
+  transition:scale .6s var(--ease);
+}
+.card:hover .orb{scale:1.3}
+@keyframes orbDrift{to{transform:translate(-70px,34px) scale(1.2)}}
+.art-1{background:linear-gradient(150deg,#0d0a26,#171040)}
+.art-1 .orb{background:radial-gradient(circle,#8b5cf6,transparent 70%)}
+.art-2{background:linear-gradient(150deg,#06121f,#0a2333)}
+.art-2 .orb{background:radial-gradient(circle,#22d3ee,transparent 70%)}
+.art-3{background:linear-gradient(150deg,#1a0a18,#2b1029)}
+.art-3 .orb{background:radial-gradient(circle,#f472b6,transparent 70%)}
+.art-4{background:linear-gradient(150deg,#161003,#2a1d06)}
+.art-4 .orb{background:radial-gradient(circle,#fbbf24,transparent 70%)}
+.art-5{background:linear-gradient(150deg,#04150f,#093024)}
+.art-5 .orb{background:radial-gradient(circle,#34d399,transparent 70%)}
+.art-6{background:linear-gradient(150deg,#060e1f,#0c1d3f)}
+.art-6 .orb{background:radial-gradient(circle,#60a5fa,transparent 70%)}
+.card-body{padding:24px 24px 28px;display:flex;flex-direction:column;gap:13px;flex:1}
+.card-body h4{font:600 17.5px/1.45 "Inter",sans-serif;letter-spacing:-.2px}
+.card-body p{font-size:14.5px;line-height:1.68;color:var(--mut)}
+.card-body .meta{margin-top:auto;padding-top:8px}
+
+/* ============ ТРЕНДЫ ============ */
+.trends{list-style:none}
+.trend{
+  display:grid;grid-template-columns:104px 1fr auto;align-items:center;gap:26px;
+  padding:27px 10px;border-bottom:1px solid var(--line);cursor:pointer;
+  transition:background .35s,padding-left .35s var(--ease);
+}
+.trend:first-child{border-top:1px solid var(--line)}
+.trend:hover{background:rgba(255,255,255,.026);padding-left:22px}
+.num{
+  font:900 2.6rem "Unbounded",sans-serif;line-height:1;
+  color:transparent;-webkit-text-stroke:1px rgba(255,255,255,.25);
+  transition:.35s;
+}
+.trend:hover .num{
+  -webkit-text-stroke:0px transparent;
+  background:var(--grad);-webkit-background-clip:text;background-clip:text;
+}
+.trend h4{font:600 17px/1.45 "Inter",sans-serif}
+.trend-tag{
+  display:block;margin-top:7px;
+  font:500 11.5px "JetBrains Mono",monospace;letter-spacing:1.4px;text-transform:uppercase;
+  color:var(--mut-2);
+}
+.arrow{
+  font-size:22px;color:var(--cyn);
+  opacity:0;transform:translate(-8px,8px);
+  transition:.35s var(--ease);
+}
+.trend:hover .arrow{opacity:1;transform:none}
+
+/* ============ ДАЙДЖЕСТ ============ */
+.digest{
+  position:relative;overflow:hidden;text-align:center;
+  background:var(--card);border:1px solid var(--line);border-radius:32px;
+  padding:clamp(44px,6.5vw,76px) clamp(24px,5vw,64px);
+}
+.digest::before{
+  content:"";position:absolute;inset:-40%;pointer-events:none;
+  background:
+    radial-gradient(38% 38% at 28% 26%,rgba(124,58,237,.3),transparent 70%),
+    radial-gradient(34% 34% at 74% 78%,rgba(34,211,238,.2),transparent 70%);
+  filter:blur(60px);
+}
+.digest>*{position:relative}
+.digest h2{font:700 clamp(1.55rem,3vw,2.3rem) "Unbounded",sans-serif;margin:14px 0 18px}
+.digest p{color:var(--mut);max-width:560px;margin:0 auto;font-size:15.5px;line-height:1.75}
+.digest-form{margin-top:36px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+.digest-form input{
+  width:min(360px,100%);
+  padding:16px 24px;border-radius:999px;
+  background:rgba(255,255,255,.05);border:1px solid var(--line);
+  color:var(--txt);font:400 15px "Inter",sans-serif;
+  transition:border-color .3s,box-shadow .3s;
+}
+.digest-form input::placeholder{color:var(--mut-2)}
+.digest-form input:focus{outline:0;border-color:var(--vio);box-shadow:0 0 0 4px rgba(139,92,246,.18)}
+.digest-note{margin-top:18px;font:400 12px "JetBrains Mono",monospace;color:var(--mut-2);letter-spacing:.5px}
+.digest-ok{display:none;margin-top:18px;color:#6ee7b7;font:500 14px "Inter",sans-serif}
+.digest.done .digest-ok{display:block}
+.digest.done .digest-note{display:none}
+
+/* ============ ФУТЕР ============ */
+footer{border-top:1px solid var(--line);position:relative;z-index:2;background:rgba(255,255,255,.012)}
+.footer-inner{
+  display:grid;grid-template-columns:1.2fr 2fr;gap:56px;
+  padding:66px 0 50px;
+}
+.footer-brand p{color:var(--mut);font-size:14.5px;line-height:1.7;margin-top:16px;max-width:300px}
+.footer-cols{display:grid;grid-template-columns:repeat(3,1fr);gap:32px}
+.footer-cols h5{
+  font:500 12px "JetBrains Mono",monospace;letter-spacing:2px;text-transform:uppercase;
+  color:var(--mut-2);margin-bottom:16px;
+}
+.footer-cols a{display:block;color:var(--mut);font-size:14.5px;padding:5.5px 0;transition:color .3s}
+.footer-cols a:hover{color:var(--txt)}
+.footer-bottom{
+  border-top:1px solid var(--line);
+  display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;
+  padding:24px 0 30px;
+  font:400 12px "JetBrains Mono",monospace;color:var(--mut-2);letter-spacing:.4px;
+}
+
+/* ============ ПОЯВЛЕНИЕ ПРИ СКРОЛЛЕ ============ */
+.reveal{opacity:0;transform:translateY(28px);transition:opacity .9s var(--ease),transform .9s var(--ease)}
+.reveal.visible{opacity:1;transform:none}
+
+/* ============ АДАПТИВ ============ */
+@media (max-width:1000px){
+  .grid{grid-template-columns:repeat(2,1fr)}
+}
+@media (max-width:860px){
+  .nav-links,.nav-cta{display:none}
+  .burger{display:flex}
+  .featured{grid-template-columns:1fr}
+  .featured-art{min-height:300px}
+  .footer-inner{grid-template-columns:1fr;gap:40px}
+  .section{padding:88px 0}
+}
+@media (max-width:640px){
+  .grid{grid-template-columns:1fr}
+  .trend{grid-template-columns:64px 1fr auto;gap:16px}
+  .num{font-size:1.9rem}
+  .hero{padding-top:130px}
+  .hero-stats{gap:10px}
+  .stat{padding:12px 18px}
+  .footer-cols{grid-template-columns:1fr 1fr}
+}
+
+/* ============ REDUCED MOTION ============ */
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms !important;animation-iteration-count:1 !important;transition-duration:.01ms !important}
+  html{scroll-behavior:auto}
+  .reveal{opacity:1;transform:none}
+  .ticker{overflow-x:auto}
+  .ticker-track{animation:none}
+}
+</style>
+</head>
+<body>
+
+<div class="progress" id="progress"></div>
+<div class="glow" id="glow" aria-hidden="true"></div>
+<div class="grain" aria-hidden="true"></div>
+
+<!-- ===== НАВИГАЦИЯ ===== -->
+<header class="nav" id="nav">
+  <div class="nav-inner container">
+    <a class="logo" href="#top"><span class="spark">✦</span>INTELLECT</a>
+    <nav class="nav-links" aria-label="Основная навигация">
+      <a href="#news">Лента</a>
+      <a href="#trending">Тренды</a>
+      <a href="#digest">Дайджест</a>
+    </nav>
+    <a class="btn btn-primary btn-small nav-cta" href="#digest">Подписаться</a>
+    <button class="burger" id="burger" aria-label="Открыть меню"><span></span><span></span></button>
+  </div>
+</header>
+
+<nav class="mobile-menu" id="mobile-menu" aria-label="Мобильное меню">
+  <a href="#news">Лента</a>
+  <a href="#trending">Тренды</a>
+  <a href="#digest">Дайджест</a>
+</nav>
+
+<main>
+
+<!-- ===== HERO ===== -->
+<section class="hero">
+  <div class="aurora a1"></div>
+  <div class="aurora a2"></div>
+  <div class="aurora a3"></div>
+  <canvas id="net" aria-hidden="true"></canvas>
+
+  <div class="hero-content container">
+    <div class="live-chip"><span class="dot"></span>LIVE · обновлено 12 июня 2026</div>
+    <h1>Машинный разум.<br><span class="grad">Человеческий взгляд.</span></h1>
+    <p class="hero-sub">Главные события мира искусственного интеллекта — без хайпа и шума. Модели, железо, исследования и люди, которые учат машины думать.</p>
+    <div class="hero-actions">
+      <a href="#news" class="btn btn-primary">Читать дайджест</a>
+      <a href="#trending" class="btn btn-ghost">Смотреть тренды</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><b>$2,4 трлн</b><span>инвестиций в ИИ за год</span></div>
+      <div class="stat"><b>10×</b><span>дешевле инференс, чем год назад</span></div>
+      <div class="stat"><b>87%</b><span>компаний используют ИИ-агентов</span></div>
+    </div>
+  </div>
+
+  <div class="scroll-hint">scroll<i>↓</i></div>
+</section>
+
+<!-- ===== БЕГУЩАЯ СТРОКА ===== -->
+<div class="ticker" aria-label="Срочные новости">
+  <div class="ticker-track">
+    <div class="ticker-group">
+      <span class="item">GPT-6 получит непрерывное обучение — релиз через 10 дней</span><span class="sep">✦</span>
+      <span class="item">ЕС принял AI Act 2.0: прозрачность для всех моделей мощнее 10²⁶ FLOPs</span><span class="sep">✦</span>
+      <span class="item">ИИ решил открытую математическую задачу, стоявшую с 1957 года</span><span class="sep">✦</span>
+      <span class="item">Нейроинтерфейсы декодируют внутреннюю речь с точностью 94%</span><span class="sep">✦</span>
+      <span class="item">Предсказаны структуры всех известных белковых комплексов</span><span class="sep">✦</span>
+    </div>
+    <div class="ticker-group" aria-hidden="true">
+      <span class="item">GPT-6 получит непрерывное обучение — релиз через 10 дней</span><span class="sep">✦</span>
+      <span class="item">ЕС принял AI Act 2.0: прозрачность для всех моделей мощнее 10²⁶ FLOPs</span><span class="sep">✦</span>
+      <span class="item">ИИ решил открытую математическую задачу, стоявшую с 1957 года</span><span class="sep">✦</span>
+      <span class="item">Нейроинтерфейсы декодируют внутреннюю речь с точностью 94%</span><span class="sep">✦</span>
+      <span class="item">Предсказаны структуры всех известных белковых комплексов</span><span class="sep">✦</span>
+    </div>
+  </div>
+</div>
+
+<!-- ===== ГЛАВНОЕ + ЛЕНТА ===== -->
+<section class="section" id="news">
+  <div class="container">
+
+    <div class="section-head reveal">
+      <div class="kicker">// 01 · Главное</div>
+      <h2>Материал дня</h2>
+    </div>
+
+    <article class="featured reveal" id="featured">
+      <div class="featured-art" aria-hidden="true">
+        <div class="ring r1"></div>
+        <div class="ring r2"></div>
+        <div class="ring r3"></div>
+        <div class="core"></div>
+        <div class="sat"></div>
+      </div>
+      <div class="featured-body">
+        <span class="chip chip-violet">Исследования</span>
+        <h3>Модели научились думать неделями: началась эра «медленного» ИИ</h3>
+        <p>Лаборатории перешли от гонки за параметрами к гонке за временем размышления. Новые системы распределяют вычисления на дни и недели, самостоятельно проверяя гипотезы, — и впервые решают задачи, которые не поддавались человеку. Разбираемся, как «медленное мышление» меняет экономику всей отрасли.</p>
+        <div class="meta">Анна Соколова · 12 июня 2026 · 8 мин чтения</div>
+        <a class="more" href="#news">Читать полностью <span>→</span></a>
+      </div>
+    </article>
+
+    <div class="section-head reveal">
+      <div class="kicker">// 02 · Лента</div>
+      <h2>Свежие новости</h2>
+    </div>
+
+    <div class="grid">
+      <article class="card reveal">
+        <div class="card-art art-1" aria-hidden="true"><span class="orb"></span></div>
+        <div class="card-body">
+          <span class="chip chip-violet">Модели</span>
+          <h4>Открытая модель на 2 трлн параметров впервые обошла закрытые системы</h4>
+          <p>Сообщество дообучило свободную модель на распределённом кластере из 40 стран. Бенчмарки показывают паритет с лидерами рынка при цене в двадцать раз ниже.</p>
+          <div class="meta">12 июня · 5 мин</div>
+        </div>
+      </article>
+
+      <article class="card reveal" style="transition-delay:.07s">
+        <div class="card-art art-2" aria-hidden="true"><span class="orb"></span></div>
+        <div class="card-body">
+          <span class="chip chip-cyan">Железо</span>
+          <h4>Фотонные чипы ускорили инференс в 40 раз — и почти не греются</h4>
+          <p>Стартап из Эйндховена начал серийные поставки оптических ускорителей. Первые дата-центры уже отказываются от классических GPU-стоек.</p>
+          <div class="meta">11 июня · 4 мин</div>
+        </div>
+      </article>
+
+      <article class="card reveal" style="transition-delay:.14s">
+        <div class="card-art art-3" aria-hidden="true"><span class="orb"></span></div>
+        <div class="card-body">
+          <span class="chip chip-pink">Робототехника</span>
+          <h4>Первый завод, где люди не работают, а наблюдают</h4>
+          <p>В Осаке запущено производство, полностью управляемое мультиагентной системой: 400 гуманоидов, ноль остановок за три месяца.</p>
+          <div class="meta">11 июня · 6 мин</div>
+        </div>
+      </article>
+
+      <article class="card reveal">
+        <div class="card-art art-4" aria-hidden="true"><span class="orb"></span></div>
+        <div class="card-body">
+          <span class="chip chip-amber">Этика</span>
+          <h4>Водяные знаки для ИИ-контента стали обязательными в 60 странах</h4>
+          <p>Вступил в силу глобальный стандарт маркировки синтетических медиа. Объясняем, как это будет работать и кого коснётся в первую очередь.</p>
+          <div class="meta">10 июня · 7 мин</div>
+        </div>
+      </article>
+
+      <article class="card reveal" style="transition-delay:.07s">
+        <div class="card-art art-5" aria-hidden="true"><span class="orb"></span></div>
+        <div class="card-body">
+          <span class="chip chip-green">Наука</span>
+          <h4>ИИ нашёл новый класс антибиотиков за 11 дней</h4>
+          <p>Генеративная модель предложила 28 молекул против устойчивых бактерий — три уже прошли доклинические испытания. Фарма ускорилась в сотни раз.</p>
+          <div class="meta">10 июня · 5 мин</div>
+        </div>
+      </article>
+
+      <article class="card reveal" style="transition-delay:.14s">
+        <div class="card-art art-6" aria-hidden="true"><span class="orb"></span></div>
+        <div class="card-body">
+          <span class="chip chip-blue">Стартапы</span>
+          <h4>Рекордный раунд года: $4 млрд на автономных агентов</h4>
+          <p>Компания из трёх человек и тысячи агентов привлекла крупнейшие инвестиции десятилетия. Венчур больше не смотрит на размер команды.</p>
+          <div class="meta">9 июня · 3 мин</div>
+        </div>
+      </article>
+    </div>
+
+  </div>
+</section>
+
+<!-- ===== ТРЕНДЫ ===== -->
+<section class="section" id="trending" style="padding-top:0">
+  <div class="container">
+    <div class="section-head reveal">
+      <div class="kicker">// 03 · Тренды</div>
+      <h2>Сейчас обсуждают</h2>
+    </div>
+
+    <ol class="trends">
+      <li class="trend reveal">
+        <span class="num">01</span>
+        <div>
+          <h4>Агенты съедают софт: что останется от привычного SaaS</h4>
+          <span class="trend-tag">Аналитика</span>
+        </div>
+        <span class="arrow">↗</span>
+      </li>
+      <li class="trend reveal">
+        <span class="num">02</span>
+        <div>
+          <h4>Синтетические данные перестали работать. Что дальше?</h4>
+          <span class="trend-tag">Разбор</span>
+        </div>
+        <span class="arrow">↗</span>
+      </li>
+      <li class="trend reveal">
+        <span class="num">03</span>
+        <div>
+          <h4>Карта рынка LLM — лето 2026: кто остался в живых</h4>
+          <span class="trend-tag">Исследование</span>
+        </div>
+        <span class="arrow">↗</span>
+      </li>
+      <li class="trend reveal">
+        <span class="num">04</span>
+        <div>
+          <h4>«Мы не нанимаем — мы обучаем»: интервью с основательницей Mira Labs</h4>
+          <span class="trend-tag">Интервью</span>
+        </div>
+        <span class="arrow">↗</span>
+      </li>
+      <li class="trend reveal">
+        <span class="num">05</span>
+        <div>
+          <h4>Локальные модели на смартфоне: большой тест двенадцати сборок</h4>
+          <span class="trend-tag">Тест</span>
+        </div>
+        <span class="arrow">↗</span>
+      </li>
+    </ol>
+  </div>
+</section>
+
+<!-- ===== ДАЙДЖЕСТ ===== -->
+<section class="section" id="digest" style="padding-top:0">
+  <div class="container">
+    <div class="digest reveal">
+      <span class="chip chip-cyan">Рассылка</span>
+      <h2>Сигнал без шума — раз в неделю</h2>
+      <p>Один выпуск: пять главных событий, одно глубокое чтение и инструмент, который стоит попробовать. Читается за пять минут — по дороге на работу будущего.</p>
+      <form class="digest-form" id="digest-form">
+        <input type="email" required placeholder="ваша@почта.ru" aria-label="Электронная почта">
+        <button class="btn btn-primary" type="submit" id="digest-btn">Получать дайджест</button>
+      </form>
+      <div class="digest-note">Без спама. Отписка в один клик.</div>
+      <div class="digest-ok">Готово! Проверьте почту — первое письмо уже летит ✦</div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ===== ФУТЕР ===== -->
+<footer>
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <a class="logo" href="#top"><span class="spark">✦</span>INTELLECT</a>
+      <p>Независимое медиа о машинном интеллекте. Следим за моделями, железом, наукой и людьми, которые учат машины думать.</p>
+    </div>
+    <div class="footer-cols">
+      <div>
+        <h5>Разделы</h5>
+        <a href="#news">Лента</a>
+        <a href="#trending">Тренды</a>
+        <a href="#digest">Дайджест</a>
+      </div>
+      <div>
+        <h5>Проект</h5>
+        <a href="#top">О нас</a>
+        <a href="#top">Редакция</a>
+        <a href="#top">Партнёрам</a>
+      </div>
+      <div>
+        <h5>Связь</h5>
+        <a href="#top">Telegram</a>
+        <a href="#top">X (Twitter)</a>
+        <a href="#top">RSS</a>
+      </div>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© <span id="year">2026</span> INTELLECT. Все права защищены.</span>
+    <span>Сделано людьми вместе с машинами ✦</span>
+  </div>
+</footer>
+
+<script>
+(function(){
+  "use strict";
+  var RM = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var FINE = window.matchMedia("(pointer: fine)").matches;
+
+  /* год в футере */
+  document.getElementById("year").textContent = new Date().getFullYear();
+
+  /* прогресс-бар и фон навигации */
+  var progress = document.getElementById("progress");
+  var nav = document.getElementById("nav");
+  function onScroll(){
+    var h = document.documentElement;
+    var max = h.scrollHeight - h.clientHeight;
+    progress.style.transform = "scaleX(" + (max > 0 ? h.scrollTop / max : 0) + ")";
+    nav.classList.toggle("scrolled", h.scrollTop > 24);
+  }
+  window.addEventListener("scroll", onScroll, {passive:true});
+  onScroll();
+
+  /* мобильное меню */
+  var burger = document.getElementById("burger");
+  burger.addEventListener("click", function(){
+    document.body.classList.toggle("menu-open");
+  });
+  document.querySelectorAll("#mobile-menu a").forEach(function(a){
+    a.addEventListener("click", function(){ document.body.classList.remove("menu-open"); });
+  });
+
+  /* появление блоков при скролле */
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if (e.isIntersecting){ e.target.classList.add("visible"); io.unobserve(e.target); }
+    });
+  }, {threshold:.12, rootMargin:"0px 0px -40px 0px"});
+  document.querySelectorAll(".reveal").forEach(function(el){ io.observe(el); });
+
+  /* форма подписки (демо) */
+  var form = document.getElementById("digest-form");
+  form.addEventListener("submit", function(e){
+    e.preventDefault();
+    document.getElementById("digest-btn").disabled = true;
+    document.getElementById("digest-btn").textContent = "Готово ✓";
+    form.closest(".digest").classList.add("done");
+  });
+
+  /* курсорное свечение */
+  var glow = document.getElementById("glow");
+  if (FINE && !RM){
+    var gx = innerWidth/2, gy = innerHeight/3, tx = gx, ty = gy;
+    window.addEventListener("pointermove", function(e){ tx = e.clientX; ty = e.clientY; }, {passive:true});
+    (function loop(){
+      gx += (tx - gx) * .08; gy += (ty - gy) * .08;
+      glow.style.transform = "translate(" + (gx - 310) + "px," + (gy - 310) + "px)";
+      requestAnimationFrame(loop);
+    })();
+  } else {
+    glow.style.display = "none";
+  }
+
+  /* лёгкий 3D-наклон главной карточки */
+  var featured = document.getElementById("featured");
+  if (FINE && !RM){
+    featured.addEventListener("pointermove", function(e){
+      var r = featured.getBoundingClientRect();
+      var x = (e.clientX - r.left) / r.width - .5;
+      var y = (e.clientY - r.top) / r.height - .5;
+      featured.style.transform = "perspective(1100px) rotateX(" + (-y*3) + "deg) rotateY(" + (x*3) + "deg)";
+    });
+    featured.addEventListener("pointerleave", function(){
+      featured.style.transform = "";
+    });
+  }
+
+  /* нейросеть на canvas в hero */
+  if (!RM){
+    var c = document.getElementById("net");
+    var ctx = c.getContext("2d");
+    var W = 0, H = 0, P = [];
+    var COLORS = [[139,92,246],[34,211,238],[236,72,153]];
+    var mouse = {x:-1e4, y:-1e4};
+
+    function resize(){
+      var dpr = Math.min(window.devicePixelRatio || 1, 2);
+      W = c.clientWidth; H = c.clientHeight;
+      c.width = W * dpr; c.height = H * dpr;
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    }
+    resize();
+    window.addEventListener("resize", resize);
+
+    var N = Math.max(40, Math.min(110, Math.floor(W * H / 16000)));
+    for (var i = 0; i < N; i++){
+      P.push({
+        x: Math.random()*W, y: Math.random()*H,
+        vx: (Math.random()-.5)*.35, vy: (Math.random()-.5)*.35,
+        r: Math.random()*1.6+.6,
+        c: COLORS[i % COLORS.length]
+      });
+    }
+
+    c.parentElement.addEventListener("pointermove", function(e){
+      var b = c.getBoundingClientRect();
+      mouse.x = e.clientX - b.left; mouse.y = e.clientY - b.top;
+    }, {passive:true});
+    c.parentElement.addEventListener("pointerleave", function(){
+      mouse.x = -1e4; mouse.y = -1e4;
+    });
+
+    var LINK = 130;
+    function tick(){
+      ctx.clearRect(0, 0, W, H);
+      for (var i = 0; i < P.length; i++){
+        var p = P[i];
+        p.x += p.vx; p.y += p.vy;
+        if (p.x < -20) p.x = W+20; else if (p.x > W+20) p.x = -20;
+        if (p.y < -20) p.y = H+20; else if (p.y > H+20) p.y = -20;
+      }
+      for (var i = 0; i < P.length; i++){
+        for (var j = i+1; j < P.length; j++){
+          var a = P[i], b = P[j];
+          var dx = a.x-b.x, dy = a.y-b.y;
+          var d = dx*dx + dy*dy;
+          if (d < LINK*LINK){
+            var alpha = (1 - Math.sqrt(d)/LINK) * .32;
+            ctx.strokeStyle = (i+j) % 2
+              ? "rgba(139,92,246," + alpha + ")"
+              : "rgba(34,211,238," + alpha + ")";
+            ctx.lineWidth = 1;
+            ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke();
+          }
+        }
+        /* связь с курсором */
+        var p = P[i];
+        var mdx = p.x - mouse.x, mdy = p.y - mouse.y;
+        var md = mdx*mdx + mdy*mdy;
+        if (md < 170*170){
+          var ma = (1 - Math.sqrt(md)/170) * .5;
+          ctx.strokeStyle = "rgba(34,211,238," + ma + ")";
+          ctx.lineWidth = 1;
+          ctx.beginPath(); ctx.moveTo(p.x, p.y); ctx.lineTo(mouse.x, mouse.y); ctx.stroke();
+        }
+      }
+      for (var i = 0; i < P.length; i++){
+        var p = P[i];
+        ctx.fillStyle = "rgba(" + p.c[0] + "," + p.c[1] + "," + p.c[2] + ",.9)";
+        ctx.beginPath(); ctx.arc(p.x, p.y, p.r, 0, 6.2832); ctx.fill();
+      }
+      requestAnimationFrame(tick);
+    }
+    tick();
+  }
+})();
+</script>
+</body>
+</html>
