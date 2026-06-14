@@ -1,15 +1,14 @@
 /* ============================================================
-   INTELLECT — общий скрипт: хранилище, интерфейс, робот
+   INTELLECT V2 — общий скрипт: хранилище, помощники, интерфейс
    ============================================================ */
 (function (g) {
   "use strict";
 
   var RM = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  var FINE = window.matchMedia("(pointer: fine)").matches;
   var LAUNCH = new Date("2025-09-01T00:00:00Z");
   var TELEGRAM = "https://t.me/ai0090012";
 
-  /* ---------------- ХРАНИЛИЩЕ КОНТЕНТА ---------------- */
+  /* ---------------- ХРАНИЛИЩЕ ---------------- */
   var K = {
     custom: "intellect-articles-custom",
     edits: "intellect-articles-edits",
@@ -18,23 +17,16 @@
     factsRemoved: "intellect-facts-removed",
     seenFacts: "intellect-facts-seen"
   };
-  function readJSON(key, fallback) {
-    try { var v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback; }
-    catch (e) { return fallback; }
-  }
-  function writeJSON(key, val) {
-    try { localStorage.setItem(key, JSON.stringify(val)); return true; }
-    catch (e) { return false; }
-  }
+  function readJSON(key, fb) { try { var v = localStorage.getItem(key); return v ? JSON.parse(v) : fb; } catch (e) { return fb; } }
+  function writeJSON(key, val) { try { localStorage.setItem(key, JSON.stringify(val)); return true; } catch (e) { return false; } }
 
   var Store = {
     categories: function () { return (g.INTELLECT_CATEGORIES || []).slice(); },
     categoryById: function (id) {
       var list = g.INTELLECT_CATEGORIES || [];
       for (var i = 0; i < list.length; i++) if (list[i].id === id) return list[i];
-      return { id: id || "ai", label: "Новости", short: "Новости" };
+      return { id: id || "ai", label: "Новости", short: "Новости", icon: "network" };
     },
-    /* объединяем seed + кастомные + правки − удалённые, сортируем по дате */
     articles: function () {
       var seed = (g.INTELLECT_ARTICLES || []).slice();
       var generated = (g.INTELLECT_GENERATED || []).slice();
@@ -54,11 +46,8 @@
       out.sort(function (x, y) { return (y.date || "").localeCompare(x.date || ""); });
       return out;
     },
-    byId: function (id) {
-      var list = this.articles();
-      for (var i = 0; i < list.length; i++) if (list[i].id === id) return list[i];
-      return null;
-    },
+    byId: function (id) { var l = this.articles(); for (var i = 0; i < l.length; i++) if (l[i].id === id) return l[i]; return null; },
+    byCategory: function (cat) { return this.articles().filter(function (a) { return a.category === cat; }); },
     related: function (id, n) {
       var cur = this.byId(id); if (!cur) return [];
       var list = this.articles().filter(function (a) { return a.id !== id; });
@@ -71,62 +60,76 @@
       for (var i = 0; i < seed.length; i++) if (seed[i].id === id) return true;
       return false;
     },
-    /* --- админка: запись --- */
     saveArticle: function (art) {
-      if (this.isSeed(art.id)) {
-        var edits = readJSON(K.edits, {}); edits[art.id] = art; writeJSON(K.edits, edits);
-      } else {
-        var custom = readJSON(K.custom, []);
-        var found = false;
-        for (var i = 0; i < custom.length; i++) if (custom[i].id === art.id) { custom[i] = art; found = true; break; }
-        if (!found) custom.unshift(art);
-        writeJSON(K.custom, custom);
+      if (this.isSeed(art.id)) { var e = readJSON(K.edits, {}); e[art.id] = art; writeJSON(K.edits, e); }
+      else {
+        var c = readJSON(K.custom, []), found = false;
+        for (var i = 0; i < c.length; i++) if (c[i].id === art.id) { c[i] = art; found = true; break; }
+        if (!found) c.unshift(art);
+        writeJSON(K.custom, c);
       }
     },
     deleteArticle: function (id) {
-      if (this.isSeed(id)) {
-        var deleted = readJSON(K.deleted, []);
-        if (deleted.indexOf(id) === -1) { deleted.push(id); writeJSON(K.deleted, deleted); }
-      } else {
-        var custom = readJSON(K.custom, []).filter(function (a) { return a.id !== id; });
-        writeJSON(K.custom, custom);
-      }
+      if (this.isSeed(id)) { var d = readJSON(K.deleted, []); if (d.indexOf(id) === -1) { d.push(id); writeJSON(K.deleted, d); } }
+      else writeJSON(K.custom, readJSON(K.custom, []).filter(function (a) { return a.id !== id; }));
     },
-    /* --- факты --- */
     facts: function () {
       var seed = (g.INTELLECT_FACTS || []).slice();
       var removed = readJSON(K.factsRemoved, []);
       var custom = readJSON(K.factsCustom, []);
-      var base = seed.filter(function (f) { return removed.indexOf(f) === -1; });
-      return base.concat(custom);
+      return seed.filter(function (f) { return removed.indexOf(f) === -1; }).concat(custom);
     },
-    addFact: function (text) {
-      var custom = readJSON(K.factsCustom, []); custom.push(text); writeJSON(K.factsCustom, custom);
-    },
-    removeFact: function (text) {
-      var custom = readJSON(K.factsCustom, []);
-      var idx = custom.indexOf(text);
-      if (idx !== -1) { custom.splice(idx, 1); writeJSON(K.factsCustom, custom); return; }
-      var removed = readJSON(K.factsRemoved, []);
-      if (removed.indexOf(text) === -1) { removed.push(text); writeJSON(K.factsRemoved, removed); }
+    addFact: function (t) { var c = readJSON(K.factsCustom, []); c.push(t); writeJSON(K.factsCustom, c); },
+    removeFact: function (t) {
+      var c = readJSON(K.factsCustom, []), i = c.indexOf(t);
+      if (i !== -1) { c.splice(i, 1); writeJSON(K.factsCustom, c); return; }
+      var r = readJSON(K.factsRemoved, []); if (r.indexOf(t) === -1) { r.push(t); writeJSON(K.factsRemoved, r); }
     },
     seenFacts: function () { return readJSON(K.seenFacts, []); },
     markFactSeen: function (i, total) {
-      var seen = readJSON(K.seenFacts, []);
-      seen.push(i);
-      while (seen.length > Math.min(40, Math.floor(total * 0.6))) seen.shift();
-      writeJSON(K.seenFacts, seen);
+      var s = readJSON(K.seenFacts, []); s.push(i);
+      while (s.length > Math.min(40, Math.floor(total * 0.6))) s.shift();
+      writeJSON(K.seenFacts, s);
     },
     stats: function () {
-      var days = Math.max(1, Math.floor((Date.now() - LAUNCH.getTime()) / 86400000));
       return {
         articles: this.articles().length,
         facts: this.facts().length,
         categories: this.categories().length,
-        days: days
+        days: Math.max(1, Math.floor((Date.now() - LAUNCH.getTime()) / 86400000))
       };
     }
   };
+
+  /* ---------------- ИКОНКИ (минимальные, currentColor) ---------------- */
+  var P = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">';
+  var ICONS = {
+    network: P + '<circle cx="6" cy="6" r="2.4"/><circle cx="18" cy="7" r="2.4"/><circle cx="12" cy="17" r="2.4"/><path d="M8 7.5l2.5 7M16 9l-3 6M8 6.6l8 .5"/></svg>',
+    layers: P + '<path d="M12 4l8 4-8 4-8-4 8-4z"/><path d="M4 12l8 4 8-4"/><path d="M4 16l8 4 8-4" opacity=".5"/></svg>',
+    cpu: P + '<rect x="7" y="7" width="10" height="10" rx="2"/><path d="M10 3v2M14 3v2M10 19v2M14 19v2M3 10h2M3 14h2M19 10h2M19 14h2"/></svg>',
+    hex: P + '<path d="M12 3l7.5 4.3v9.4L12 21l-7.5-4.3V7.3L12 3z"/><circle cx="12" cy="12" r="2.6"/></svg>',
+    flask: P + '<path d="M9 3h6M10 3v6l-4.5 8.5A2 2 0 007.3 21h9.4a2 2 0 001.8-3.5L14 9V3"/><path d="M8 15h8"/></svg>',
+    trend: P + '<path d="M4 17l5-5 3 3 7-7"/><path d="M15 8h5v5"/></svg>',
+    compass: P + '<circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5 5-2z"/></svg>',
+    doc: P + '<path d="M14 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V8l-5-5z"/><path d="M14 3v5h5M9 13h6M9 17h6"/></svg>',
+    quote: P + '<path d="M7 7h4v4c0 2.2-1.3 3.6-3.5 4M14 7h4v4c0 2.2-1.3 3.6-3.5 4"/></svg>',
+    grid: P + '<rect x="4" y="4" width="7" height="7" rx="1.5"/><rect x="13" y="4" width="7" height="7" rx="1.5"/><rect x="4" y="13" width="7" height="7" rx="1.5"/><rect x="13" y="13" width="7" height="7" rx="1.5"/></svg>',
+    calendar: P + '<rect x="4" y="5" width="16" height="16" rx="2.5"/><path d="M4 9h16M8 3v4M16 3v4"/></svg>',
+    bolt: P + '<path d="M12 3v7M12 14v7M5 8l7 6 7-6"/></svg>',
+    arrow: P + '<path d="M5 12h14M13 6l6 6-6 6"/></svg>',
+    sun: P + '<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>',
+    moon: P + '<path d="M20 14.5A8 8 0 119.5 4 6.5 6.5 0 0020 14.5z"/></svg>',
+    plus: P + '<path d="M12 5v14M5 12h14"/></svg>',
+    edit: P + '<path d="M12 20h9M16.5 3.5a2.1 2.1 0 013 3L7 19l-4 1 1-4 12.5-12.5z"/></svg>',
+    trash: P + '<path d="M4 7h16M9 7V5a2 2 0 012-2h2a2 2 0 012 2v2M6 7l1 13a2 2 0 002 2h6a2 2 0 002-2l1-13"/></svg>',
+    settings: P + '<circle cx="12" cy="12" r="3"/><path d="M19 12a7 7 0 00-.1-1.2l2-1.5-2-3.5-2.4 1a7 7 0 00-2-1.2L14 2h-4l-.5 2.4a7 7 0 00-2 1.2l-2.4-1-2 3.5 2 1.5A7 7 0 005 12a7 7 0 00.1 1.2l-2 1.5 2 3.5 2.4-1a7 7 0 002 1.2L10 22h4l.5-2.4a7 7 0 002-1.2l2.4 1 2-3.5-2-1.5A7 7 0 0019 12z"/></svg>',
+    chart: P + '<path d="M4 20V4M4 20h16M8 16v-4M12 16V8M16 16v-7"/></svg>',
+    news: P + '<rect x="3" y="5" width="18" height="14" rx="2"/><path d="M7 9h6M7 13h10M7 17h10" opacity=".7"/></svg>',
+    telegram: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.5 3.6 2.9 10.8c-1 .4-.97 1.4.06 1.7l4.6 1.45 1.77 5.4c.3.9 1.06 1.05 1.7.4l2.5-2.4 4.7 3.4c.8.5 1.6.2 1.8-.8l3-15.2c.3-1.2-.5-1.7-1.53-1.15Z"/></svg>',
+    logo: '<svg viewBox="0 0 32 32" fill="none"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E7D6AE"/><stop offset="1" stop-color="#9A7B33"/></linearGradient></defs><path d="M16 2.5l11.7 6.75v13.5L16 29.5 4.3 22.75V9.25L16 2.5z" stroke="url(#lg)" stroke-width="1.4"/><path d="M16 9v14M16 9l6 3.5M16 9l-6 3.5M16 23l6-3.5M16 23l-6-3.5" stroke="url(#lg)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="16" cy="16" r="2.1" fill="url(#lg)"/></svg>'
+  };
+  function icon(name) { return ICONS[name] || ICONS.network; }
+  function catIcon(catId) { return icon(Store.categoryById(catId).icon || "network"); }
 
   /* ---------------- ХЕЛПЕРЫ ОТРИСОВКИ ---------------- */
   function esc(s) {
@@ -140,23 +143,36 @@
     if (isNaN(d)) return iso || "";
     return d.getDate() + " " + M[d.getMonth()] + " " + d.getFullYear();
   }
-  function articleUrl(id) {
-    var base = location.pathname.indexOf("/news/") !== -1 ? "../article.html" : "article.html";
-    return base + "?id=" + encodeURIComponent(id);
+  function articleUrl(id) { return "article.html?id=" + encodeURIComponent(id); }
+  function slug(s) {
+    var map = { а:"a",б:"b",в:"v",г:"g",д:"d",е:"e",ё:"e",ж:"zh",з:"z",и:"i",й:"y",к:"k",л:"l",м:"m",н:"n",о:"o",п:"p",р:"r",с:"s",т:"t",у:"u",ф:"f",х:"h",ц:"c",ч:"ch",ш:"sh",щ:"sch",ъ:"",ы:"y",ь:"",э:"e",ю:"yu",я:"ya" };
+    return String(s || "").toLowerCase().replace(/[а-яё]/g, function (c) { return map[c] || ""; })
+      .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 50) || "post";
   }
   function coverHTML(art) {
-    var cat = Store.categoryById(art.category);
-    if (art.image) {
-      return '<div class="cover cv-' + esc(art.category) + '">' +
-        '<img src="' + esc(art.image) + '" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0">' +
-        '</div>';
-    }
-    var mark = (art.source || cat.short || "AI").charAt(0).toUpperCase();
-    return '<div class="cover cv-' + esc(art.category) + '"><span class="orb"></span><span class="glyph">' + esc(mark) + '</span></div>';
+    var cls = "cover ct-" + esc(art.category);
+    var inner =
+      '<span class="cov-tint"></span><span class="cov-grid"></span><span class="cov-sheen"></span>' +
+      '<span class="cov-ico" aria-hidden="true">' + catIcon(art.category) + '</span>';
+    if (art.image) inner += '<img src="' + esc(art.image) + '" alt="">';
+    return '<div class="' + cls + '">' + inner + '</div>';
   }
-  function chip(catId) {
+  function chip(catId, opts) {
     var c = Store.categoryById(catId);
-    return '<span class="chip cat-' + esc(catId) + '">' + esc(c.label) + '</span>';
+    var label = (opts && opts.long) ? c.label : c.short;
+    return '<span class="cat-badge">' + catIcon(catId) + esc(label) + '</span>';
+  }
+
+  /* ---------------- ТЕМА ---------------- */
+  function initTheme() {
+    var root = document.documentElement;
+    function apply(t) { root.dataset.theme = t; try { localStorage.setItem("intellect-theme", t); } catch (e) {} }
+    // data-theme уже выставлен пре-пейнт скриптом; здесь только переключатель
+    document.querySelectorAll("[data-theme-toggle]").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        apply(root.dataset.theme === "dark" ? "light" : "dark");
+      });
+    });
   }
 
   /* ---------------- ОБЩИЙ ИНТЕРФЕЙС ---------------- */
@@ -164,19 +180,26 @@
     var year = document.getElementById("year");
     if (year) year.textContent = new Date().getFullYear();
 
-    /* прогресс + тень навигации */
+    initTheme();
+
+    // лого-марки и иконки
+    document.querySelectorAll("[data-logo]").forEach(function (el) { el.innerHTML = icon("logo"); });
+    document.querySelectorAll("[data-ico]").forEach(function (el) { el.innerHTML = icon(el.getAttribute("data-ico")); });
+    document.querySelectorAll("[data-tg]").forEach(function (el) { el.insertAdjacentHTML("afterbegin", icon("telegram")); });
+    document.querySelectorAll("[data-tg-fab]").forEach(function (el) { el.innerHTML = icon("telegram"); });
+
+    // прогресс + тень навигации
     var progress = document.getElementById("progress");
     var nav = document.getElementById("nav");
     function onScroll() {
-      var h = document.documentElement;
-      var max = h.scrollHeight - h.clientHeight;
+      var h = document.documentElement, max = h.scrollHeight - h.clientHeight;
       if (progress) progress.style.transform = "scaleX(" + (max > 0 ? h.scrollTop / max : 0) + ")";
-      if (nav) nav.classList.toggle("scrolled", h.scrollTop > 24);
+      if (nav) nav.classList.toggle("scrolled", h.scrollTop > 12);
     }
     window.addEventListener("scroll", onScroll, { passive: true });
     onScroll();
 
-    /* мобильное меню */
+    // мобильное меню
     var burger = document.getElementById("burger");
     if (burger) {
       burger.addEventListener("click", function () { document.body.classList.toggle("menu-open"); });
@@ -185,123 +208,15 @@
       });
     }
 
-    /* reveal */
+    // reveal
     var io = new IntersectionObserver(function (entries) {
-      entries.forEach(function (e) {
-        if (e.isIntersecting) { e.target.classList.add("visible"); io.unobserve(e.target); }
-      });
+      entries.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); } });
     }, { threshold: 0.12, rootMargin: "0px 0px -40px 0px" });
     document.querySelectorAll(".reveal").forEach(function (el) { io.observe(el); });
 
-    initCursor();
-    initGlow();
-    initNetwork();
     initCounters();
   }
 
-  /* курсор-самолёт */
-  function initCursor() {
-    if (!FINE || RM) return;
-    var cur = document.getElementById("cursor");
-    if (!cur) return;
-    document.documentElement.classList.add("custom-cursor");
-    var cx = innerWidth / 2, cy = innerHeight / 2, mx = cx, my = cy, ang = -45;
-    window.addEventListener("pointermove", function (e) { mx = e.clientX; my = e.clientY; }, { passive: true });
-    document.addEventListener("pointerover", function (e) {
-      var t = e.target.closest ? e.target.closest("a,button,input,textarea,select,.card,.trend,.article-card,.related-card,.filter-pill") : null;
-      cur.classList.toggle("grow", !!t);
-    });
-    window.addEventListener("pointerdown", function (e) {
-      cur.classList.add("press");
-      var ring = document.createElement("span");
-      ring.className = "click-pulse";
-      ring.style.left = e.clientX + "px"; ring.style.top = e.clientY + "px";
-      document.body.appendChild(ring);
-      ring.addEventListener("animationend", function () { ring.remove(); });
-    });
-    window.addEventListener("pointerup", function () { cur.classList.remove("press"); });
-    (function loop() {
-      var dx = mx - cx, dy = my - cy;
-      cx += dx * 0.16; cy += dy * 0.16;
-      var speed = Math.hypot(dx, dy);
-      var target = speed > 2.5 ? Math.atan2(dy, dx) * 57.2958 : -45;
-      var diff = ((target - ang + 540) % 360) - 180;
-      ang += diff * 0.14;
-      cur.style.transform = "translate(" + cx + "px," + cy + "px) rotate(" + ang + "deg)";
-      requestAnimationFrame(loop);
-    })();
-  }
-
-  function initGlow() {
-    var glow = document.getElementById("glow");
-    if (!glow) return;
-    if (!FINE || RM) { glow.style.display = "none"; return; }
-    var gx = innerWidth / 2, gy = innerHeight / 3, tx = gx, ty = gy;
-    window.addEventListener("pointermove", function (e) { tx = e.clientX; ty = e.clientY; }, { passive: true });
-    (function loop() {
-      gx += (tx - gx) * 0.08; gy += (ty - gy) * 0.08;
-      glow.style.transform = "translate(" + (gx - 320) + "px," + (gy - 320) + "px)";
-      requestAnimationFrame(loop);
-    })();
-  }
-
-  /* фоновая нейросеть */
-  function initNetwork() {
-    if (RM) return;
-    var c = document.getElementById("net");
-    if (!c) return;
-    var ctx = c.getContext("2d");
-    var W = 0, H = 0, P = [], mouse = { x: -1e4, y: -1e4 };
-    var NODES = [[212,160,23],[229,229,229],[180,58,94]];
-    var LINES = ["212,160,23", "229,229,229"];
-    function resize() {
-      var dpr = Math.min(window.devicePixelRatio || 1, 2);
-      W = c.clientWidth; H = c.clientHeight;
-      c.width = W * dpr; c.height = H * dpr;
-      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-    }
-    resize(); window.addEventListener("resize", resize);
-    var N = Math.max(30, Math.min(80, Math.floor(W * H / 22000)));
-    for (var i = 0; i < N; i++) P.push({
-      x: Math.random() * W, y: Math.random() * H,
-      vx: (Math.random() - .5) * .3, vy: (Math.random() - .5) * .3,
-      r: Math.random() * 1.5 + .6, c: NODES[i % 3]
-    });
-    window.addEventListener("pointermove", function (e) { mouse.x = e.clientX; mouse.y = e.clientY; }, { passive: true });
-    var LINK = 128;
-    (function tick() {
-      ctx.clearRect(0, 0, W, H);
-      for (var i = 0; i < P.length; i++) {
-        var p = P[i]; p.x += p.vx; p.y += p.vy;
-        if (p.x < -20) p.x = W + 20; else if (p.x > W + 20) p.x = -20;
-        if (p.y < -20) p.y = H + 20; else if (p.y > H + 20) p.y = -20;
-      }
-      for (var i = 0; i < P.length; i++) {
-        for (var j = i + 1; j < P.length; j++) {
-          var a = P[i], b = P[j], dx = a.x - b.x, dy = a.y - b.y, d = dx * dx + dy * dy;
-          if (d < LINK * LINK) {
-            var al = (1 - Math.sqrt(d) / LINK) * .2;
-            ctx.strokeStyle = "rgba(" + LINES[(i + j) % 2] + "," + al + ")";
-            ctx.lineWidth = 1; ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke();
-          }
-        }
-        var p = P[i], mdx = p.x - mouse.x, mdy = p.y - mouse.y, md = mdx * mdx + mdy * mdy;
-        if (md < 28900) {
-          var ma = (1 - Math.sqrt(md) / 170) * .4;
-          ctx.strokeStyle = "rgba(212,160,23," + ma + ")"; ctx.lineWidth = 1;
-          ctx.beginPath(); ctx.moveTo(p.x, p.y); ctx.lineTo(mouse.x, mouse.y); ctx.stroke();
-        }
-      }
-      for (var i = 0; i < P.length; i++) {
-        var p = P[i];
-        ctx.fillStyle = "rgba(" + p.c[0] + "," + p.c[1] + "," + p.c[2] + ",.8)";
-        ctx.beginPath(); ctx.arc(p.x, p.y, p.r, 0, 6.2832); ctx.fill();
-      }
-      requestAnimationFrame(tick);
-    })();
-  }
-
-  /* анимированные счётчики */
   function initCounters() {
     var els = document.querySelectorAll("[data-count]");
     if (!els.length) return;
@@ -309,12 +224,11 @@
       entries.forEach(function (e) {
         if (!e.isIntersecting) return;
         io.unobserve(e.target);
-        var el = e.target, end = +el.getAttribute("data-count"), dur = 1400, t0 = 0;
+        var el = e.target, end = +el.getAttribute("data-count"), dur = 1500, t0 = 0;
         if (RM) { el.textContent = end.toLocaleString("ru-RU"); return; }
         (function step(ts) {
           if (!t0) t0 = ts;
-          var k = Math.min(1, (ts - t0) / dur);
-          var eased = 1 - Math.pow(1 - k, 3);
+          var k = Math.min(1, (ts - t0) / dur), eased = 1 - Math.pow(1 - k, 3);
           el.textContent = Math.round(end * eased).toLocaleString("ru-RU");
           if (k < 1) requestAnimationFrame(step);
         })(0);
@@ -323,73 +237,31 @@
     els.forEach(function (el) { io.observe(el); });
   }
 
-  /* ---------------- РОБОТ-ПЕРСОНАЖ ---------------- */
-  function robotSVG() {
-    return '' +
-'<svg class="robot" viewBox="0 0 220 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Робот INTELLECT">' +
-  '<defs>' +
-    '<linearGradient id="rbody" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a2a30"/><stop offset="1" stop-color="#191920"/></linearGradient>' +
-    '<linearGradient id="rhead" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#33333b"/><stop offset="1" stop-color="#1e1e25"/></linearGradient>' +
-    '<linearGradient id="rgold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F2D27C"/><stop offset="1" stop-color="#D4A017"/></linearGradient>' +
-    '<radialGradient id="rvisor" cx="50%" cy="42%" r="60%"><stop offset="0" stop-color="#2a1420"/><stop offset="1" stop-color="#120b10"/></radialGradient>' +
-  '</defs>' +
-  '<ellipse class="r-shadow" cx="110" cy="226" rx="62" ry="10" fill="#000" opacity="0.5"/>' +
-  '<line x1="110" y1="44" x2="110" y2="20" stroke="url(#rgold)" stroke-width="3"/>' +
-  '<circle class="r-antenna-tip" cx="110" cy="15" r="7" fill="url(#rgold)"/>' +
-  /* руки */
-  '<rect class="r-arm-l" x="20" y="120" width="20" height="64" rx="10" fill="url(#rbody)" stroke="rgba(212,160,23,.4)" stroke-width="1.5"/>' +
-  '<rect class="r-arm-r" x="180" y="120" width="20" height="64" rx="10" fill="url(#rbody)" stroke="rgba(212,160,23,.5)" stroke-width="1.5"/>' +
-  /* корпус */
-  '<rect x="48" y="118" width="124" height="96" rx="26" fill="url(#rbody)" stroke="rgba(212,160,23,.45)" stroke-width="2"/>' +
-  '<circle cx="110" cy="166" r="22" fill="none" stroke="url(#rgold)" stroke-width="2.5" opacity=".9"/>' +
-  '<path d="M110 150 l5 13 13 3 -13 3 -5 13 -5 -13 -13 -3 13 -3z" fill="url(#rgold)"/>' +
-  /* голова */
-  '<rect x="58" y="44" width="104" height="80" rx="28" fill="url(#rhead)" stroke="rgba(212,160,23,.5)" stroke-width="2"/>' +
-  '<rect x="70" y="58" width="80" height="52" rx="22" fill="url(#rvisor)" stroke="rgba(212,160,23,.25)" stroke-width="1.5"/>' +
-  '<circle class="r-eye r-eye-l" cx="93" cy="84" r="8.5" fill="url(#rgold)"/>' +
-  '<circle class="r-eye r-eye-r" cx="127" cy="84" r="8.5" fill="url(#rgold)"/>' +
-  '<rect x="84" y="102" width="52" height="4" rx="2" fill="rgba(212,160,23,.5)"/>' +
-'</svg>';
-  }
-
-  /* монтирует робота в контейнер, навешивает реакцию на мышь и приветствие */
-  function mountRobot(container, opts) {
-    opts = opts || {};
-    container.innerHTML = robotSVG() + (opts.bubble === false ? "" : '<div class="robot-bubble" id="' + (opts.bubbleId || "robot-bubble") + '"></div>');
-    var svg = container.querySelector(".robot");
-    var bubble = container.querySelector(".robot-bubble");
-    var eyes = container.querySelectorAll(".r-eye");
-
-    if (FINE && !RM) {
-      window.addEventListener("pointermove", function (e) {
-        var r = svg.getBoundingClientRect();
-        var cxp = r.left + r.width / 2, cyp = r.top + r.height * 0.35;
-        var dx = Math.max(-3, Math.min(3, (e.clientX - cxp) / 60));
-        var dy = Math.max(-2.5, Math.min(2.5, (e.clientY - cyp) / 60));
-        eyes.forEach(function (ey) { ey.style.transform = "translate(" + dx + "px," + dy + "px)"; });
-      }, { passive: true });
-      svg.addEventListener("pointerenter", function () {
-        svg.classList.add("wave");
-        setTimeout(function () { svg.classList.remove("wave"); }, 1000);
-        if (bubble && opts.hoverText) say(bubble, opts.hoverText, 2600);
+  /* subtle parallax по data-parallax (скорость) */
+  function initParallax() {
+    if (RM) return;
+    var els = [].slice.call(document.querySelectorAll("[data-parallax]"));
+    if (!els.length) return;
+    var ticking = false;
+    function upd() {
+      var vh = window.innerHeight;
+      els.forEach(function (el) {
+        var r = el.getBoundingClientRect();
+        var prog = (r.top + r.height / 2 - vh / 2) / vh;
+        var sp = parseFloat(el.getAttribute("data-parallax")) || 0.1;
+        el.style.transform = "translateY(" + (prog * sp * -100) + "px)";
       });
+      ticking = false;
     }
-    return { svg: svg, bubble: bubble, say: function (t, ms) { if (bubble) say(bubble, t, ms); }, wave: function () {
-      svg.classList.add("wave"); setTimeout(function () { svg.classList.remove("wave"); }, 1000);
-    } };
-  }
-  var bubbleTimer;
-  function say(bubble, text, ms) {
-    bubble.innerHTML = text;
-    bubble.classList.add("show");
-    clearTimeout(bubbleTimer);
-    if (ms) bubbleTimer = setTimeout(function () { bubble.classList.remove("show"); }, ms);
+    window.addEventListener("scroll", function () { if (!ticking) { ticking = true; requestAnimationFrame(upd); } }, { passive: true });
+    upd();
   }
 
   g.INTELLECT = {
-    store: Store, RM: RM, FINE: FINE, TELEGRAM: TELEGRAM,
+    store: Store, RM: RM, TELEGRAM: TELEGRAM,
     esc: esc, fmtDate: fmtDate, articleUrl: articleUrl, coverHTML: coverHTML, chip: chip,
-    initChrome: initChrome, mountRobot: mountRobot,
+    icon: icon, catIcon: catIcon, slug: slug,
+    initChrome: initChrome, initParallax: initParallax,
     onReady: function (fn) {
       if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", fn);
       else fn();

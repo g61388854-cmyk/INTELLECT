@@ -7,13 +7,13 @@
   "use strict";
 
   var CATEGORIES = [
-    { id: "ai",       label: "Искусственный интеллект", short: "ИИ" },
-    { id: "neural",   label: "Нейросети",               short: "Нейросети" },
-    { id: "robotics", label: "Робототехника",           short: "Роботы" },
-    { id: "science",  label: "Наука",                   short: "Наука" },
-    { id: "tech",     label: "Технологии",              short: "Технологии" },
-    { id: "startups", label: "Стартапы",                short: "Стартапы" },
-    { id: "research", label: "Исследования",            short: "Исследования" }
+    { id: "ai",       label: "Искусственный интеллект", short: "ИИ",            icon: "network", tile: true },
+    { id: "neural",   label: "Нейросети",               short: "Нейросети",     icon: "layers",  tile: true },
+    { id: "tech",     label: "Технологии",              short: "Технологии",    icon: "cpu",     tile: true },
+    { id: "robotics", label: "Робототехника",           short: "Роботы",        icon: "hex",     tile: true },
+    { id: "science",  label: "Наука",                   short: "Наука",         icon: "flask",   tile: true },
+    { id: "startups", label: "Стартапы",                short: "Стартапы",      icon: "trend",   tile: true },
+    { id: "research", label: "Исследования",            short: "Исследования",  icon: "compass", tile: false }
   ];
 
   // p() — абзац, h() — подзаголовок, q() — цитата, ul() — список

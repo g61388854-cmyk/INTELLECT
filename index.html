@@ -3,73 +3,63 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>INTELLECT — портал новостей искусственного интеллекта</title>
-<meta name="description" content="INTELLECT — информационный портал об искусственном интеллекте: ежедневные новости, статьи, факт дня и робот-помощник. OpenAI, Anthropic, Google DeepMind, NVIDIA и другие.">
-<meta property="og:title" content="INTELLECT — портал новостей искусственного интеллекта">
-<meta property="og:description" content="Цифровая библиотека знаний будущего. Новости ИИ, статьи, факты и робот-помощник.">
+<title>INTELLECT — интеллектуальный портал об искусственном интеллекте</title>
+<meta name="description" content="INTELLECT — премиальный портал об искусственном интеллекте, технологиях, исследованиях и инновациях. Машинный разум. Человеческий взгляд.">
+<meta property="og:title" content="INTELLECT — портал об искусственном интеллекте">
+<meta property="og:description" content="Машинный разум. Человеческий взгляд. Ежедневные новости и исследования из мира ИИ.">
 <meta property="og:type" content="website">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%23D4A017'/%3E%3Cstop offset='1' stop-color='%238B1E3F'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='14' fill='url(%23g)'/%3E%3Cpath d='M32 12l5 13 13 5-13 5-5 13-5-13-13-5 13-5z' fill='white'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%23E7D6AE'/%3E%3Cstop offset='1' stop-color='%239A7B33'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath d='M16 2.5l11.7 6.75v13.5L16 29.5 4.3 22.75V9.25L16 2.5z' fill='none' stroke='url(%23g)' stroke-width='1.6'/%3E%3Cpath d='M16 9v14M16 9l6 3.5M16 9l-6 3.5M16 23l6-3.5M16 23l-6-3.5' fill='none' stroke='url(%23g)' stroke-width='1.4'/%3E%3Ccircle cx='16' cy='16' r='2.2' fill='url(%23g)'/%3E%3C/svg%3E">
+<script>(function(){try{var t=localStorage.getItem("intellect-theme");document.documentElement.dataset.theme=t==="dark"?"dark":"light";}catch(e){document.documentElement.dataset.theme="light";}})();</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/theme.css">
 <link rel="stylesheet" href="assets/pages.css">
 </head>
 <body>
 
-<div class="bg" aria-hidden="true"><i class="blob b1"></i><i class="blob b2"></i><i class="blob b3"></i><i class="blob b4"></i></div>
-<canvas id="net" aria-hidden="true"></canvas>
-<div class="progress" id="progress"></div>
-<div class="glow" id="glow" aria-hidden="true"></div>
-<div class="grain" aria-hidden="true"></div>
-
-<div id="cursor" aria-hidden="true"><div class="cursor-inner">
-  <svg viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F2D27C"/><stop offset="1" stop-color="#D4A017"/></linearGradient></defs>
-    <path d="M3 5 L25 14 L3 23 L8.5 14 Z" fill="url(#cg)" stroke="rgba(255,255,255,.55)" stroke-width=".6" stroke-linejoin="round"/>
-    <path d="M8.5 14 L25 14" stroke="rgba(139,30,63,.55)" stroke-width=".8"/>
-  </svg>
-</div></div>
-
-<!-- экран приветствия -->
-<div id="welcome" role="dialog" aria-label="Приветствие">
-  <div class="w-stage"><div class="w-ring" aria-hidden="true"></div><div class="w-logo">✦ INTELLECT</div></div>
-  <div class="w-text">Добро пожаловать в пространство искусственного интеллекта</div>
-  <div class="w-skip">нажмите, чтобы пропустить</div>
+<div class="bg" aria-hidden="true">
+  <div class="bg-grid"></div>
+  <div class="bg-pool p1"></div>
+  <div class="bg-pool p2"></div>
+  <div class="bg-vignette"></div>
 </div>
+<div class="progress" id="progress"></div>
 
-<!-- навигация -->
-<header class="nav">
-  <div class="nav-pill" id="nav">
-    <a class="logo" href="#top"><span class="spark">✦</span>INTELLECT</a>
-    <nav class="nav-links" aria-label="Основная навигация">
+<!-- НАВИГАЦИЯ -->
+<header class="nav" id="nav">
+  <div class="nav-inner">
+    <a class="brand" href="#top" aria-label="INTELLECT"><span class="mark" data-logo></span><span class="word">INTELLECT</span></a>
+    <nav class="nav-links" aria-label="Навигация">
       <a href="#feed">Лента</a>
       <a href="#fact">Факт дня</a>
       <a href="#categories">Категории</a>
       <a href="#about">О проекте</a>
     </nav>
     <div class="nav-right">
-      <a class="btn btn-tg btn-small nav-tg" href="https://t.me/ai0090012" target="_blank" rel="noopener">
-        <svg viewBox="0 0 24 24" fill="none"><path d="M21.5 3.6 2.9 10.8c-1 .4-.97 1.4.06 1.7l4.6 1.45 1.77 5.4c.3.9 1.06 1.05 1.7.4l2.5-2.4 4.7 3.4c.8.5 1.6.2 1.8-.8l3-15.2c.3-1.2-.5-1.7-1.53-1.15Z" fill="#D4A017"/><path d="m7.6 13.9 9.7-6.1c.5-.3.9.1.5.5l-7.9 7.3-.4 3.4-1.9-5.1Z" fill="#111"/></svg>
-        <span>Telegram</span>
-      </a>
-      <a class="btn btn-primary btn-small nav-cta" href="#digest">Подписаться</a>
-      <button class="burger" id="burger" aria-label="Открыть меню"><span></span><span></span></button>
+      <a class="nav-tg" href="https://t.me/ai0090012" target="_blank" rel="noopener" data-tg>Telegram</a>
+      <button class="theme-toggle" data-theme-toggle aria-label="Сменить тему">
+        <span class="sun" data-ico="sun"></span><span class="moon" data-ico="moon"></span>
+      </button>
+      <a class="btn btn-primary btn-sm nav-cta" href="#subscribe">Подписаться</a>
+      <button class="burger" id="burger" aria-label="Меню"><span></span><span></span></button>
     </div>
   </div>
 </header>
 
+<!-- МОБИЛЬНОЕ МЕНЮ -->
 <nav class="mobile-menu" id="mobile-menu" aria-label="Мобильное меню">
-  <a href="#feed">Лента</a>
-  <a href="#fact">Факт дня</a>
-  <a href="#categories">Категории</a>
-  <a href="#about">О проекте</a>
-  <a href="https://t.me/ai0090012" target="_blank" rel="noopener">Telegram ✈</a>
+  <a href="#feed">Лента <span>→</span></a>
+  <a href="#fact">Факт дня <span>→</span></a>
+  <a href="#categories">Категории <span>→</span></a>
+  <a href="#about">О проекте <span>→</span></a>
+  <a href="https://t.me/ai0090012" target="_blank" rel="noopener">Telegram <span>↗</span></a>
+  <div class="mm-actions">
+    <a class="btn btn-primary" href="#subscribe">Подписаться</a>
+  </div>
 </nav>
 
-<a class="tg-fab" href="https://t.me/ai0090012" target="_blank" rel="noopener" aria-label="Telegram-канал проекта">
-  <svg viewBox="0 0 24 24" fill="none"><path d="M21.5 3.6 2.9 10.8c-1 .4-.97 1.4.06 1.7l4.6 1.45 1.77 5.4c.3.9 1.06 1.05 1.7.4l2.5-2.4 4.7 3.4c.8.5 1.6.2 1.8-.8l3-15.2c.3-1.2-.5-1.7-1.53-1.15Z" fill="#fff"/><path d="m7.6 13.9 9.7-6.1c.5-.3.9.1.5.5l-7.9 7.3-.4 3.4-1.9-5.1Z" fill="rgba(17,17,17,.55)"/></svg>
-</a>
+<a class="tg-fab" href="https://t.me/ai0090012" target="_blank" rel="noopener" aria-label="Telegram проекта" data-tg-fab></a>
 
 <main>
 
@@ -77,135 +67,134 @@
 <section class="hero">
   <div class="container hero-grid">
     <div class="hero-copy">
-      <div class="live-chip"><span class="dot"></span>LIVE · обновляется каждый день</div>
-      <h1>Машинный разум.<br><span class="grad">Человеческий взгляд.</span></h1>
-      <p class="hero-sub">Информационный портал об искусственном интеллекте: ежедневные новости, глубокие статьи и факты — из мира OpenAI, Anthropic, Google DeepMind, NVIDIA и не только.</p>
+      <span class="eyebrow"><span class="dot"></span> Интеллектуальный портал об ИИ</span>
+      <h1>Машинный разум.<br>Человеческий взгляд.</h1>
+      <p class="hero-sub">Ежедневные новости, исследования, открытия и технологии из мира искусственного интеллекта.</p>
       <div class="hero-actions">
-        <a href="#feed" class="btn btn-primary">Читать ленту</a>
-        <a href="#fact" class="btn btn-ghost">Узнать факт дня</a>
+        <a class="btn btn-primary" href="#feed">Читать новости</a>
+        <a class="btn btn-ghost" href="#fact">Узнать факт дня</a>
       </div>
     </div>
-    <div class="robot-stage">
-      <div class="robot-wrap" id="hero-robot"></div>
+    <div class="cube-stage" aria-hidden="true">
+      <div class="cube-floor"></div>
+      <div class="cube-tilt" id="cube-tilt">
+        <div class="cube">
+          <span class="cf fr"></span><span class="cf bk"></span>
+          <span class="cf rt"></span><span class="cf lf"></span>
+          <span class="cf tp"></span><span class="cf bt"></span>
+          <span class="cube-core"></span>
+        </div>
+      </div>
     </div>
   </div>
 </section>
 
 <!-- СТАТИСТИКА -->
-<section class="section" id="stats" style="padding:24px 0 0">
+<section class="section" id="stats" style="padding:10px 0 40px">
   <div class="container">
-    <div class="statsbar reveal">
-      <div class="s"><b data-count="0" id="stat-articles">0</b><span>публикаций</span></div>
-      <div class="s"><b data-count="0" id="stat-facts">0</b><span>фактов в базе</span></div>
-      <div class="s"><b data-count="0" id="stat-categories">0</b><span>категорий</span></div>
-      <div class="s"><b data-count="0" id="stat-days">0</b><span>дней проекта</span></div>
+    <div class="stats">
+      <div class="stat reveal" data-d="1"><span class="ico" data-ico="doc"></span><b data-count="0" id="st-articles">0</b><span>публикаций</span></div>
+      <div class="stat reveal" data-d="2"><span class="ico" data-ico="quote"></span><b data-count="0" id="st-facts">0</b><span>фактов в базе</span></div>
+      <div class="stat reveal" data-d="3"><span class="ico" data-ico="grid"></span><b data-count="0" id="st-cats">0</b><span>категорий</span></div>
+      <div class="stat reveal" data-d="4"><span class="ico" data-ico="calendar"></span><b data-count="0" id="st-days">0</b><span>дней проекта</span></div>
     </div>
   </div>
 </section>
-
-<!-- бегущая строка -->
-<div class="ticker" aria-label="Срочные новости" style="margin-top:64px">
-  <div class="ticker-track" id="ticker"></div>
-</div>
 
 <!-- ФАКТ ДНЯ -->
-<section class="section" id="fact">
+<section class="section" id="fact" style="padding-top:40px">
   <div class="container">
-    <div class="fact-card reveal">
-      <span class="aura" aria-hidden="true"></span>
-      <div class="fact-left">
-        <div class="fact-deck" id="fact-deck" aria-hidden="true">
-          <span class="pc"></span><span class="pc"></span><span class="pc"><i>✦</i></span>
-        </div>
-        <div id="fact-robot" style="width:120px"></div>
-      </div>
-      <div class="fact-body">
-        <div class="kicker">// Факт дня об искусственном интеллекте</div>
-        <p class="fact-text" id="fact-text">Нажмите кнопку, чтобы робот достал случайный факт из колоды знаний.</p>
-        <div class="fact-meta">
-          <button class="btn btn-primary" id="fact-btn">Узнать новый факт</button>
-          <span class="fact-count" id="fact-count"></span>
+    <div class="fact reveal">
+      <div class="fact-inner">
+        <div class="fact-badge" id="fact-badge"><span class="q">“</span></div>
+        <div class="fact-main">
+          <span class="eyebrow">Факт дня об ИИ</span>
+          <p class="fact-text" id="fact-text">Нажмите кнопку — и узнайте случайный факт об искусственном интеллекте.</p>
+          <div class="fact-actions">
+            <button class="btn btn-primary" id="fact-btn">Узнать новый факт</button>
+            <span class="fact-count" id="fact-count"></span>
+          </div>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- МАТЕРИАЛ ДНЯ -->
-<section class="section" id="news" style="padding-top:0">
+<!-- ГЛАВНАЯ ПУБЛИКАЦИЯ -->
+<section class="section" id="featured" style="padding-top:0">
   <div class="container">
-    <div class="section-head reveal"><div class="kicker">// Главное</div><h2>Материал дня</h2></div>
-    <article class="featured reveal" id="featured" aria-label="Главный материал">
-      <span class="gloss" aria-hidden="true"></span>
-      <div class="featured-art" aria-hidden="true">
-        <div class="ring r1"></div><div class="ring r2"></div><div class="ring r3"></div>
-        <div class="core"></div><div class="sat"></div>
-      </div>
-      <div class="featured-body" id="featured-body"><!-- из данных --></div>
-    </article>
+    <div class="section-head reveal">
+      <span class="eyebrow">Главное сегодня</span>
+      <h2>Материал дня</h2>
+    </div>
+    <article class="feature reveal" id="feature"></article>
   </div>
 </section>
 
-<!-- ЛЕНТА + КАТЕГОРИИ -->
+<!-- КАТЕГОРИИ -->
+<section class="section" id="categories" style="padding-top:0">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="eyebrow">Разделы</span>
+      <h2>Категории</h2>
+      <p>Шесть направлений, в которых мы следим за развитием искусственного интеллекта.</p>
+    </div>
+    <div class="tiles" id="tiles"></div>
+  </div>
+</section>
+
+<!-- ЛЕНТА -->
 <section class="section" id="feed" style="padding-top:0">
   <div class="container">
-    <div class="section-head center reveal" id="categories">
-      <div class="kicker">// Лента публикаций</div>
+    <div class="section-head reveal">
+      <span class="eyebrow">Лента публикаций</span>
       <h2>Последние новости</h2>
-      <p>Выбирайте категорию — лента обновится. Нажмите на карточку, чтобы открыть полную статью.</p>
+      <p>Свежие материалы из мира ИИ. Выберите категорию или откройте статью целиком.</p>
     </div>
-    <div class="filterbar reveal" id="filterbar" role="tablist" aria-label="Категории новостей"></div>
+    <div class="filter reveal" id="filter" role="tablist" aria-label="Категории"></div>
     <div class="feed" id="feed-grid"></div>
     <div class="feed-more"><button class="btn btn-ghost" id="feed-more" style="display:none">Показать ещё</button></div>
   </div>
 </section>
 
-<!-- TELEGRAM -->
-<section class="section" id="telegram" style="padding-top:0">
+<!-- ПОДПИСКА -->
+<section class="section" id="subscribe" style="padding-top:0">
   <div class="container">
-    <div class="tg-block reveal">
-      <span class="aura" aria-hidden="true"></span>
-      <span class="tg-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M21.5 3.6 2.9 10.8c-1 .4-.97 1.4.06 1.7l4.6 1.45 1.77 5.4c.3.9 1.06 1.05 1.7.4l2.5-2.4 4.7 3.4c.8.5 1.6.2 1.8-.8l3-15.2c.3-1.2-.5-1.7-1.53-1.15Z" fill="#fff"/><path d="m7.6 13.9 9.7-6.1c.5-.3.9.1.5.5l-7.9 7.3-.4 3.4-1.9-5.1Z" fill="rgba(17,17,17,.55)"/></svg></span>
+    <div class="cta reveal">
+      <span class="t-ico" data-ico="telegram"></span>
       <h2>Следите за развитием проекта</h2>
-      <p>Все новости, обновления сайта, материалы об искусственном интеллекте и новые публикации размещаются в Telegram-канале проекта.</p>
-      <a class="btn btn-primary" href="https://t.me/ai0090012" target="_blank" rel="noopener">Перейти в Telegram</a>
-    </div>
-  </div>
-</section>
-
-<!-- ДАЙДЖЕСТ -->
-<section class="section" id="digest" style="padding-top:0">
-  <div class="container">
-    <div class="digest reveal">
-      <span class="aura" aria-hidden="true"></span>
-      <span class="chip cat-ai">Рассылка</span>
-      <h2>Сигнал без шума — раз в неделю</h2>
-      <p>Один выпуск: пять главных событий, одно глубокое чтение и инструмент, который стоит попробовать. Читается за пять минут.</p>
-      <form class="digest-form" id="digest-form">
-        <input type="email" required placeholder="ваша@почта.ru" aria-label="Электронная почта">
-        <button class="btn btn-primary" type="submit" id="digest-btn">Получать дайджест</button>
+      <p>Все новости, обновления и публикации об искусственном интеллекте выходят в Telegram-канале проекта. Присоединяйтесь.</p>
+      <a class="btn btn-primary" href="https://t.me/ai0090012" target="_blank" rel="noopener" style="margin-top:30px">Перейти в Telegram</a>
+      <form class="cta-form" id="cta-form">
+        <input type="email" required placeholder="email для еженедельного дайджеста" aria-label="Email">
+        <button class="btn btn-ghost" type="submit" id="cta-btn">Подписаться на дайджест</button>
       </form>
-      <div class="digest-note">Без спама. Отписка в один клик.</div>
-      <div class="digest-ok">Готово! Проверьте почту — первое письмо уже летит ✦</div>
+      <div class="cta-note">Без спама. Отписка в один клик.</div>
+      <div class="cta-ok">Готово — первое письмо уже летит.</div>
     </div>
   </div>
 </section>
 
-<!-- КАК СОЗДАВАЛСЯ ПРОЕКТ -->
+<!-- О ПРОЕКТЕ -->
 <section class="section" id="about" style="padding-top:0">
   <div class="container">
-    <div class="accordion reveal" id="accordion">
-      <button class="acc-head" id="acc-head" aria-expanded="false" aria-controls="acc-body">
-        <h2>Как создавался проект</h2>
-        <span class="acc-icon" aria-hidden="true">+</span>
-      </button>
-      <div class="acc-body" id="acc-body" role="region" aria-labelledby="acc-head">
-        <div class="acc-text">
-          Проект INTELLECT создан с использованием современных технологий искусственного интеллекта.
-          Разработка структуры, программного кода, отдельных дизайнерских решений и цифрового контента
-          выполнялась при активном использовании ИИ-систем под управлением автора проекта.
-          <em>// человек ставит задачу — машина помогает её решить</em>
+    <div class="section-head reveal">
+      <span class="eyebrow">О проекте</span>
+      <h2>Что такое INTELLECT</h2>
+    </div>
+    <div class="about">
+      <div class="about-card reveal">
+        <h3>Интеллектуальная платформа</h3>
+        <p>INTELLECT — премиальный портал об искусственном интеллекте, технологиях, исследованиях, робототехнике и инновациях. Мы рассказываем о машинном разуме человеческим языком: без хайпа, но с вниманием к деталям, которые определяют будущее.</p>
+        <div class="author">
+          <span>Автор проекта</span>
+          <b>Хучиев Рамзан Рустамович</b>
         </div>
+      </div>
+      <div class="about-card reveal" data-d="1">
+        <h3>Как создавался проект</h3>
+        <p>Проект INTELLECT создан с использованием современных технологий искусственного интеллекта. Разработка структуры, программного кода, отдельных дизайнерских решений и цифрового контента выполнялась при активном использовании ИИ-систем под управлением автора проекта.</p>
+        <p style="margin-top:14px;color:var(--txt-3);font-size:13.5px">Материалы регулярно обновляются. Актуальные публикации — в Telegram-канале проекта.</p>
       </div>
     </div>
   </div>
@@ -216,24 +205,23 @@
 <footer>
   <div class="container footer-inner">
     <div class="footer-brand">
-      <a class="logo" href="#top"><span class="spark">✦</span>INTELLECT</a>
-      <p>Проект создан с использованием современных технологий искусственного интеллекта. Цифровая библиотека знаний будущего.</p>
-      <div class="footer-author"><span>Автор проекта</span><b>Хучиев Рамзан Рустамович</b></div>
+      <a class="brand" href="#top"><span class="mark" data-logo></span><span class="word">INTELLECT</span></a>
+      <p>Премиальный портал об искусственном интеллекте, технологиях и будущем. Машинный разум. Человеческий взгляд.</p>
     </div>
-    <div class="footer-cols">
+    <div class="footer-col">
       <h5>Разделы</h5>
       <a href="#feed">Лента</a><a href="#fact">Факт дня</a><a href="#categories">Категории</a><a href="#about">О проекте</a>
     </div>
-    <div class="footer-cols">
-      <h5>Telegram-канал проекта</h5>
+    <div class="footer-col">
+      <h5>Telegram-канал</h5>
       <a href="https://t.me/ai0090012" target="_blank" rel="noopener">t.me/ai0090012</a>
-      <a href="https://t.me/ai0090012" target="_blank" rel="noopener">Перейти в Telegram ✈</a>
-      <p class="footer-note">Материалы сайта регулярно обновляются. Актуальные новости и публикации доступны в Telegram-канале проекта.</p>
+      <a href="https://t.me/ai0090012" target="_blank" rel="noopener">Подписаться ↗</a>
+      <p class="footer-note">Актуальные новости и публикации доступны в Telegram-канале проекта.</p>
     </div>
   </div>
   <div class="container footer-bottom">
-    <span>© <span id="year">2026</span> INTELLECT. Все права защищены.</span>
-    <span>Сделано людьми вместе с машинами ✦</span>
+    <span>© <span id="year">2026</span> INTELLECT · Автор: Хучиев Рамзан Рустамович</span>
+    <span>Сделано людьми вместе с машинами</span>
   </div>
 </footer>
 
