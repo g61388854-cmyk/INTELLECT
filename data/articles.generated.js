@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-13T09:28:41.715Z */
+/* Обновлено: 2026-06-14T09:50:36.322Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-new-openai-academy-courses-for-the-next-era",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-13T09:28:41.715Z";
+window.INTELLECT_GENERATED_AT = "2026-06-14T09:50:36.323Z";
