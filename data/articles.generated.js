@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-14T09:50:36.322Z */
+/* Обновлено: 2026-06-15T12:36:01.902Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-introducing-the-openai-partner-network",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing the OpenAI Partner Network",
+    "excerpt": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-14",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-openai-partner-network",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-new-openai-academy-courses-for-the-next-era",
     "category": "ai",
@@ -78,27 +99,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-bbva-puts-ai-at-the-core-of-banking-with-op",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "excerpt": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-11",
-    "readMins": 3,
-    "link": "https://openai.com/index/bbva",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
       },
       {
         "t": "p",
@@ -212,15 +212,15 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-introducing-north-mini-code-cohere-s-",
+    "id": "hugging-face-how-an-agent-built-a-3d-paris-gallery",
     "category": "ai",
     "source": "Hugging Face",
-    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
     "excerpt": "Подробности — в полном материале на сайте источника.",
     "author": "Лента Hugging Face",
     "date": "2026-06-09",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
     "body": [
       {
         "t": "p",
@@ -233,15 +233,15 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-how-an-agent-built-a-3d-paris-gallery",
+    "id": "hugging-face-migrating-your-github-ci-to-hugging-f",
     "category": "ai",
     "source": "Hugging Face",
-    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
     "excerpt": "Подробности — в полном материале на сайте источника.",
     "author": "Лента Hugging Face",
     "date": "2026-06-09",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "link": "https://huggingface.co/blog/github-ci-hf-jobs",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-14T09:50:36.323Z";
+window.INTELLECT_GENERATED_AT = "2026-06-15T12:36:01.902Z";
