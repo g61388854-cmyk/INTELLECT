@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-15T12:36:01.902Z */
+/* Обновлено: 2026-06-16T11:28:33.558Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-introducing-the-openai-partner-network",
@@ -86,19 +86,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-supporting-europe-s-work-in-ensuring-a-trus",
+    "id": "openai-openai-to-acquire-ona",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "excerpt": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "title": "OpenAI to acquire Ona",
+    "excerpt": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
     "author": "Лента OpenAI",
     "date": "2026-06-11",
     "readMins": 3,
-    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "link": "https://openai.com/index/openai-to-acquire-ona",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
+        "c": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-15T12:36:01.902Z";
+window.INTELLECT_GENERATED_AT = "2026-06-16T11:28:33.558Z";
