@@ -1,6 +1,90 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-16T11:28:33.558Z */
+/* Обновлено: 2026-06-17T11:11:35.483Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-from-the-hugging-face-hub-to-robot-ha",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-17",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-glm-5-2-built-for-long-horizon-tasks",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-17",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-predicting-model-behavior-before-release-by",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "excerpt": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/deployment-simulation",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-unlocking-uk-house-building-with-a",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "excerpt": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-06-16",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "body": [
+      {
+        "t": "p",
+        "c": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-introducing-the-openai-partner-network",
     "category": "ai",
@@ -78,27 +162,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-openai-to-acquire-ona",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "OpenAI to acquire Ona",
-    "excerpt": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-11",
-    "readMins": 3,
-    "link": "https://openai.com/index/openai-to-acquire-ona",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
       },
       {
         "t": "p",
@@ -191,69 +254,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "google-deepmind-introducing-gemma-4-12b-a-unified-",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-06-09",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-how-an-agent-built-a-3d-paris-gallery",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-09",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-migrating-your-github-ci-to-hugging-f",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-09",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/github-ci-hf-jobs",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "nvidia-nvidia-rubin-platform-open-models-autonomou",
     "category": "tech",
     "source": "NVIDIA",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-16T11:28:33.558Z";
+window.INTELLECT_GENERATED_AT = "2026-06-17T11:11:35.483Z";
