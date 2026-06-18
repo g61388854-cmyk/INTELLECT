@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-17T11:11:35.483Z */
+/* Обновлено: 2026-06-18T10:42:40.563Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-a-near-autonomous-ai-chemist-improves-a-cha",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "excerpt": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-17",
+    "readMins": 3,
+    "link": "https://openai.com/index/ai-chemist-improves-reaction",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-introducing-lifescibench",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing LifeSciBench",
+    "excerpt": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-17",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-life-sci-bench",
+    "body": [
+      {
+        "t": "p",
+        "c": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-molmomotion-language-guided-3d-motion",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-17",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/molmomotion",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-from-the-hugging-face-hub-to-robot-ha",
     "category": "ai",
@@ -32,6 +95,27 @@ window.INTELLECT_GENERATED = [
     "date": "2026-06-17",
     "readMins": 3,
     "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-agentic-resource-discovery-let-agents",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-17",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
     "body": [
       {
         "t": "p",
@@ -99,90 +183,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-new-openai-academy-courses-for-the-next-era",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "New OpenAI Academy courses for the next era of work",
-    "excerpt": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-12",
-    "readMins": 3,
-    "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-preply-combines-ai-and-human-tutors-to-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Preply combines AI and human tutors to personalize learning",
-    "excerpt": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-12",
-    "readMins": 3,
-    "link": "https://openai.com/index/preply",
-    "body": [
-      {
-        "t": "p",
-        "c": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-olmo-eval-an-evaluation-workbench-for",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "olmo-eval: An evaluation workbench for the model development loop",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-12",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/olmo-eval",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-profiling-in-pytorch-part-2-from-nn-l",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-11",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/torch-mlp-fusion",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-17T11:11:35.483Z";
+window.INTELLECT_GENERATED_AT = "2026-06-18T10:42:40.563Z";
