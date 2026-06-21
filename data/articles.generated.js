@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-20T09:30:53.287Z */
+/* Обновлено: 2026-06-21T10:01:18.045Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-new-usage-analytics-and-updated-spend-contr",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-20T09:30:53.287Z";
+window.INTELLECT_GENERATED_AT = "2026-06-21T10:01:18.045Z";
