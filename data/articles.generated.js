@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-21T10:01:18.045Z */
+/* Обновлено: 2026-06-22T12:21:24.394Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-samsung-electronics-brings-chatgpt-and-code",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "excerpt": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-21",
+    "readMins": 3,
+    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "body": [
+      {
+        "t": "p",
+        "c": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-new-usage-analytics-and-updated-spend-contr",
     "category": "ai",
@@ -120,27 +141,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-a-near-autonomous-ai-chemist-improves-a-cha",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "excerpt": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-17",
-    "readMins": 3,
-    "link": "https://openai.com/index/ai-chemist-improves-reaction",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-21T10:01:18.045Z";
+window.INTELLECT_GENERATED_AT = "2026-06-22T12:21:24.394Z";
