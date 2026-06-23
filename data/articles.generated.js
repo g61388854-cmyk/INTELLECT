@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-22T12:21:24.394Z */
+/* Обновлено: 2026-06-23T09:58:43.413Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-samsung-electronics-brings-chatgpt-and-code",
+    "id": "openai-how-omio-is-building-the-future-of-conversa",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "excerpt": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "title": "How Omio is building the future of conversational travel",
+    "excerpt": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
     "author": "Лента OpenAI",
-    "date": "2026-06-21",
+    "date": "2026-06-23",
     "readMins": 3,
-    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "link": "https://openai.com/index/omio",
     "body": [
       {
         "t": "p",
-        "c": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
+        "c": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-new-usage-analytics-and-updated-spend-contr",
+    "id": "hugging-face-shipping-huggingface-hub-every-week-w",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "excerpt": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-18",
+    "source": "Hugging Face",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-23",
     "readMins": 3,
-    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -44,19 +44,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-improving-health-intelligence-in-chatgpt",
+    "id": "openai-daybreak-tools-for-securing-every-organizat",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Improving health intelligence in ChatGPT",
-    "excerpt": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "excerpt": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
     "author": "Лента OpenAI",
-    "date": "2026-06-18",
+    "date": "2026-06-22",
     "readMins": 3,
-    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
     "body": [
       {
         "t": "p",
-        "c": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations."
+        "c": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
       },
       {
         "t": "p",
@@ -65,19 +65,82 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-using-ai-to-help-physicians-diagnose-rare-g",
+    "id": "openai-patch-the-planet-a-daybreak-initiative-to-s",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "excerpt": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "excerpt": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
     "author": "Лента OpenAI",
-    "date": "2026-06-18",
+    "date": "2026-06-22",
     "readMins": 3,
-    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "link": "https://openai.com/index/patch-the-planet",
     "body": [
       {
         "t": "p",
-        "c": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
+        "c": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-codex-maxxing-for-long-running-work",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Codex-maxxing for long-running work",
+    "excerpt": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-22",
+    "readMins": 3,
+    "link": "https://openai.com/index/codex-maxxing-long-running-work",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-pp-ocrv6-on-hugging-face-50-language-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-22",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-we-got-local-models-to-triage-the-ope",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-22",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/local-models-pr-triage",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -95,69 +158,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-06-18",
     "readMins": 3,
     "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-beyond-lora-can-you-beat-the-most-pop",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-18",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/peft-beyond-lora",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-is-it-agentic-enough-benchmarking-ope",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-18",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/is-it-agentic-enough",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-molmomotion-language-guided-3d-motion",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "MolmoMotion: Language-guided 3D motion forecasting",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-17",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/molmomotion",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-22T12:21:24.394Z";
+window.INTELLECT_GENERATED_AT = "2026-06-23T09:58:43.413Z";
