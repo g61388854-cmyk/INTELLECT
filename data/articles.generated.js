@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-23T09:58:43.413Z */
+/* Обновлено: 2026-06-24T09:46:18.639Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-helping-build-shared-standards-for-advanced",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Helping build shared standards for advanced AI",
+    "excerpt": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-23",
+    "readMins": 3,
+    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-gpt-5-helped-immunologist-derya-unutmaz",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "excerpt": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-23",
+    "readMins": 3,
+    "link": "https://openai.com/index/gpt-5-immunology-mystery",
+    "body": [
+      {
+        "t": "p",
+        "c": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-omio-is-building-the-future-of-conversa",
     "category": "ai",
@@ -23,6 +65,27 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
+    "id": "hugging-face-build-real-agentic-apps-using-cuga-tw",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-23",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
     "id": "hugging-face-shipping-huggingface-hub-every-week-w",
     "category": "ai",
     "source": "Hugging Face",
@@ -32,6 +95,27 @@ window.INTELLECT_GENERATED = [
     "date": "2026-06-23",
     "readMins": 3,
     "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-experimenting-with-the-proposed-cross",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-23",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/cross-origin-storage",
     "body": [
       {
         "t": "p",
@@ -65,48 +149,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-patch-the-planet-a-daybreak-initiative-to-s",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "excerpt": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-22",
-    "readMins": 3,
-    "link": "https://openai.com/index/patch-the-planet",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-codex-maxxing-for-long-running-work",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Codex-maxxing for long-running work",
-    "excerpt": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-22",
-    "readMins": 3,
-    "link": "https://openai.com/index/codex-maxxing-long-running-work",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-pp-ocrv6-on-hugging-face-50-language-",
     "category": "ai",
     "source": "Hugging Face",
@@ -116,48 +158,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-06-22",
     "readMins": 3,
     "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-we-got-local-models-to-triage-the-ope",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "We got local models to triage the OpenClaw repo for FREE!*",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-22",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/local-models-pr-triage",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-mosaicleaks-can-your-research-agent-k",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "MosaicLeaks: Can your research agent keep a secret?",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-18",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-23T09:58:43.413Z";
+window.INTELLECT_GENERATED_AT = "2026-06-24T09:46:18.639Z";
