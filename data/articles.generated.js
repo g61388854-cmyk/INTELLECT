@@ -1,6 +1,111 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-24T09:46:18.639Z */
+/* Обновлено: 2026-06-25T09:37:44.305Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-how-agents-are-transforming-work",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How agents are transforming work",
+    "excerpt": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-25",
+    "readMins": 3,
+    "link": "https://openai.com/index/how-agents-are-transforming-work",
+    "body": [
+      {
+        "t": "p",
+        "c": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-openai-and-broadcom-unveil-llm-optimized-in",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "excerpt": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-24",
+    "readMins": 3,
+    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-introducing-computer-use-in-gemini",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-06-24",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-accelerating-transformers-fine-tuning",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-24",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-introducing-the-ffasr-leaderboard-ben",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-24",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ffasr-leaderboard",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-helping-build-shared-standards-for-advanced",
     "category": "ai",
@@ -44,27 +149,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-omio-is-building-the-future-of-conversa",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Omio is building the future of conversational travel",
-    "excerpt": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-23",
-    "readMins": 3,
-    "link": "https://openai.com/index/omio",
-    "body": [
-      {
-        "t": "p",
-        "c": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-build-real-agentic-apps-using-cuga-tw",
     "category": "ai",
     "source": "Hugging Face",
@@ -95,69 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-06-23",
     "readMins": 3,
     "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-experimenting-with-the-proposed-cross",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-23",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/cross-origin-storage",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-daybreak-tools-for-securing-every-organizat",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "excerpt": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-22",
-    "readMins": 3,
-    "link": "https://openai.com/index/daybreak-securing-the-world",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-pp-ocrv6-on-hugging-face-50-language-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-22",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
     "body": [
       {
         "t": "p",
@@ -225,27 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-investing-in-multi-agent-ai-safety",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Investing in multi-agent AI safety research",
-    "excerpt": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-06-10",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-24T09:46:18.639Z";
+window.INTELLECT_GENERATED_AT = "2026-06-25T09:37:44.305Z";
