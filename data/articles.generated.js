@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-25T09:37:44.305Z */
+/* Обновлено: 2026-06-26T09:44:19.183Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-run-a-vllm-server-on-hf-jobs-in-one-c",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-26",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/vllm-jobs",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-agents-are-transforming-work",
     "category": "ai",
@@ -15,6 +36,27 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-which-tokens-does-a-hybrid-model-pred",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Which tokens does a hybrid model predict better?",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-25",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -141,48 +183,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-build-real-agentic-apps-using-cuga-tw",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-23",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-shipping-huggingface-hub-every-week-w",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-23",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-25T09:37:44.305Z";
+window.INTELLECT_GENERATED_AT = "2026-06-26T09:44:19.183Z";
