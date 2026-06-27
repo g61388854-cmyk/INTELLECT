@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-26T09:44:19.183Z */
+/* Обновлено: 2026-06-27T08:47:13.938Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-previewing-gpt-5-6-sol-a-next-generation-mo",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "excerpt": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-26",
+    "readMins": 3,
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-run-a-vllm-server-on-hf-jobs-in-one-c",
     "category": "ai",
@@ -170,27 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-gpt-5-helped-immunologist-derya-unutmaz",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "excerpt": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-23",
-    "readMins": 3,
-    "link": "https://openai.com/index/gpt-5-immunology-mystery",
-    "body": [
-      {
-        "t": "p",
-        "c": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-unlocking-uk-house-building-with-a",
     "category": "research",
     "source": "Google DeepMind",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-26T09:44:19.183Z";
+window.INTELLECT_GENERATED_AT = "2026-06-27T08:47:13.938Z";
