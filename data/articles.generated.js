@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-27T08:47:13.938Z */
+/* Обновлено: 2026-06-28T09:24:51.683Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-previewing-gpt-5-6-sol-a-next-generation-mo",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-27T08:47:13.938Z";
+window.INTELLECT_GENERATED_AT = "2026-06-28T09:24:51.683Z";
