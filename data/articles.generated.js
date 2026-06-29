@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-28T09:24:51.683Z */
+/* Обновлено: 2026-06-29T11:18:38.668Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-mapping-europe-s-ai-workforce-opportunity",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "excerpt": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-29",
+    "readMins": 3,
+    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "body": [
+      {
+        "t": "p",
+        "c": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-hp-inc-launches-frontier-strategic-partners",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "excerpt": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-28",
+    "readMins": 3,
+    "link": "https://openai.com/index/hp-frontier-partnership",
+    "body": [
+      {
+        "t": "p",
+        "c": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-previewing-gpt-5-6-sol-a-next-generation-mo",
     "category": "ai",
@@ -86,27 +128,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-openai-and-broadcom-unveil-llm-optimized-in",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "excerpt": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-24",
-    "readMins": 3,
-    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-computer-use-in-gemini",
     "category": "research",
     "source": "Google DeepMind",
@@ -162,27 +183,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-helping-build-shared-standards-for-advanced",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Helping build shared standards for advanced AI",
-    "excerpt": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-23",
-    "readMins": 3,
-    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-28T09:24:51.683Z";
+window.INTELLECT_GENERATED_AT = "2026-06-29T11:18:38.668Z";
