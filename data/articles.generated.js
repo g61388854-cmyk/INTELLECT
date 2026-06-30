@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-29T11:18:38.668Z */
+/* Обновлено: 2026-06-30T09:55:40.364Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-mapping-europe-s-ai-workforce-opportunity",
@@ -15,6 +15,27 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-discoformer-one-transformer-for-densi",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-29",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/discoformer",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -99,27 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-which-tokens-does-a-hybrid-model-pred",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Which tokens does a hybrid model predict better?",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-25",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-29T11:18:38.668Z";
+window.INTELLECT_GENERATED_AT = "2026-06-30T09:55:40.364Z";
