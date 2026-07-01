@@ -1,20 +1,167 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-06-30T09:55:40.364Z */
+/* Обновлено: 2026-07-01T10:05:11.167Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-mapping-europe-s-ai-workforce-opportunity",
+    "id": "openai-how-chatgpt-adoption-has-expanded",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Mapping Europe’s AI Workforce Opportunity",
-    "excerpt": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "title": "How ChatGPT adoption has expanded",
+    "excerpt": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
     "author": "Лента OpenAI",
-    "date": "2026-06-29",
+    "date": "2026-06-30",
     "readMins": 3,
-    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "body": [
       {
         "t": "p",
-        "c": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
+        "c": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-introducing-genebench-pro",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing GeneBench-Pro",
+    "excerpt": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-30",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "body": [
+      {
+        "t": "p",
+        "c": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-core-dump-epidemiology-fixing-an-18-year-ol",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "excerpt": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-30",
+    "readMins": 3,
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-inside-genebench-pro",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Inside Genebench-Pro",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-30",
+    "readMins": 3,
+    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-start-building-with-nano-banana-2-",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-06-30",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-scarfbench-benchmarking-ai-agents-for",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-30",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-why-specialization-is-inevitable",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Why Specialization Is Inevitable",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-30",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-featuring-every-eval-ever-results-on-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-06-30",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/eee-community-evals",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -44,90 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-hp-inc-launches-frontier-strategic-partners",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "excerpt": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-28",
-    "readMins": 3,
-    "link": "https://openai.com/index/hp-frontier-partnership",
-    "body": [
-      {
-        "t": "p",
-        "c": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-previewing-gpt-5-6-sol-a-next-generation-mo",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "excerpt": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-26",
-    "readMins": 3,
-    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-run-a-vllm-server-on-hf-jobs-in-one-c",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Run a vLLM Server on HF Jobs in One Command",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-26",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/vllm-jobs",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-agents-are-transforming-work",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How agents are transforming work",
-    "excerpt": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-25",
-    "readMins": 3,
-    "link": "https://openai.com/index/how-agents-are-transforming-work",
-    "body": [
-      {
-        "t": "p",
-        "c": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-computer-use-in-gemini",
     "category": "research",
     "source": "Google DeepMind",
@@ -137,48 +200,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-06-24",
     "readMins": 3,
     "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-accelerating-transformers-fine-tuning",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-24",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-introducing-the-ffasr-leaderboard-ben",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-24",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ffasr-leaderboard",
     "body": [
       {
         "t": "p",
@@ -225,27 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-diffusiongemma-4x-faster-text-gene",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "DiffusionGemma: 4x faster text generation",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-06-10",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-06-30T09:55:40.364Z";
+window.INTELLECT_GENERATED_AT = "2026-07-01T10:05:11.167Z";
