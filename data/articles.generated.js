@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-01T10:05:11.167Z */
+/* Обновлено: 2026-07-02T09:27:32.191Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-hugging-face-and-cerebras-bring-gemma",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-01",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-chatgpt-adoption-has-expanded",
     "category": "ai",
@@ -15,6 +36,27 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-inside-genebench-pro",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Inside Genebench-Pro",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента OpenAI",
+    "date": "2026-06-30",
+    "readMins": 3,
+    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -57,27 +99,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-inside-genebench-pro",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Inside Genebench-Pro",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-30",
-    "readMins": 3,
-    "link": "https://openai.com/index/genebench-pro/case-studies",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -158,27 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-06-30",
     "readMins": 3,
     "link": "https://huggingface.co/blog/eee-community-evals",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-discoformer-one-transformer-for-densi",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "DiScoFormer: One transformer for density and score, across distributions",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-29",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/discoformer",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-01T10:05:11.167Z";
+window.INTELLECT_GENERATED_AT = "2026-07-02T09:27:32.191Z";
