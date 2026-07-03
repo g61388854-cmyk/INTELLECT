@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-02T09:27:32.191Z */
+/* Обновлено: 2026-07-03T09:31:22.669Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "hugging-face-hugging-face-and-cerebras-bring-gemma",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-02T09:27:32.191Z";
+window.INTELLECT_GENERATED_AT = "2026-07-03T09:31:22.669Z";
