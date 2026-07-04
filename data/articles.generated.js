@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-03T09:31:22.669Z */
+/* Обновлено: 2026-07-04T08:47:52.059Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "google-deepmind-google-deepmind-and-a24-announce-f",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-07-03",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-hugging-face-and-cerebras-bring-gemma",
     "category": "ai",
@@ -233,27 +254,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "google-deepmind-securing-the-future-of-ai-agents",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Securing the future of AI agents",
-    "excerpt": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-06-16",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "nvidia-nvidia-rubin-platform-open-models-autonomou",
     "category": "tech",
     "source": "NVIDIA",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-03T09:31:22.669Z";
+window.INTELLECT_GENERATED_AT = "2026-07-04T08:47:52.059Z";
