@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-04T08:47:52.059Z */
+/* Обновлено: 2026-07-05T09:18:27.119Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "google-deepmind-google-deepmind-and-a24-announce-f",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-04T08:47:52.059Z";
+window.INTELLECT_GENERATED_AT = "2026-07-05T09:18:27.119Z";
