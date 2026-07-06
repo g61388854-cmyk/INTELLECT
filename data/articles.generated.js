@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-05T09:18:27.119Z */
+/* Обновлено: 2026-07-06T10:55:07.947Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-kernels-major-updates",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "🤗 Kernels: Major Updates",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-06",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/revamped-kernels",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "google-deepmind-google-deepmind-and-a24-announce-f",
     "category": "research",
@@ -191,27 +212,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-featuring-every-eval-ever-results-on-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-30",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/eee-community-evals",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-computer-use-in-gemini",
     "category": "research",
     "source": "Google DeepMind",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-05T09:18:27.119Z";
+window.INTELLECT_GENERATED_AT = "2026-07-06T10:55:07.947Z";
