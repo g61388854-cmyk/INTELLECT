@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-06T10:55:07.947Z */
+/* Обновлено: 2026-07-07T09:56:31.510Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-lerobot-v0-6-0-imagine-evaluate-impro",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-07",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/lerobot-release-v060",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-prx-part-4-our-data-strategy",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "PRX Part 4: Our Data Strategy",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-06",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-kernels-major-updates",
     "category": "ai",
@@ -86,19 +128,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-inside-genebench-pro",
+    "id": "openai-core-dump-epidemiology-fixing-an-18-year-ol",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Inside Genebench-Pro",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "excerpt": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
     "author": "Лента OpenAI",
     "date": "2026-06-30",
     "readMins": 3,
-    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "body": [
       {
         "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
+        "c": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
       },
       {
         "t": "p",
@@ -128,19 +170,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-core-dump-epidemiology-fixing-an-18-year-ol",
+    "id": "openai-inside-genebench-pro",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "excerpt": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "title": "Inside Genebench-Pro",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
     "author": "Лента OpenAI",
     "date": "2026-06-30",
     "readMins": 3,
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -158,48 +200,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-06-30",
     "readMins": 3,
     "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-scarfbench-benchmarking-ai-agents-for",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-30",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-why-specialization-is-inevitable",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Why Specialization Is Inevitable",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-06-30",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-06T10:55:07.947Z";
+window.INTELLECT_GENERATED_AT = "2026-07-07T09:56:31.510Z";
