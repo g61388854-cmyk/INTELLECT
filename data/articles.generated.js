@@ -1,6 +1,111 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-07T09:56:31.510Z */
+/* Обновлено: 2026-07-08T08:40:41.476Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-australian-payments-plus-moves-faster-with-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "excerpt": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-07",
+    "readMins": 3,
+    "link": "https://openai.com/index/australian-payments-plus",
+    "body": [
+      {
+        "t": "p",
+        "c": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-mufg-aims-to-become-ai-native-with-openai",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "excerpt": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-07",
+    "readMins": 3,
+    "link": "https://openai.com/index/mufg",
+    "body": [
+      {
+        "t": "p",
+        "c": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-from-hugging-face-to-amazon-sagemaker",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-07",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-hugging-face-models-on-foundry-manage",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-07",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-run-ai-workloads-on-any-cloud-store-o",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-07",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/skypilot-hf-storage",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-lerobot-v0-6-0-imagine-evaluate-impro",
     "category": "ai",
@@ -23,48 +128,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-prx-part-4-our-data-strategy",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "PRX Part 4: Our Data Strategy",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-06",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-kernels-major-updates",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "🤗 Kernels: Major Updates",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-06",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/revamped-kernels",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-google-deepmind-and-a24-announce-f",
     "category": "research",
     "source": "Google DeepMind",
@@ -74,27 +137,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-07-03",
     "readMins": 3,
     "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-hugging-face-and-cerebras-bring-gemma",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-01",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
     "body": [
       {
         "t": "p",
@@ -141,48 +183,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-introducing-genebench-pro",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Introducing GeneBench-Pro",
-    "excerpt": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-30",
-    "readMins": 3,
-    "link": "https://openai.com/index/introducing-genebench-pro",
-    "body": [
-      {
-        "t": "p",
-        "c": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-inside-genebench-pro",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Inside Genebench-Pro",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-30",
-    "readMins": 3,
-    "link": "https://openai.com/index/genebench-pro/case-studies",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-07T09:56:31.510Z";
+window.INTELLECT_GENERATED_AT = "2026-07-08T08:40:41.476Z";
