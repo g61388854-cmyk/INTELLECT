@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-08T08:40:41.476Z */
+/* Обновлено: 2026-07-09T09:53:55.695Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-australian-payments-plus-moves-faster-with-",
+    "id": "openai-our-approach-to-government-and-national-sec",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "excerpt": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "title": "Our approach to government and national security partnerships",
+    "excerpt": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
     "author": "Лента OpenAI",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "readMins": 3,
-    "link": "https://openai.com/index/australian-payments-plus",
+    "link": "https://openai.com/index/government-national-security-partnerships",
     "body": [
       {
         "t": "p",
-        "c": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
+        "c": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
       },
       {
         "t": "p",
@@ -23,19 +23,124 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-mufg-aims-to-become-ai-native-with-openai",
+    "id": "openai-separating-signal-from-noise-in-coding-eval",
     "category": "ai",
     "source": "OpenAI",
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "excerpt": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "title": "Separating signal from noise in coding evaluations",
+    "excerpt": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
     "author": "Лента OpenAI",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "readMins": 3,
-    "link": "https://openai.com/index/mufg",
+    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
     "body": [
       {
         "t": "p",
-        "c": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+        "c": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-helping-k-12-educators-build-practical-ai-s",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Helping K–12 educators build practical AI skills",
+    "excerpt": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-08",
+    "readMins": 3,
+    "link": "https://openai.com/index/k-12-educators-practical-skills",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-introducing-gpt-live",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing GPT-Live",
+    "excerpt": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-08",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-gpt-live",
+    "body": [
+      {
+        "t": "p",
+        "c": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "nvidia-nvidia-nemotron-achieves-benchmark-leading-",
+    "category": "tech",
+    "source": "NVIDIA",
+    "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+    "excerpt": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain…",
+    "author": "Лента NVIDIA",
+    "date": "2026-07-08",
+    "readMins": 3,
+    "link": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+    "body": [
+      {
+        "t": "p",
+        "c": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x [&#8230;]"
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-data-for-agents",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Data for Agents",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-08",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-native-speed-vllm-transformers-modeli",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-08",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -86,48 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-run-ai-workloads-on-any-cloud-store-o",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-07",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/skypilot-hf-storage",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-lerobot-v0-6-0-imagine-evaluate-impro",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-07",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/lerobot-release-v060",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-google-deepmind-and-a24-announce-f",
     "category": "research",
     "source": "Google DeepMind",
@@ -141,48 +204,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-chatgpt-adoption-has-expanded",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How ChatGPT adoption has expanded",
-    "excerpt": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-30",
-    "readMins": 3,
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "body": [
-      {
-        "t": "p",
-        "c": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-core-dump-epidemiology-fixing-an-18-year-ol",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "excerpt": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "author": "Лента OpenAI",
-    "date": "2026-06-30",
-    "readMins": 3,
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
       },
       {
         "t": "p",
@@ -315,27 +336,6 @@ window.INTELLECT_GENERATED = [
         "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
       }
     ]
-  },
-  {
-    "id": "nvidia-it-s-the-humidity-how-international-researc",
-    "category": "tech",
-    "source": "NVIDIA",
-    "title": "It’s the Humidity: How International Researchers in Poland, Deep Learning and NVIDIA GPUs Could Change the Forecast",
-    "excerpt": "For more than a century, meteorologists have chased storms with chalkboards, equations, and now, supercomputers. But for all the progress, they still stumble over one deceptively…",
-    "author": "Лента NVIDIA",
-    "date": "2025-09-02",
-    "readMins": 3,
-    "link": "https://blogs.nvidia.com/blog/humidity/",
-    "body": [
-      {
-        "t": "p",
-        "c": "For more than a century, meteorologists have chased storms with chalkboards, equations, and now, supercomputers. But for all the progress, they still stumble over one deceptively simple ingredient: water vapor. Humidity is the invisible fuel for thunderstorms, flash floods, and hurricanes. It&#8217;s the difference between a passing sprinkle and a summer downpour that sends you [&#8230;]"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-08T08:40:41.476Z";
+window.INTELLECT_GENERATED_AT = "2026-07-09T09:53:55.696Z";
