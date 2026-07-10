@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-09T09:53:55.695Z */
+/* Обновлено: 2026-07-10T09:49:32.979Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-our-approach-to-government-and-national-sec",
+    "id": "openai-how-deutsche-telekom-is-rewiring-telecommun",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Our approach to government and national security partnerships",
-    "excerpt": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "excerpt": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
     "author": "Лента OpenAI",
-    "date": "2026-07-08",
+    "date": "2026-07-10",
     "readMins": 3,
-    "link": "https://openai.com/index/government-national-security-partnerships",
+    "link": "https://openai.com/index/deutsche-telekom",
     "body": [
       {
         "t": "p",
-        "c": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
+        "c": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-separating-signal-from-noise-in-coding-eval",
+    "id": "hugging-face-profiling-in-pytorch-part-3-attention",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "Separating signal from noise in coding evaluations",
-    "excerpt": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-08",
+    "source": "Hugging Face",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-10",
     "readMins": 3,
-    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "link": "https://huggingface.co/blog/torch-attention-profile",
     "body": [
       {
         "t": "p",
-        "c": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -44,19 +44,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-helping-k-12-educators-build-practical-ai-s",
+    "id": "openai-gpt-5-6-is-now-the-preferred-model-in-micro",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Helping K–12 educators build practical AI skills",
-    "excerpt": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "excerpt": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
     "author": "Лента OpenAI",
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "readMins": 3,
-    "link": "https://openai.com/index/k-12-educators-practical-skills",
+    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom."
+        "c": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
       },
       {
         "t": "p",
@@ -65,19 +65,40 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-introducing-gpt-live",
+    "id": "openai-gpt-5-6-frontier-intelligence-that-scales-w",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Introducing GPT-Live",
-    "excerpt": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "excerpt": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
     "author": "Лента OpenAI",
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "readMins": 3,
-    "link": "https://openai.com/index/introducing-gpt-live",
+    "link": "https://openai.com/index/gpt-5-6",
     "body": [
       {
         "t": "p",
-        "c": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
+        "c": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-chatgpt-is-now-a-partner-for-your-most-ambi",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "excerpt": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-09",
+    "readMins": 3,
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "body": [
+      {
+        "t": "p",
+        "c": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work."
       },
       {
         "t": "p",
@@ -158,27 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-07-07",
     "readMins": 3,
     "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-hugging-face-models-on-foundry-manage",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-07",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-09T09:53:55.696Z";
+window.INTELLECT_GENERATED_AT = "2026-07-10T09:49:32.979Z";
