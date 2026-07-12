@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-11T08:07:20.253Z */
+/* Обновлено: 2026-07-12T08:28:29.315Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-how-deutsche-telekom-is-rewiring-telecommun",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-11T08:07:20.254Z";
+window.INTELLECT_GENERATED_AT = "2026-07-12T08:28:29.315Z";
