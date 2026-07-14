@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-13T09:41:55.132Z */
+/* Обновлено: 2026-07-14T08:21:32.174Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "google-deepmind-empowering-india-s-next-generation",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "excerpt": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-07-13",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-deutsche-telekom-is-rewiring-telecommun",
     "category": "ai",
@@ -15,6 +36,27 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-getting-started-with-chatgpt",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Getting started with ChatGPT",
+    "excerpt": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-10",
+    "readMins": 3,
+    "link": "https://openai.com/academy/getting-started",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
       },
       {
         "t": "p",
@@ -65,40 +107,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-gpt-5-6-frontier-intelligence-that-scales-w",
+    "id": "openai-gpt-5-5-bio-bug-bounty",
     "category": "ai",
     "source": "OpenAI",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "excerpt": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "excerpt": "Details about the OpenAI Bio Bounty program",
     "author": "Лента OpenAI",
     "date": "2026-07-09",
     "readMins": 3,
-    "link": "https://openai.com/index/gpt-5-6",
+    "link": "https://openai.com/index/bio-bug-bounty",
     "body": [
       {
         "t": "p",
-        "c": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-chatgpt-is-now-a-partner-for-your-most-ambi",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "excerpt": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-09",
-    "readMins": 3,
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "body": [
-      {
-        "t": "p",
-        "c": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work."
+        "c": "Details about the OpenAI Bio Bounty program"
       },
       {
         "t": "p",
@@ -254,27 +275,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "google-deepmind-unlocking-uk-house-building-with-a",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Unlocking UK house-building with AI-accelerated planning",
-    "excerpt": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-06-16",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "body": [
-      {
-        "t": "p",
-        "c": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "nvidia-nvidia-rubin-platform-open-models-autonomou",
     "category": "tech",
     "source": "NVIDIA",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-13T09:41:55.132Z";
+window.INTELLECT_GENERATED_AT = "2026-07-14T08:21:32.174Z";
