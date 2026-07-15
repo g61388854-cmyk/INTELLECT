@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-14T08:21:32.174Z */
+/* Обновлено: 2026-07-15T08:27:57.889Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-how-to-manage-ai-investments-in-the-agentic",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How to manage AI investments in the agentic era",
+    "excerpt": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-14",
+    "readMins": 3,
+    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-data-science-teams-use-chatgpt-work",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How data science teams use ChatGPT Work",
+    "excerpt": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-14",
+    "readMins": 3,
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "body": [
+      {
+        "t": "p",
+        "c": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-sales-teams-use-chatgpt-work",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How sales teams use ChatGPT Work",
+    "excerpt": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-14",
+    "readMins": 3,
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "body": [
+      {
+        "t": "p",
+        "c": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "google-deepmind-empowering-india-s-next-generation",
     "category": "research",
@@ -44,27 +107,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-getting-started-with-chatgpt",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Getting started with ChatGPT",
-    "excerpt": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-10",
-    "readMins": 3,
-    "link": "https://openai.com/academy/getting-started",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-profiling-in-pytorch-part-3-attention",
     "category": "ai",
     "source": "Hugging Face",
@@ -78,48 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-gpt-5-6-is-now-the-preferred-model-in-micro",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "excerpt": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-09",
-    "readMins": 3,
-    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-gpt-5-5-bio-bug-bounty",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "excerpt": "Details about the OpenAI Bio Bounty program",
-    "author": "Лента OpenAI",
-    "date": "2026-07-09",
-    "readMins": 3,
-    "link": "https://openai.com/index/bio-bug-bounty",
-    "body": [
-      {
-        "t": "p",
-        "c": "Details about the OpenAI Bio Bounty program"
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-14T08:21:32.174Z";
+window.INTELLECT_GENERATED_AT = "2026-07-15T08:27:57.890Z";
