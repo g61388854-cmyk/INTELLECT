@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-15T08:27:57.889Z */
+/* Обновлено: 2026-07-16T08:26:39.418Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-the-us-is-advancing-ai-safety-through-state",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "The US is advancing AI safety through state and federal action",
+    "excerpt": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-15",
+    "readMins": 3,
+    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-gpt-red-unlocking-self-improvement-for-robu",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "excerpt": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-15",
+    "readMins": 3,
+    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "body": [
+      {
+        "t": "p",
+        "c": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-to-manage-ai-investments-in-the-agentic",
     "category": "ai",
@@ -15,27 +57,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-data-science-teams-use-chatgpt-work",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How data science teams use ChatGPT Work",
-    "excerpt": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-14",
-    "readMins": 3,
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "body": [
-      {
-        "t": "p",
-        "c": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
       },
       {
         "t": "p",
@@ -86,48 +107,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-deutsche-telekom-is-rewiring-telecommun",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-    "excerpt": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-10",
-    "readMins": 3,
-    "link": "https://openai.com/index/deutsche-telekom",
-    "body": [
-      {
-        "t": "p",
-        "c": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-profiling-in-pytorch-part-3-attention",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-10",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/torch-attention-profile",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "nvidia-nvidia-nemotron-achieves-benchmark-leading-",
     "category": "tech",
     "source": "NVIDIA",
@@ -141,69 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x [&#8230;]"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-data-for-agents",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Data for Agents",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-08",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-native-speed-vllm-transformers-modeli",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Native-speed vLLM transformers modeling backend",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-08",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-from-hugging-face-to-amazon-sagemaker",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-07",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +254,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-15T08:27:57.890Z";
+window.INTELLECT_GENERATED_AT = "2026-07-16T08:26:39.419Z";
