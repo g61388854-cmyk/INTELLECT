@@ -1,6 +1,132 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-16T08:26:39.418Z */
+/* Обновлено: 2026-07-17T08:22:30.996Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-why-teens-deserve-access-to-safe-ai",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Why teens deserve access to safe AI",
+    "excerpt": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-cars24-scales-conversations-and-builds-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "excerpt": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/cars24",
+    "body": [
+      {
+        "t": "p",
+        "c": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-our-approach-to-bioresilience",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Our approach to bioresilience",
+    "excerpt": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-07-16",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-nvidia-nemotron-3-embed-ranks-1-overa",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-16",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-newer-models-same-advantage",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Newer Models, Same Advantage",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-16",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-security-incident-disclosure-july-202",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Security incident disclosure — July 2026",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-16",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/security-incident-july-2026",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-the-us-is-advancing-ai-safety-through-state",
     "category": "ai",
@@ -44,40 +170,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-to-manage-ai-investments-in-the-agentic",
+    "id": "hugging-face-what-building-shippy-taught-us-about-",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "How to manage AI investments in the agentic era",
-    "excerpt": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-14",
+    "source": "Hugging Face",
+    "title": "What building Shippy taught us about building agents",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-15",
     "readMins": 3,
-    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
     "body": [
       {
         "t": "p",
-        "c": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-sales-teams-use-chatgpt-work",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How sales teams use ChatGPT Work",
-    "excerpt": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-14",
-    "readMins": 3,
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "body": [
-      {
-        "t": "p",
-        "c": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -170,27 +275,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "google-deepmind-introducing-computer-use-in-gemini",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Introducing computer use in Gemini 3.5 Flash",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-06-24",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "nvidia-nvidia-rubin-platform-open-models-autonomou",
     "category": "tech",
     "source": "NVIDIA",
@@ -254,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-16T08:26:39.419Z";
+window.INTELLECT_GENERATED_AT = "2026-07-17T08:22:30.996Z";
