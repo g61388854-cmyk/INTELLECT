@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-17T08:22:30.996Z */
+/* Обновлено: 2026-07-18T08:04:30.646Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-a-scorecard-for-the-ai-age",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "A scorecard for the AI age",
+    "excerpt": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-17",
+    "readMins": 3,
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "body": [
+      {
+        "t": "p",
+        "c": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-fine-tune-video-and-image-models-at-s",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-17",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-why-teens-deserve-access-to-safe-ai",
     "category": "ai",
@@ -65,27 +107,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-nvidia-nemotron-3-embed-ranks-1-overa",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-16",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-newer-models-same-advantage",
     "category": "ai",
     "source": "Hugging Face",
@@ -141,27 +162,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-gpt-red-unlocking-self-improvement-for-robu",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "excerpt": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-15",
-    "readMins": 3,
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "body": [
-      {
-        "t": "p",
-        "c": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-17T08:22:30.996Z";
+window.INTELLECT_GENERATED_AT = "2026-07-18T08:04:30.646Z";
