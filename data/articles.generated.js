@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-18T08:04:30.646Z */
+/* Обновлено: 2026-07-19T08:29:46.239Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-a-scorecard-for-the-ai-age",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-18T08:04:30.646Z";
+window.INTELLECT_GENERATED_AT = "2026-07-19T08:29:46.240Z";
