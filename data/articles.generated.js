@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-20T09:30:13.412Z */
+/* Обновлено: 2026-07-21T08:40:27.138Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-safety-and-alignment-in-an-era-of-long-hori",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "excerpt": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-20",
+    "readMins": 3,
+    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-introducing-cosmos-3-edge",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Introducing Cosmos 3 Edge",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-20",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-a-scorecard-for-the-ai-age",
     "category": "ai",
@@ -15,27 +57,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-fine-tune-video-and-image-models-at-s",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-17",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -141,27 +162,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-the-us-is-advancing-ai-safety-through-state",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "The US is advancing AI safety through state and federal action",
-    "excerpt": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-15",
-    "readMins": 3,
-    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-20T09:30:13.412Z";
+window.INTELLECT_GENERATED_AT = "2026-07-21T08:40:27.138Z";
