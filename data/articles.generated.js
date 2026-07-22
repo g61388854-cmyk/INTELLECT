@@ -1,6 +1,132 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-21T08:40:27.138Z */
+/* Обновлено: 2026-07-22T08:40:06.270Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-introducing-the-chatgpt-for-small-business-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing the ChatGPT for small business program",
+    "excerpt": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-21",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-openai-and-hugging-face-partner-to-address-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "excerpt": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-21",
+    "readMins": 3,
+    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-david-v-lez-and-robin-vince-join-the-boards",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "excerpt": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-21",
+    "readMins": 3,
+    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "body": [
+      {
+        "t": "p",
+        "c": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-introducing-gemini-3-6-flash-3-5-f",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "excerpt": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-07-21",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "body": [
+      {
+        "t": "p",
+        "c": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-the-state-of-simulation-for-physical-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-21",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-grabette-an-open-system-to-record-rob",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-21",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/grabette",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-safety-and-alignment-in-an-era-of-long-hori",
     "category": "ai",
@@ -23,82 +149,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-introducing-cosmos-3-edge",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Introducing Cosmos 3 Edge",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-20",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-a-scorecard-for-the-ai-age",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "A scorecard for the AI age",
-    "excerpt": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-    "author": "Лента OpenAI",
+    "id": "google-deepmind-introducing-gemini-3-5-flash-cyber",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Introducing Gemini 3.5 Flash Cyber",
+    "excerpt": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+    "author": "Лента Google DeepMind",
     "date": "2026-07-17",
     "readMins": 3,
-    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
     "body": [
       {
         "t": "p",
-        "c": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-why-teens-deserve-access-to-safe-ai",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Why teens deserve access to safe AI",
-    "excerpt": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-cars24-scales-conversations-and-builds-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "excerpt": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/cars24",
-    "body": [
-      {
-        "t": "p",
-        "c": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
+        "c": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
       },
       {
         "t": "p",
@@ -170,27 +233,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-what-building-shippy-taught-us-about-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "What building Shippy taught us about building agents",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-15",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-empowering-india-s-next-generation",
     "category": "research",
     "source": "Google DeepMind",
@@ -225,48 +267,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x [&#8230;]"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-google-deepmind-and-a24-announce-f",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-07-03",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-start-building-with-nano-banana-2-",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-06-30",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-21T08:40:27.138Z";
+window.INTELLECT_GENERATED_AT = "2026-07-22T08:40:06.270Z";
