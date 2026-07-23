@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-22T08:40:06.270Z */
+/* Обновлено: 2026-07-23T08:41:29.140Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-introducing-the-chatgpt-for-small-business-",
+    "id": "hugging-face-bringing-nunchaku-4-bit-diffusion-inf",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "Introducing the ChatGPT for small business program",
-    "excerpt": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-21",
+    "source": "Hugging Face",
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-23",
     "readMins": 3,
-    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "link": "https://huggingface.co/blog/nunchaku-diffusers",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-openai-and-hugging-face-partner-to-address-",
+    "id": "openai-building-ai-infrastructure-with-the-effingh",
     "category": "ai",
     "source": "OpenAI",
-    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "excerpt": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "excerpt": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
     "author": "Лента OpenAI",
-    "date": "2026-07-21",
+    "date": "2026-07-22",
     "readMins": 3,
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
+        "c": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
       },
       {
         "t": "p",
@@ -44,19 +44,82 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-david-v-lez-and-robin-vince-join-the-boards",
+    "id": "openai-how-news-organizations-are-using-ai-to-adva",
     "category": "ai",
     "source": "OpenAI",
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "excerpt": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "excerpt": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
     "author": "Лента OpenAI",
-    "date": "2026-07-21",
+    "date": "2026-07-22",
     "readMins": 3,
-    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
     "body": [
       {
         "t": "p",
-        "c": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
+        "c": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-advancing-the-next-era-of-national-science",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Advancing the next era of national science",
+    "excerpt": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-22",
+    "readMins": 3,
+    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-introducing-openai-presence",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing OpenAI Presence",
+    "excerpt": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-22",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-openai-presence",
+    "body": [
+      {
+        "t": "p",
+        "c": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-accelerating-the-frontiers-of-scie",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "excerpt": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+    "author": "Лента Google DeepMind",
+    "date": "2026-07-22",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Google commits $40M in AI tokens and credits for the Genesis Mission"
       },
       {
         "t": "p",
@@ -128,27 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-safety-and-alignment-in-an-era-of-long-hori",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Safety and alignment in an era of long-horizon models",
-    "excerpt": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-20",
-    "readMins": 3,
-    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-gemini-3-5-flash-cyber",
     "category": "research",
     "source": "Google DeepMind",
@@ -204,48 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-security-incident-disclosure-july-202",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Security incident disclosure — July 2026",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-16",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/security-incident-july-2026",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-empowering-india-s-next-generation",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Empowering India’s next generation of innovators with ATL Saathi",
-    "excerpt": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-07-13",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-22T08:40:06.270Z";
+window.INTELLECT_GENERATED_AT = "2026-07-23T08:41:29.141Z";
