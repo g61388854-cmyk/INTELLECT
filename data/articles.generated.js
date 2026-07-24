@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-23T08:41:29.140Z */
+/* Обновлено: 2026-07-24T08:37:30.809Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-launching-health-in-chatgpt",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Launching Health in ChatGPT",
+    "excerpt": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-23",
+    "readMins": 3,
+    "link": "https://openai.com/index/health-in-chatgpt",
+    "body": [
+      {
+        "t": "p",
+        "c": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-bringing-nunchaku-4-bit-diffusion-inf",
     "category": "ai",
@@ -78,27 +99,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-introducing-openai-presence",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Introducing OpenAI Presence",
-    "excerpt": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-22",
-    "readMins": 3,
-    "link": "https://openai.com/index/introducing-openai-presence",
-    "body": [
-      {
-        "t": "p",
-        "c": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-23T08:41:29.141Z";
+window.INTELLECT_GENERATED_AT = "2026-07-24T08:37:30.809Z";
