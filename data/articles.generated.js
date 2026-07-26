@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-25T08:18:26.929Z */
+/* Обновлено: 2026-07-26T08:36:27.314Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-launching-health-in-chatgpt",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-25T08:18:26.929Z";
+window.INTELLECT_GENERATED_AT = "2026-07-26T08:36:27.314Z";
