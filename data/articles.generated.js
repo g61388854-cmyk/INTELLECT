@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-26T08:36:27.314Z */
+/* Обновлено: 2026-07-27T10:04:56.687Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-nvidia-cosmos-h-dreams-bringing-real-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-27",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-launching-health-in-chatgpt",
     "category": "ai",
@@ -141,27 +162,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-the-state-of-simulation-for-physical-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "The State of Simulation for Physical AI: An Overview",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-21",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-26T08:36:27.314Z";
+window.INTELLECT_GENERATED_AT = "2026-07-27T10:04:56.687Z";
