@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-27T10:04:56.687Z */
+/* Обновлено: 2026-07-28T08:47:16.139Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-how-ai-is-expanding-what-people-do-at-work",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How AI is expanding what people do at work",
+    "excerpt": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-27",
+    "readMins": 3,
+    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "body": [
+      {
+        "t": "p",
+        "c": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-nvidia-cosmos-h-dreams-bringing-real-",
     "category": "ai",
@@ -107,27 +128,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-advancing-the-next-era-of-national-science",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Advancing the next era of national science",
-    "excerpt": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-22",
-    "readMins": 3,
-    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-accelerating-the-frontiers-of-scie",
     "category": "research",
     "source": "Google DeepMind",
@@ -157,7 +157,7 @@ window.INTELLECT_GENERATED = [
     "author": "Лента Google DeepMind",
     "date": "2026-07-21",
     "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-27T10:04:56.687Z";
+window.INTELLECT_GENERATED_AT = "2026-07-28T08:47:16.139Z";
