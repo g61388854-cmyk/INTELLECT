@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-28T08:47:16.139Z */
+/* Обновлено: 2026-07-29T08:51:58.129Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-scientific-computing-in-the-age-of-agentic-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Scientific computing in the age of agentic AI",
+    "excerpt": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-28",
+    "readMins": 3,
+    "link": "https://openai.com/index/scientific-computing-agentic-ai",
+    "body": [
+      {
+        "t": "p",
+        "c": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-the-olmoearth-platform-geospatial-inf",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-28",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-lfm2-5-encoders-for-fast-long-context",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-28",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-ai-is-expanding-what-people-do-at-work",
     "category": "ai",
@@ -44,6 +107,27 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
+    "id": "hugging-face-anatomy-of-a-frontier-lab-agent-intru",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-27",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
     "id": "openai-launching-health-in-chatgpt",
     "category": "ai",
     "source": "OpenAI",
@@ -65,27 +149,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-bringing-nunchaku-4-bit-diffusion-inf",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-23",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nunchaku-diffusers",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "openai-building-ai-infrastructure-with-the-effingh",
     "category": "ai",
     "source": "OpenAI",
@@ -99,27 +162,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-news-organizations-are-using-ai-to-adva",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How news organizations are using AI to advance their vital missions",
-    "excerpt": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-22",
-    "readMins": 3,
-    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "body": [
-      {
-        "t": "p",
-        "c": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
       },
       {
         "t": "p",
@@ -170,27 +212,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-grabette-an-open-system-to-record-rob",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Grabette: an open system to record robot-manipulation data",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-21",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/grabette",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-gemini-3-5-flash-cyber",
     "category": "research",
     "source": "Google DeepMind",
@@ -225,27 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-newer-models-same-advantage",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Newer Models, Same Advantage",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-16",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-28T08:47:16.139Z";
+window.INTELLECT_GENERATED_AT = "2026-07-29T08:51:58.129Z";
