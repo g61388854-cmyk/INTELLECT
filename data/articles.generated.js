@@ -1,6 +1,90 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-29T08:51:58.129Z */
+/* Обновлено: 2026-07-30T08:41:49.481Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-how-enabling-two-settings-tripled-our-score",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "excerpt": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-29",
+    "readMins": 3,
+    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "body": [
+      {
+        "t": "p",
+        "c": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-accelerating-scientific-discovery-with-chat",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "excerpt": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-29",
+    "readMins": 3,
+    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-gpt-5-6-fuses-frontier-intelligence-wit",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "excerpt": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-29",
+    "readMins": 3,
+    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "body": [
+      {
+        "t": "p",
+        "c": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-we-re-launching-lyria-3-5-in-googl",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-07-29",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-scientific-computing-in-the-age-of-agentic-",
     "category": "ai",
@@ -65,27 +149,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-ai-is-expanding-what-people-do-at-work",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How AI is expanding what people do at work",
-    "excerpt": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-27",
-    "readMins": 3,
-    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "body": [
-      {
-        "t": "p",
-        "c": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-nvidia-cosmos-h-dreams-bringing-real-",
     "category": "ai",
     "source": "Hugging Face",
@@ -120,48 +183,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-launching-health-in-chatgpt",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Launching Health in ChatGPT",
-    "excerpt": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-23",
-    "readMins": 3,
-    "link": "https://openai.com/index/health-in-chatgpt",
-    "body": [
-      {
-        "t": "p",
-        "c": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-building-ai-infrastructure-with-the-effingh",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Building AI infrastructure with the Effingham County community",
-    "excerpt": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-22",
-    "readMins": 3,
-    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
       },
       {
         "t": "p",
@@ -225,27 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-our-approach-to-bioresilience",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Our approach to bioresilience",
-    "excerpt": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-07-16",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-29T08:51:58.129Z";
+window.INTELLECT_GENERATED_AT = "2026-07-30T08:41:49.481Z";
