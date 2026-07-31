@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-30T08:41:49.481Z */
+/* Обновлено: 2026-07-31T09:12:55.783Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-how-enabling-two-settings-tripled-our-score",
+    "id": "openai-advancing-responsible-ai-across-europe",
     "category": "ai",
     "source": "OpenAI",
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "excerpt": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "title": "Advancing responsible AI across Europe",
+    "excerpt": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
     "author": "Лента OpenAI",
-    "date": "2026-07-29",
+    "date": "2026-07-31",
     "readMins": 3,
-    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
     "body": [
       {
         "t": "p",
-        "c": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
+        "c": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-accelerating-scientific-discovery-with-chat",
+    "id": "openai-univ-builds-an-ai-ready-workforce",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "excerpt": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "title": "Univé builds an AI-ready workforce",
+    "excerpt": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
     "author": "Лента OpenAI",
-    "date": "2026-07-29",
+    "date": "2026-07-31",
     "readMins": 3,
-    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "link": "https://openai.com/index/unive",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+        "c": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
       },
       {
         "t": "p",
@@ -44,19 +44,82 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-gpt-5-6-fuses-frontier-intelligence-wit",
+    "id": "openai-advancing-the-price-performance-frontier-wi",
     "category": "ai",
     "source": "OpenAI",
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "excerpt": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "excerpt": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
     "author": "Лента OpenAI",
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "readMins": 3,
-    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
     "body": [
       {
         "t": "p",
-        "c": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
+        "c": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-avatarin-built-a-24-7-retail-agent-with",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "excerpt": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-30",
+    "readMins": 3,
+    "link": "https://openai.com/index/avatarin",
+    "body": [
+      {
+        "t": "p",
+        "c": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-gemini-robotics-er-2-powering-robo",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "excerpt": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot…",
+    "author": "Лента Google DeepMind",
+    "date": "2026-07-30",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-gpu-management-why-idle-gpus-are-the-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-07-30",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -86,19 +149,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-scientific-computing-in-the-age-of-agentic-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Scientific computing in the age of agentic AI",
-    "excerpt": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-    "author": "Лента OpenAI",
+    "id": "google-deepmind-gemini-robotics-2-brings-whole-bod",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
     "date": "2026-07-28",
     "readMins": 3,
-    "link": "https://openai.com/index/scientific-computing-agentic-ai",
+    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
     "body": [
       {
         "t": "p",
-        "c": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -170,27 +233,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-anatomy-of-a-frontier-lab-agent-intru",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-27",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-accelerating-the-frontiers-of-scie",
     "category": "research",
     "source": "Google DeepMind",
@@ -204,48 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Google commits $40M in AI tokens and credits for the Genesis Mission"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-introducing-gemini-3-6-flash-3-5-f",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "excerpt": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-07-21",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "body": [
-      {
-        "t": "p",
-        "c": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-introducing-gemini-3-5-flash-cyber",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Introducing Gemini 3.5 Flash Cyber",
-    "excerpt": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-07-17",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-30T08:41:49.481Z";
+window.INTELLECT_GENERATED_AT = "2026-07-31T09:12:55.783Z";
