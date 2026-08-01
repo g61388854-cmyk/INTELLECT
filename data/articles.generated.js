@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-07-31T09:12:55.783Z */
+/* Обновлено: 2026-08-01T08:31:23.664Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-ten-advances-in-mathematics-and-theoretical",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "excerpt": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-01",
+    "readMins": 3,
+    "link": "https://openai.com/index/ten-advances-in-mathematics",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-advancing-responsible-ai-across-europe",
     "category": "ai",
@@ -23,6 +44,27 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
+    "id": "openai-building-abundant-intelligence",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Building abundant intelligence",
+    "excerpt": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "author": "Лента OpenAI",
+    "date": "2026-07-31",
+    "readMins": 3,
+    "link": "https://openai.com/index/building-abundant-intelligence",
+    "body": [
+      {
+        "t": "p",
+        "c": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
     "id": "openai-univ-builds-an-ai-ready-workforce",
     "category": "ai",
     "source": "OpenAI",
@@ -36,48 +78,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-advancing-the-price-performance-frontier-wi",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "excerpt": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-30",
-    "readMins": 3,
-    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "body": [
-      {
-        "t": "p",
-        "c": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-avatarin-built-a-24-7-retail-agent-with",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "excerpt": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-30",
-    "readMins": 3,
-    "link": "https://openai.com/index/avatarin",
-    "body": [
-      {
-        "t": "p",
-        "c": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-07-31T09:12:55.783Z";
+window.INTELLECT_GENERATED_AT = "2026-08-01T08:31:23.664Z";
