@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-01T08:31:23.664Z */
+/* Обновлено: 2026-08-02T08:33:37.970Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-ten-advances-in-mathematics-and-theoretical",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-01T08:31:23.664Z";
+window.INTELLECT_GENERATED_AT = "2026-08-02T08:33:37.970Z";
