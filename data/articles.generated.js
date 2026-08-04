@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-03T10:00:39.689Z */
+/* Обновлено: 2026-08-04T08:50:11.068Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-apple-is-getting-this-wrong",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Apple is getting this wrong",
+    "excerpt": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-03",
+    "readMins": 3,
+    "link": "https://openai.com/index/apple-is-getting-this-wrong",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-we-built-a-realtime-system-for-responsi",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "excerpt": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-03",
+    "readMins": 3,
+    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "body": [
+      {
+        "t": "p",
+        "c": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-circles-powers-telco-personalization-with-o",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "excerpt": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-03",
+    "readMins": 3,
+    "link": "https://openai.com/index/circles",
+    "body": [
+      {
+        "t": "p",
+        "c": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-ten-advances-in-mathematics-and-theoretical",
     "category": "ai",
@@ -15,69 +78,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-advancing-responsible-ai-across-europe",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Advancing responsible AI across Europe",
-    "excerpt": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-31",
-    "readMins": 3,
-    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-building-abundant-intelligence",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Building abundant intelligence",
-    "excerpt": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-31",
-    "readMins": 3,
-    "link": "https://openai.com/index/building-abundant-intelligence",
-    "body": [
-      {
-        "t": "p",
-        "c": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-univ-builds-an-ai-ready-workforce",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Univé builds an AI-ready workforce",
-    "excerpt": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-    "author": "Лента OpenAI",
-    "date": "2026-07-31",
-    "readMins": 3,
-    "link": "https://openai.com/index/unive",
-    "body": [
-      {
-        "t": "p",
-        "c": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-03T10:00:39.689Z";
+window.INTELLECT_GENERATED_AT = "2026-08-04T08:50:11.068Z";
