@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-04T08:50:11.068Z */
+/* Обновлено: 2026-08-05T08:47:14.619Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-third-party-cyber-evaluations-involving-ope",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "excerpt": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-04",
+    "readMins": 3,
+    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-new-ways-to-learn-and-teach-with-chatgpt-wo",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "excerpt": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-04",
+    "readMins": 3,
+    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "body": [
+      {
+        "t": "p",
+        "c": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-deploy-local-agents-everywhere-with-l",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-04",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-apple-is-getting-this-wrong",
     "category": "ai",
@@ -36,48 +99,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-circles-powers-telco-personalization-with-o",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Circles powers telco personalization with OpenAI technology",
-    "excerpt": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-03",
-    "readMins": 3,
-    "link": "https://openai.com/index/circles",
-    "body": [
-      {
-        "t": "p",
-        "c": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-ten-advances-in-mathematics-and-theoretical",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "excerpt": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-01",
-    "readMins": 3,
-    "link": "https://openai.com/index/ten-advances-in-mathematics",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
       },
       {
         "t": "p",
@@ -179,27 +200,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-07-28",
     "readMins": 3,
     "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-lfm2-5-encoders-for-fast-long-context",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-28",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-04T08:50:11.068Z";
+window.INTELLECT_GENERATED_AT = "2026-08-05T08:47:14.619Z";
