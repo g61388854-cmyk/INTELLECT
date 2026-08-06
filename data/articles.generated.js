@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-05T08:47:14.619Z */
+/* Обновлено: 2026-08-06T08:49:12.647Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-third-party-cyber-evaluations-involving-ope",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-05T08:47:14.619Z";
+window.INTELLECT_GENERATED_AT = "2026-08-06T08:49:12.647Z";
