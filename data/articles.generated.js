@@ -1,6 +1,111 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-06T08:49:12.647Z */
+/* Обновлено: 2026-08-07T07:35:33.973Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-improving-gpt-5-6-sol-in-chatgpt-and-expand",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "excerpt": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-06",
+    "readMins": 3,
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "body": [
+      {
+        "t": "p",
+        "c": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-working-with-the-american-psychological-ass",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "excerpt": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-06",
+    "readMins": 3,
+    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-from-asking-to-doing-how-the-world-is-putti",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "excerpt": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-06",
+    "readMins": 3,
+    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "body": [
+      {
+        "t": "p",
+        "c": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-weathernext-ai-model-achieves-brea",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-08-06",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-baseten-on-hugging-face-inference-pro",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-06",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/baseten",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-third-party-cyber-evaluations-involving-ope",
     "category": "ai",
@@ -23,27 +128,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-new-ways-to-learn-and-teach-with-chatgpt-wo",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "New ways to learn and teach with ChatGPT Work and Codex",
-    "excerpt": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-04",
-    "readMins": 3,
-    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "body": [
-      {
-        "t": "p",
-        "c": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-deploy-local-agents-everywhere-with-l",
     "category": "ai",
     "source": "Hugging Face",
@@ -57,48 +141,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-apple-is-getting-this-wrong",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Apple is getting this wrong",
-    "excerpt": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-03",
-    "readMins": 3,
-    "link": "https://openai.com/index/apple-is-getting-this-wrong",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-we-built-a-realtime-system-for-responsi",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "excerpt": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-03",
-    "readMins": 3,
-    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "body": [
-      {
-        "t": "p",
-        "c": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
       },
       {
         "t": "p",
@@ -212,48 +254,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-nvidia-cosmos-h-dreams-bringing-real-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-27",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-accelerating-the-frontiers-of-scie",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-    "excerpt": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-    "author": "Лента Google DeepMind",
-    "date": "2026-07-22",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Google commits $40M in AI tokens and credits for the Genesis Mission"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "nvidia-nvidia-nemotron-achieves-benchmark-leading-",
     "category": "tech",
     "source": "NVIDIA",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-06T08:49:12.647Z";
+window.INTELLECT_GENERATED_AT = "2026-08-07T07:35:33.973Z";
