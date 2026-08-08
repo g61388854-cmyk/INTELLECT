@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-07T07:35:33.973Z */
+/* Обновлено: 2026-08-08T07:04:50.146Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-responding-to-the-next-frontier-of-critical",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "excerpt": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-07",
+    "readMins": 3,
+    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-hsp-gruppe-builds-ai-capabilities-for-t",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "excerpt": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-07",
+    "readMins": 3,
+    "link": "https://openai.com/index/hsp-gruppe",
+    "body": [
+      {
+        "t": "p",
+        "c": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-tutormoments-do-ai-tutors-know-when-t",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-07",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-improving-gpt-5-6-sol-in-chatgpt-and-expand",
     "category": "ai",
@@ -44,27 +107,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-from-asking-to-doing-how-the-world-is-putti",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "excerpt": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-06",
-    "readMins": 3,
-    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "body": [
-      {
-        "t": "p",
-        "c": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-weathernext-ai-model-achieves-brea",
     "category": "research",
     "source": "Google DeepMind",
@@ -99,27 +141,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-third-party-cyber-evaluations-involving-ope",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "excerpt": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-04",
-    "readMins": 3,
-    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
       },
       {
         "t": "p",
@@ -233,27 +254,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-the-olmoearth-platform-geospatial-inf",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-28",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "nvidia-nvidia-nemotron-achieves-benchmark-leading-",
     "category": "tech",
     "source": "NVIDIA",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-07T07:35:33.973Z";
+window.INTELLECT_GENERATED_AT = "2026-08-08T07:04:50.146Z";
