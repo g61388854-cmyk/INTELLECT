@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-09T07:07:28.473Z */
+/* Обновлено: 2026-08-10T07:56:04.671Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-responding-to-the-next-frontier-of-critical",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-09T07:07:28.473Z";
+window.INTELLECT_GENERATED_AT = "2026-08-10T07:56:04.671Z";
