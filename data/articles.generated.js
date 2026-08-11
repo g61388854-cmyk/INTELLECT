@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-10T07:56:04.671Z */
+/* Обновлено: 2026-08-11T07:19:17.672Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-responding-to-the-next-frontier-of-critical",
+    "id": "openai-openai-s-letter-to-governor-abbott-on-respo",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "excerpt": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "excerpt": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
     "author": "Лента OpenAI",
-    "date": "2026-08-07",
+    "date": "2026-08-10",
     "readMins": 3,
-    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
+        "c": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
       },
       {
         "t": "p",
@@ -23,19 +23,124 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-hsp-gruppe-builds-ai-capabilities-for-t",
+    "id": "openai-model-ml-completes-finance-work-more-effici",
     "category": "ai",
     "source": "OpenAI",
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "excerpt": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "excerpt": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
     "author": "Лента OpenAI",
-    "date": "2026-08-07",
+    "date": "2026-08-10",
     "readMins": 3,
-    "link": "https://openai.com/index/hsp-gruppe",
+    "link": "https://openai.com/index/model-ml",
     "body": [
       {
         "t": "p",
-        "c": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+        "c": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-what-building-an-ai-native-finance-function",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "What building an AI-native finance function taught me",
+    "excerpt": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-10",
+    "readMins": 3,
+    "link": "https://openai.com/index/building-an-ai-native-finance-function",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-expanding-daybreak-as-the-cyber-defense-win",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "excerpt": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-10",
+    "readMins": 3,
+    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "body": [
+      {
+        "t": "p",
+        "c": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-build-low-latency-multilingual-voice-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-10",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-making-knowledge-distillation-cheap-e",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-10",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-meta-is-back-with-muse-glimmer-local-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-10",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/muse-glimmer",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -65,48 +170,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-improving-gpt-5-6-sol-in-chatgpt-and-expand",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "excerpt": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-06",
-    "readMins": 3,
-    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "body": [
-      {
-        "t": "p",
-        "c": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-working-with-the-american-psychological-ass",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "excerpt": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-06",
-    "readMins": 3,
-    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-weathernext-ai-model-achieves-brea",
     "category": "research",
     "source": "Google DeepMind",
@@ -116,48 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-08-06",
     "readMins": 3,
     "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-baseten-on-hugging-face-inference-pro",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Baseten on Hugging Face Inference Providers 🔥",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-06",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/baseten",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-deploy-local-agents-everywhere-with-l",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-04",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
     "body": [
       {
         "t": "p",
@@ -183,27 +204,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-gpu-management-why-idle-gpus-are-the-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-07-30",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-10T07:56:04.671Z";
+window.INTELLECT_GENERATED_AT = "2026-08-11T07:19:17.672Z";
