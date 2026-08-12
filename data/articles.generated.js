@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-11T07:19:17.672Z */
+/* Обновлено: 2026-08-12T07:43:11.345Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-testing-ads-in-chatgpt",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Testing ads in ChatGPT",
+    "excerpt": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-11",
+    "readMins": 3,
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-daybreak-models-are-now-available-on-aws",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Daybreak models are now available on AWS",
+    "excerpt": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-11",
+    "readMins": 3,
+    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-thinking-of-ace-we-can-do-it-with-few",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-11",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-openai-s-letter-to-governor-abbott-on-respo",
     "category": "ai",
@@ -36,48 +99,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-what-building-an-ai-native-finance-function",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "What building an AI-native finance function taught me",
-    "excerpt": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-10",
-    "readMins": 3,
-    "link": "https://openai.com/index/building-an-ai-native-finance-function",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-expanding-daybreak-as-the-cyber-defense-win",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "excerpt": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-10",
-    "readMins": 3,
-    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "body": [
-      {
-        "t": "p",
-        "c": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
       },
       {
         "t": "p",
@@ -137,27 +158,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-08-10",
     "readMins": 3,
     "link": "https://huggingface.co/blog/muse-glimmer",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-tutormoments-do-ai-tutors-know-when-t",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-07",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/tutormoments",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-11T07:19:17.672Z";
+window.INTELLECT_GENERATED_AT = "2026-08-12T07:43:11.345Z";
