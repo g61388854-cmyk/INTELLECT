@@ -1,6 +1,111 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-12T07:43:11.345Z */
+/* Обновлено: 2026-08-13T07:45:02.737Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-from-assistance-to-execution-how-enterprise",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "excerpt": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-12",
+    "readMins": 3,
+    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-ringcentral-builds-ai-native-work-from-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "excerpt": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-12",
+    "readMins": 3,
+    "link": "https://openai.com/index/ringcentral",
+    "body": [
+      {
+        "t": "p",
+        "c": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-putting-sign-language-ai-into-user",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Putting sign language AI into users’ hands",
+    "excerpt": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-08-12",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-introducing-olmoearth-embeddings-cust",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-12",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-lfm2-5-vl-3b-for-better-and-faster-vi",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-12",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-testing-ads-in-chatgpt",
     "category": "ai",
@@ -65,48 +170,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-openai-s-letter-to-governor-abbott-on-respo",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "excerpt": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-10",
-    "readMins": 3,
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-model-ml-completes-finance-work-more-effici",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "excerpt": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-10",
-    "readMins": 3,
-    "link": "https://openai.com/index/model-ml",
-    "body": [
-      {
-        "t": "p",
-        "c": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-build-low-latency-multilingual-voice-",
     "category": "ai",
     "source": "Hugging Face",
@@ -116,48 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-08-10",
     "readMins": 3,
     "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-making-knowledge-distillation-cheap-e",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-10",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-meta-is-back-with-muse-glimmer-local-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-10",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/muse-glimmer",
     "body": [
       {
         "t": "p",
@@ -221,27 +242,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-07-29",
     "readMins": 3,
     "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-gemini-robotics-2-brings-whole-bod",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-07-28",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-12T07:43:11.345Z";
+window.INTELLECT_GENERATED_AT = "2026-08-13T07:45:02.737Z";
