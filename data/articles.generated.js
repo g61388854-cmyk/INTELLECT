@@ -1,6 +1,132 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-13T07:45:02.737Z */
+/* Обновлено: 2026-08-14T07:42:33.577Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-the-builder-s-guide-to-gpt-5-6",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "The builder’s guide to GPT‑5.6",
+    "excerpt": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-13",
+    "readMins": 3,
+    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-previewing-ultrafast-mode-gpt-5-6-sol-at-up",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "excerpt": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-13",
+    "readMins": 3,
+    "link": "https://openai.com/index/previewing-ultrafast",
+    "body": [
+      {
+        "t": "p",
+        "c": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-openai-appoints-dali-rajic-as-chief-revenue",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "excerpt": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-13",
+    "readMins": 3,
+    "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-introducing-gemini-3-7-flash",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Introducing Gemini 3.7 Flash",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-08-13",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-record-train-and-deploy-from-one-plac",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-13",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-what-we-learned-by-reproducing-2-200-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-13",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-from-assistance-to-execution-how-enterprise",
     "category": "ai",
@@ -15,27 +141,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-ringcentral-builds-ai-native-work-from-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "excerpt": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-12",
-    "readMins": 3,
-    "link": "https://openai.com/index/ringcentral",
-    "body": [
-      {
-        "t": "p",
-        "c": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
       },
       {
         "t": "p",
@@ -107,90 +212,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-testing-ads-in-chatgpt",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Testing ads in ChatGPT",
-    "excerpt": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-11",
-    "readMins": 3,
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-daybreak-models-are-now-available-on-aws",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Daybreak models are now available on AWS",
-    "excerpt": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-11",
-    "readMins": 3,
-    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-thinking-of-ace-we-can-do-it-with-few",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-11",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-build-low-latency-multilingual-voice-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-10",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-weathernext-ai-model-achieves-brea",
     "category": "research",
     "source": "Google DeepMind",
@@ -225,27 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-we-re-launching-lyria-3-5-in-googl",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-07-29",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-13T07:45:02.737Z";
+window.INTELLECT_GENERATED_AT = "2026-08-14T07:42:33.577Z";
