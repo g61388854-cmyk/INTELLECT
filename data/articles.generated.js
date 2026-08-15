@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-14T07:42:33.577Z */
+/* Обновлено: 2026-08-15T06:50:31.198Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-state-of-open-models-summer-2026-obse",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-14",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-the-builder-s-guide-to-gpt-5-6",
     "category": "ai",
@@ -191,27 +212,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-lfm2-5-vl-3b-for-better-and-faster-vi",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-12",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-weathernext-ai-model-achieves-brea",
     "category": "research",
     "source": "Google DeepMind",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-14T07:42:33.577Z";
+window.INTELLECT_GENERATED_AT = "2026-08-15T06:50:31.198Z";
