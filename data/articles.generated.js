@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-15T06:50:31.198Z */
+/* Обновлено: 2026-08-16T06:51:57.819Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "hugging-face-state-of-open-models-summer-2026-obse",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-15T06:50:31.198Z";
+window.INTELLECT_GENERATED_AT = "2026-08-16T06:51:57.819Z";
