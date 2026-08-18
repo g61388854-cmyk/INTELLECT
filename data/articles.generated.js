@@ -1,6 +1,90 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-17T07:08:55.359Z */
+/* Обновлено: 2026-08-18T06:56:07.875Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-the-defender-s-window",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "The Defender’s Window",
+    "excerpt": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-17",
+    "readMins": 3,
+    "link": "https://openai.com/index/the-defenders-window",
+    "body": [
+      {
+        "t": "p",
+        "c": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-openai-joins-ports-pike-project",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "OpenAI joins PORTS-Pike project",
+    "excerpt": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "author": "Лента OpenAI",
+    "date": "2026-08-17",
+    "readMins": 3,
+    "link": "https://openai.com/index/openai-joins-ports-pike-project",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-new-policy-ideas-for-the-intelligence-age",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "New policy ideas for the Intelligence Age",
+    "excerpt": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-17",
+    "readMins": 3,
+    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-same-cluster-33-points-more-utilizati",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-17",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-state-of-open-models-summer-2026-obse",
     "category": "ai",
@@ -36,48 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-previewing-ultrafast-mode-gpt-5-6-sol-at-up",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "excerpt": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-13",
-    "readMins": 3,
-    "link": "https://openai.com/index/previewing-ultrafast",
-    "body": [
-      {
-        "t": "p",
-        "c": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-openai-appoints-dali-rajic-as-chief-revenue",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "excerpt": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-13",
-    "readMins": 3,
-    "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
       },
       {
         "t": "p",
@@ -149,27 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-from-assistance-to-execution-how-enterprise",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "excerpt": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-12",
-    "readMins": 3,
-    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-putting-sign-language-ai-into-user",
     "category": "research",
     "source": "Google DeepMind",
@@ -183,27 +204,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-introducing-olmoearth-embeddings-cust",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-12",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-17T07:08:55.359Z";
+window.INTELLECT_GENERATED_AT = "2026-08-18T06:56:07.875Z";
