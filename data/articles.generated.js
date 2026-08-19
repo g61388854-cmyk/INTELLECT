@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-18T06:56:07.875Z */
+/* Обновлено: 2026-08-19T06:56:28.253Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-the-defender-s-window",
+    "id": "openai-chatgpt-ads-expands-across-europe",
     "category": "ai",
     "source": "OpenAI",
-    "title": "The Defender’s Window",
-    "excerpt": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "title": "ChatGPT Ads expands across Europe",
+    "excerpt": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
     "author": "Лента OpenAI",
-    "date": "2026-08-17",
+    "date": "2026-08-18",
     "readMins": 3,
-    "link": "https://openai.com/index/the-defenders-window",
+    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
     "body": [
       {
         "t": "p",
-        "c": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
+        "c": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-openai-joins-ports-pike-project",
+    "id": "openai-strengthening-democratic-oversight-in-natio",
     "category": "ai",
     "source": "OpenAI",
-    "title": "OpenAI joins PORTS-Pike project",
-    "excerpt": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "title": "Strengthening democratic oversight in national security",
+    "excerpt": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
     "author": "Лента OpenAI",
-    "date": "2026-08-17",
+    "date": "2026-08-18",
     "readMins": 3,
-    "link": "https://openai.com/index/openai-joins-ports-pike-project",
+    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
+        "c": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
       },
       {
         "t": "p",
@@ -44,19 +44,82 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-new-policy-ideas-for-the-intelligence-age",
+    "id": "openai-partnering-with-codeai-to-prepare-the-first",
     "category": "ai",
     "source": "OpenAI",
-    "title": "New policy ideas for the Intelligence Age",
-    "excerpt": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "excerpt": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
     "author": "Лента OpenAI",
-    "date": "2026-08-17",
+    "date": "2026-08-18",
     "readMins": 3,
-    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "link": "https://openai.com/index/partnering-with-codeai",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
+        "c": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-pacing-model-development-in-an-era-of-cyber",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "excerpt": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-18",
+    "readMins": 3,
+    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-how-much-memory-does-your-agent-actua",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-18",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-multi-vector-late-interaction-embeddi",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-18",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/multi-vector-encoder",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -107,27 +170,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-the-builder-s-guide-to-gpt-5-6",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "The builder’s guide to GPT‑5.6",
-    "excerpt": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-13",
-    "readMins": 3,
-    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-gemini-3-7-flash",
     "category": "research",
     "source": "Google DeepMind",
@@ -137,48 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-08-13",
     "readMins": 3,
     "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-record-train-and-deploy-from-one-plac",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-13",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-what-we-learned-by-reproducing-2-200-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "What We Learned by Reproducing 2,200 papers from ICML",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-13",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-18T06:56:07.875Z";
+window.INTELLECT_GENERATED_AT = "2026-08-19T06:56:28.253Z";
