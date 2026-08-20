@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-19T06:56:28.253Z */
+/* Обновлено: 2026-08-20T06:57:16.670Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-offering-zero-data-retention-for-frontier-m",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Offering Zero Data Retention for frontier models",
+    "excerpt": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-19",
+    "readMins": 3,
+    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-replit-expands-access-to-software-creation-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "excerpt": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-19",
+    "readMins": 3,
+    "link": "https://openai.com/index/replit",
+    "body": [
+      {
+        "t": "p",
+        "c": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-lfm2-5-q4-0-checkpoints-from-quantiza",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-19",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/LiquidAI/qad",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-chatgpt-ads-expands-across-europe",
     "category": "ai",
@@ -36,48 +99,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-partnering-with-codeai-to-prepare-the-first",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "excerpt": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-18",
-    "readMins": 3,
-    "link": "https://openai.com/index/partnering-with-codeai",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-pacing-model-development-in-an-era-of-cyber",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "excerpt": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-18",
-    "readMins": 3,
-    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
       },
       {
         "t": "p",
@@ -137,27 +158,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-08-17",
     "readMins": 3,
     "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-state-of-open-models-summer-2026-obse",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "State of Open Models: Summer 2026 Observations",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-14",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-19T06:56:28.253Z";
+window.INTELLECT_GENERATED_AT = "2026-08-20T06:57:16.670Z";
