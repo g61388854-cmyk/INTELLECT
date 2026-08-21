@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-20T06:57:16.670Z */
+/* Обновлено: 2026-08-21T06:58:49.309Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-introducing-ai-futures",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing AI Futures",
+    "excerpt": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-20",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-ai-futures",
+    "body": [
+      {
+        "t": "p",
+        "c": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-stampli-cuts-launch-hours-by-68-using-chatg",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "excerpt": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-20",
+    "readMins": 3,
+    "link": "https://openai.com/index/stampli",
+    "body": [
+      {
+        "t": "p",
+        "c": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-up-to-3-2x-faster-inference-with-lfm2",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-20",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-offering-zero-data-retention-for-frontier-m",
     "category": "ai",
@@ -36,69 +99,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-lfm2-5-q4-0-checkpoints-from-quantiza",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-19",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/LiquidAI/qad",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-chatgpt-ads-expands-across-europe",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "ChatGPT Ads expands across Europe",
-    "excerpt": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-18",
-    "readMins": 3,
-    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "body": [
-      {
-        "t": "p",
-        "c": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-strengthening-democratic-oversight-in-natio",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Strengthening democratic oversight in national security",
-    "excerpt": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-18",
-    "readMins": 3,
-    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-20T06:57:16.670Z";
+window.INTELLECT_GENERATED_AT = "2026-08-21T06:58:49.309Z";
