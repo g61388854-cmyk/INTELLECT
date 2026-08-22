@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-21T06:58:49.309Z */
+/* Обновлено: 2026-08-22T06:52:15.445Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "google-deepmind-from-atari-to-eve-online-building-",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "excerpt": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-08-21",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-measuring-benchmark-optimization-in-s",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Measuring benchmark optimization in speech recognition",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-21",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-introducing-ai-futures",
     "category": "ai",
@@ -149,27 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-same-cluster-33-points-more-utilizati",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-17",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-gemini-3-7-flash",
     "category": "research",
     "source": "Google DeepMind",
@@ -225,27 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-gemini-robotics-er-2-powering-robo",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-    "excerpt": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot…",
-    "author": "Лента Google DeepMind",
-    "date": "2026-07-30",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-21T06:58:49.309Z";
+window.INTELLECT_GENERATED_AT = "2026-08-22T06:52:15.445Z";
