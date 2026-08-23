@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-22T06:52:15.445Z */
+/* Обновлено: 2026-08-23T06:53:01.235Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "google-deepmind-from-atari-to-eve-online-building-",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-22T06:52:15.445Z";
+window.INTELLECT_GENERATED_AT = "2026-08-23T06:53:01.235Z";
