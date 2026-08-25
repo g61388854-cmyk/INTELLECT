@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-24T07:12:30.375Z */
+/* Обновлено: 2026-08-25T06:59:19.775Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-wire-it-run-it-deploy-it-ai-workflows",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-25",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-advancing-price-performance-for-developers-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "excerpt": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-24",
+    "readMins": 3,
+    "link": "https://openai.com/index/gpt-5-6-in-kiro",
+    "body": [
+      {
+        "t": "p",
+        "c": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "google-deepmind-from-atari-to-eve-online-building-",
     "category": "research",
@@ -128,27 +170,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-replit-expands-access-to-software-creation-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "excerpt": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-19",
-    "readMins": 3,
-    "link": "https://openai.com/index/replit",
-    "body": [
-      {
-        "t": "p",
-        "c": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-how-much-memory-does-your-agent-actua",
     "category": "ai",
     "source": "Hugging Face",
@@ -158,27 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-08-18",
     "readMins": 3,
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-multi-vector-late-interaction-embeddi",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-18",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/multi-vector-encoder",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-24T07:12:30.375Z";
+window.INTELLECT_GENERATED_AT = "2026-08-25T06:59:19.775Z";
