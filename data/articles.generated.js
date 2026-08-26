@@ -1,6 +1,132 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-25T06:59:19.775Z */
+/* Обновлено: 2026-08-26T07:00:30.101Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-the-full-stack-behind-abundant-intelligence",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "The full stack behind abundant intelligence",
+    "excerpt": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-25",
+    "readMins": 3,
+    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-jalape-o-s-first-results-show-industry-lead",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "excerpt": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-25",
+    "readMins": 3,
+    "link": "https://openai.com/index/jalapeno-first-results",
+    "body": [
+      {
+        "t": "p",
+        "c": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-disrupting-a-new-covert-influence-campaign-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "excerpt": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-25",
+    "readMins": 3,
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-introducing-the-admin-plugin-for-chatgpt-wo",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "excerpt": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-25",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-admin-plugin",
+    "body": [
+      {
+        "t": "p",
+        "c": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-granite-4-2-llms-how-they-re-built",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-25",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-quantization-aware-healing-a-compress",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-25",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-wire-it-run-it-deploy-it-ai-workflows",
     "category": "ai",
@@ -15,27 +141,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-advancing-price-performance-for-developers-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "excerpt": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-24",
-    "readMins": 3,
-    "link": "https://openai.com/index/gpt-5-6-in-kiro",
-    "body": [
-      {
-        "t": "p",
-        "c": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
       },
       {
         "t": "p",
@@ -65,120 +170,15 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-measuring-benchmark-optimization-in-s",
+    "id": "hugging-face-how-hugging-face-inference-endpoints-",
     "category": "ai",
     "source": "Hugging Face",
-    "title": "Measuring benchmark optimization in speech recognition",
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
     "excerpt": "Подробности — в полном материале на сайте источника.",
     "author": "Лента Hugging Face",
     "date": "2026-08-21",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-introducing-ai-futures",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Introducing AI Futures",
-    "excerpt": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-20",
-    "readMins": 3,
-    "link": "https://openai.com/index/introducing-ai-futures",
-    "body": [
-      {
-        "t": "p",
-        "c": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-stampli-cuts-launch-hours-by-68-using-chatg",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "excerpt": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-20",
-    "readMins": 3,
-    "link": "https://openai.com/index/stampli",
-    "body": [
-      {
-        "t": "p",
-        "c": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-up-to-3-2x-faster-inference-with-lfm2",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-20",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-offering-zero-data-retention-for-frontier-m",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Offering Zero Data Retention for frontier models",
-    "excerpt": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-19",
-    "readMins": 3,
-    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-how-much-memory-does-your-agent-actua",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-18",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "link": "https://huggingface.co/blog/pwc-search",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-25T06:59:19.775Z";
+window.INTELLECT_GENERATED_AT = "2026-08-26T07:00:30.101Z";
