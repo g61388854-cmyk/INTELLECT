@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-26T07:00:30.101Z */
+/* Обновлено: 2026-08-27T17:33:59.955Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-the-full-stack-behind-abundant-intelligence",
+    "id": "openai-better-answers-broader-thinking-what-studen",
     "category": "ai",
     "source": "OpenAI",
-    "title": "The full stack behind abundant intelligence",
-    "excerpt": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "excerpt": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
     "author": "Лента OpenAI",
-    "date": "2026-08-25",
+    "date": "2026-08-27",
     "readMins": 3,
-    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
+        "c": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-jalape-o-s-first-results-show-industry-lead",
+    "id": "openai-expanding-openai-s-presence-in-brazil",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-    "excerpt": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "excerpt": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
     "author": "Лента OpenAI",
-    "date": "2026-08-25",
+    "date": "2026-08-27",
     "readMins": 3,
-    "link": "https://openai.com/index/jalapeno-first-results",
+    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
     "body": [
       {
         "t": "p",
-        "c": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+        "c": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
       },
       {
         "t": "p",
@@ -44,19 +44,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-disrupting-a-new-covert-influence-campaign-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "excerpt": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-25",
+    "id": "google-deepmind-gemini-omni-1-1-flash-lets-you-bui",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-08-27",
     "readMins": 3,
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -65,19 +65,103 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-introducing-the-admin-plugin-for-chatgpt-wo",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-    "excerpt": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-25",
+    "id": "google-deepmind-piloting-the-world-s-first-double-",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "excerpt": "Piloting the world's first double-blind AI evaluations",
+    "author": "Лента Google DeepMind",
+    "date": "2026-08-27",
     "readMins": 3,
-    "link": "https://openai.com/index/introducing-admin-plugin",
+    "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
     "body": [
       {
         "t": "p",
-        "c": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
+        "c": "Piloting the world's first double-blind AI evaluations"
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-bringing-chatgpt-for-teachers-to-more-u-s-s",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "excerpt": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-26",
+    "readMins": 3,
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "body": [
+      {
+        "t": "p",
+        "c": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-learning-never-stops-how-ai-makes-learning-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "excerpt": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-26",
+    "readMins": 3,
+    "link": "https://openai.com/index/learning-never-stops",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-intelligent-transcription-with-gem",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "excerpt": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-08-26",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-training-and-finetuning-multi-vector-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-26",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -170,90 +254,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-how-hugging-face-inference-endpoints-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-21",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/pwc-search",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-introducing-gemini-3-7-flash",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Introducing Gemini 3.7 Flash",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-08-13",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-putting-sign-language-ai-into-user",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Putting sign language AI into users’ hands",
-    "excerpt": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-08-12",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-weathernext-ai-model-achieves-brea",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-08-06",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "nvidia-nvidia-nemotron-achieves-benchmark-leading-",
     "category": "tech",
     "source": "NVIDIA",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-26T07:00:30.101Z";
+window.INTELLECT_GENERATED_AT = "2026-08-27T17:33:59.955Z";
