@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-27T17:33:59.955Z */
+/* Обновлено: 2026-08-28T18:31:13.830Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-supporting-thailand-s-next-generation-of-ai",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "excerpt": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-28",
+    "readMins": 3,
+    "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-better-answers-broader-thinking-what-studen",
     "category": "ai",
@@ -99,27 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-learning-never-stops-how-ai-makes-learning-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "excerpt": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-26",
-    "readMins": 3,
-    "link": "https://openai.com/index/learning-never-stops",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-27T17:33:59.955Z";
+window.INTELLECT_GENERATED_AT = "2026-08-28T18:31:13.830Z";
