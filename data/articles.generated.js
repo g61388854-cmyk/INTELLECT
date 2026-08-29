@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-28T18:31:13.830Z */
+/* Обновлено: 2026-08-29T12:36:13.310Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-our-decision-on-cursor-following-its-acquis",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "excerpt": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-28",
+    "readMins": 3,
+    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "body": [
+      {
+        "t": "p",
+        "c": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-supporting-thailand-s-next-generation-of-ai",
     "category": "ai",
@@ -15,6 +36,27 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-the-open-asr-leaderboard-adds-its-fir",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-08-28",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -107,27 +149,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-bringing-chatgpt-for-teachers-to-more-u-s-s",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "excerpt": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-26",
-    "readMins": 3,
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "body": [
-      {
-        "t": "p",
-        "c": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-intelligent-transcription-with-gem",
     "category": "research",
     "source": "Google DeepMind",
@@ -200,27 +221,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-08-25",
     "readMins": 3,
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-wire-it-run-it-deploy-it-ai-workflows",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-25",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/gradio-workflow-guide",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-28T18:31:13.830Z";
+window.INTELLECT_GENERATED_AT = "2026-08-29T12:36:13.310Z";
