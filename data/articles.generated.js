@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-29T12:36:13.310Z */
+/* Обновлено: 2026-08-30T11:45:53.105Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-our-decision-on-cursor-following-its-acquis",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-29T12:36:13.310Z";
+window.INTELLECT_GENERATED_AT = "2026-08-30T11:45:53.105Z";
