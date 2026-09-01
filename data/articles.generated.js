@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-08-31T13:27:33.863Z */
+/* Обновлено: 2026-09-01T11:31:41.373Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-openai-supports-california-s-bill-to-advanc",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "excerpt": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-31",
+    "readMins": 3,
+    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-polimill-builds-japan-s-next-generation-pub",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "excerpt": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-31",
+    "readMins": 3,
+    "link": "https://openai.com/index/polimill",
+    "body": [
+      {
+        "t": "p",
+        "c": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-a-milestone-in-expanding-access-to-ai",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "A milestone in expanding access to AI",
+    "excerpt": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "author": "Лента OpenAI",
+    "date": "2026-08-31",
+    "readMins": 3,
+    "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "body": [
+      {
+        "t": "p",
+        "c": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-our-decision-on-cursor-following-its-acquis",
     "category": "ai",
@@ -23,27 +86,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-supporting-thailand-s-next-generation-of-ai",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Supporting Thailand’s next generation of AI startups",
-    "excerpt": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-28",
-    "readMins": 3,
-    "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-the-open-asr-leaderboard-adds-its-fir",
     "category": "ai",
     "source": "Hugging Face",
@@ -57,48 +99,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-better-answers-broader-thinking-what-studen",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "excerpt": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-27",
-    "readMins": 3,
-    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "body": [
-      {
-        "t": "p",
-        "c": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-expanding-openai-s-presence-in-brazil",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "excerpt": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-    "author": "Лента OpenAI",
-    "date": "2026-08-27",
-    "readMins": 3,
-    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-08-31T13:27:33.863Z";
+window.INTELLECT_GENERATED_AT = "2026-09-01T11:31:41.373Z";
