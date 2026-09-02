@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-01T11:31:41.373Z */
+/* Обновлено: 2026-09-02T11:06:42.950Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-openai-supports-california-s-bill-to-advanc",
+    "id": "openai-how-ai-native-companies-turn-workflows-into",
     "category": "ai",
     "source": "OpenAI",
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "excerpt": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "excerpt": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
     "author": "Лента OpenAI",
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "readMins": 3,
-    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "link": "https://openai.com/index/ai-native-company-workflows",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
+        "c": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-polimill-builds-japan-s-next-generation-pub",
+    "id": "openai-path-to-astra-critical-capabilities-and-fro",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "excerpt": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "excerpt": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
     "author": "Лента OpenAI",
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "readMins": 3,
-    "link": "https://openai.com/index/polimill",
+    "link": "https://openai.com/index/path-to-astra",
     "body": [
       {
         "t": "p",
-        "c": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
+        "c": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
       },
       {
         "t": "p",
@@ -44,19 +44,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-a-milestone-in-expanding-access-to-ai",
+    "id": "openai-healthcare-organizations-can-now-connect-eh",
     "category": "ai",
     "source": "OpenAI",
-    "title": "A milestone in expanding access to AI",
-    "excerpt": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "excerpt": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
     "author": "Лента OpenAI",
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "readMins": 3,
-    "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
     "body": [
       {
         "t": "p",
-        "c": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+        "c": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
       },
       {
         "t": "p",
@@ -65,19 +65,82 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-our-decision-on-cursor-following-its-acquis",
+    "id": "openai-how-law-firm-gilbert-tobin-governs-and-scal",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "excerpt": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "excerpt": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
     "author": "Лента OpenAI",
-    "date": "2026-08-28",
+    "date": "2026-09-01",
     "readMins": 3,
-    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "link": "https://openai.com/index/gilbert-tobin",
     "body": [
       {
         "t": "p",
-        "c": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+        "c": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-introducing-agentic-video-understa",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Introducing agentic video understanding with Gemini",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-09-01",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-benchmirt-what-are-llm-benchmarks-act",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-01",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/benchmirt",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-introducing-huggingface-kernels-200-w",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-01",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/webgpu-kernels",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -191,69 +254,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-granite-4-2-llms-how-they-re-built",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-25",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-quantization-aware-healing-a-compress",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-25",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-from-atari-to-eve-online-building-",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-    "excerpt": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-08-21",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "nvidia-nvidia-nemotron-achieves-benchmark-leading-",
     "category": "tech",
     "source": "NVIDIA",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-01T11:31:41.373Z";
+window.INTELLECT_GENERATED_AT = "2026-09-02T11:06:42.950Z";
