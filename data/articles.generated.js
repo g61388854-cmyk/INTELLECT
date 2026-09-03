@@ -1,6 +1,132 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-02T11:06:42.950Z */
+/* Обновлено: 2026-09-03T11:03:37.455Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-give-your-coding-agents-a-memory-you-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-03",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/funes",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-training-a-coding-model-to-paint-wate",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-03",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-atv-big-air-tour-turned-3-days-of-work-into",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "excerpt": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-02",
+    "readMins": 3,
+    "link": "https://openai.com/index/atv-big-air-tour",
+    "body": [
+      {
+        "t": "p",
+        "c": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-proactive-cyber-defense-for-govern",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-09-02",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-introducing-gemini-3-8-flash-and-3",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-09-02",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-real-time-intelligence-with-ibm-time-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-02",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-ai-native-companies-turn-workflows-into",
     "category": "ai",
@@ -65,27 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-law-firm-gilbert-tobin-governs-and-scal",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-    "excerpt": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-01",
-    "readMins": 3,
-    "link": "https://openai.com/index/gilbert-tobin",
-    "body": [
-      {
-        "t": "p",
-        "c": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-agentic-video-understa",
     "category": "research",
     "source": "Google DeepMind",
@@ -128,48 +233,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-introducing-huggingface-kernels-200-w",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-01",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/webgpu-kernels",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-the-open-asr-leaderboard-adds-its-fir",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-28",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-gemini-omni-1-1-flash-lets-you-bui",
     "category": "research",
     "source": "Google DeepMind",
@@ -179,69 +242,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-08-27",
     "readMins": 3,
     "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-piloting-the-world-s-first-double-",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Piloting the world's first double-blind AI evaluations",
-    "excerpt": "Piloting the world's first double-blind AI evaluations",
-    "author": "Лента Google DeepMind",
-    "date": "2026-08-27",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Piloting the world's first double-blind AI evaluations"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-intelligent-transcription-with-gem",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "excerpt": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-08-26",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-training-and-finetuning-multi-vector-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-08-26",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-02T11:06:42.950Z";
+window.INTELLECT_GENERATED_AT = "2026-09-03T11:03:37.455Z";
