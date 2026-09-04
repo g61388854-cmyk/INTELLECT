@@ -1,6 +1,153 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-03T11:03:37.455Z */
+/* Обновлено: 2026-09-04T11:04:39.724Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-daybreak-for-frontline-defenders-1b-to-prot",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "excerpt": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-03",
+    "readMins": 3,
+    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-legora-reviewed-41-documents-in-minutes-wit",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "excerpt": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-03",
+    "readMins": 3,
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "body": [
+      {
+        "t": "p",
+        "c": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-playco-cut-manual-fixes-50-prototyping-game",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "excerpt": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-03",
+    "readMins": 3,
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "body": [
+      {
+        "t": "p",
+        "c": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-safety-overview-gpt-6-astra",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Safety overview: GPT-6 Astra",
+    "excerpt": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-03",
+    "readMins": 3,
+    "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "body": [
+      {
+        "t": "p",
+        "c": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-introducing-weathernext-3-our-most",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-09-03",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-neomme-an-efficient-multimodal-native",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-03",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-fine-tuning-a-350m-model-for-better-s",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-03",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-give-your-coding-agents-a-memory-you-",
     "category": "ai",
@@ -36,27 +183,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-atv-big-air-tour-turned-3-days-of-work-into",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "excerpt": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-02",
-    "readMins": 3,
-    "link": "https://openai.com/index/atv-big-air-tour",
-    "body": [
-      {
-        "t": "p",
-        "c": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
       },
       {
         "t": "p",
@@ -107,90 +233,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-real-time-intelligence-with-ibm-time-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-02",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-ai-native-companies-turn-workflows-into",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How AI-native companies turn workflows into operating capability",
-    "excerpt": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-01",
-    "readMins": 3,
-    "link": "https://openai.com/index/ai-native-company-workflows",
-    "body": [
-      {
-        "t": "p",
-        "c": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-path-to-astra-critical-capabilities-and-fro",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "excerpt": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-01",
-    "readMins": 3,
-    "link": "https://openai.com/index/path-to-astra",
-    "body": [
-      {
-        "t": "p",
-        "c": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-healthcare-organizations-can-now-connect-eh",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-    "excerpt": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-01",
-    "readMins": 3,
-    "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "body": [
-      {
-        "t": "p",
-        "c": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-agentic-video-understa",
     "category": "research",
     "source": "Google DeepMind",
@@ -200,48 +242,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-09-01",
     "readMins": 3,
     "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-benchmirt-what-are-llm-benchmarks-act",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-01",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/benchmirt",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-gemini-omni-1-1-flash-lets-you-bui",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Gemini Omni 1.1 Flash lets you build with more control",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-08-27",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-03T11:03:37.455Z";
+window.INTELLECT_GENERATED_AT = "2026-09-04T11:04:39.725Z";
