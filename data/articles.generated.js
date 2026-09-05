@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-04T11:04:39.724Z */
+/* Обновлено: 2026-09-05T10:26:22.795Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-daybreak-for-frontline-defenders-1b-to-prot",
@@ -15,27 +15,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-legora-reviewed-41-documents-in-minutes-wit",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "excerpt": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-03",
-    "readMins": 3,
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "body": [
-      {
-        "t": "p",
-        "c": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
       },
       {
         "t": "p",
@@ -65,19 +44,40 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-safety-overview-gpt-6-astra",
+    "id": "openai-legora-reviewed-41-documents-in-minutes-wit",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Safety overview: GPT-6 Astra",
-    "excerpt": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "excerpt": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
     "author": "Лента OpenAI",
     "date": "2026-09-03",
     "readMins": 3,
-    "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "body": [
       {
         "t": "p",
-        "c": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
+        "c": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-gpt-6-astra-a-new-generation-of-intelligenc",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "excerpt": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-03",
+    "readMins": 3,
+    "link": "https://openai.com/index/gpt-6-astra",
+    "body": [
+      {
+        "t": "p",
+        "c": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-04T11:04:39.725Z";
+window.INTELLECT_GENERATED_AT = "2026-09-05T10:26:22.795Z";
