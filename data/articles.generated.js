@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-05T10:26:22.795Z */
+/* Обновлено: 2026-09-06T10:45:18.622Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-daybreak-for-frontline-defenders-1b-to-prot",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-05T10:26:22.795Z";
+window.INTELLECT_GENERATED_AT = "2026-09-06T10:45:18.623Z";
