@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-06T10:45:18.622Z */
+/* Обновлено: 2026-09-07T12:15:49.531Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-supporting-independent-journalism-in-ukrain",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Supporting independent journalism in Ukraine",
+    "excerpt": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-07",
+    "readMins": 3,
+    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-an-alien-mind",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "An Alien Mind",
+    "excerpt": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-06",
+    "readMins": 3,
+    "link": "https://openai.com/index/an-alien-mind",
+    "body": [
+      {
+        "t": "p",
+        "c": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-research-acceleration-the-view-inside-opena",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Research acceleration: The view inside OpenAI",
+    "excerpt": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-06",
+    "readMins": 3,
+    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "body": [
+      {
+        "t": "p",
+        "c": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-daybreak-for-frontline-defenders-1b-to-prot",
     "category": "ai",
@@ -15,69 +78,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-playco-cut-manual-fixes-50-prototyping-game",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "excerpt": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-03",
-    "readMins": 3,
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "body": [
-      {
-        "t": "p",
-        "c": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-legora-reviewed-41-documents-in-minutes-wit",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "excerpt": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-03",
-    "readMins": 3,
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "body": [
-      {
-        "t": "p",
-        "c": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-gpt-6-astra-a-new-generation-of-intelligenc",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "GPT-6 Astra: A new generation of intelligence",
-    "excerpt": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-03",
-    "readMins": 3,
-    "link": "https://openai.com/index/gpt-6-astra",
-    "body": [
-      {
-        "t": "p",
-        "c": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-06T10:45:18.623Z";
+window.INTELLECT_GENERATED_AT = "2026-09-07T12:15:49.531Z";
