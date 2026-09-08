@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-07T12:15:49.531Z */
+/* Обновлено: 2026-09-08T11:05:00.757Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-supporting-independent-journalism-in-ukrain",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-07T12:15:49.531Z";
+window.INTELLECT_GENERATED_AT = "2026-09-08T11:05:00.757Z";
