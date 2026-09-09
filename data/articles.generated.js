@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-08T11:05:00.757Z */
+/* Обновлено: 2026-09-09T11:09:29.606Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-supporting-independent-journalism-in-ukrain",
+    "id": "openai-how-gpt-5-6-sol-helps-run-quantum-computing",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Supporting independent journalism in Ukraine",
-    "excerpt": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "excerpt": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
     "author": "Лента OpenAI",
-    "date": "2026-09-07",
+    "date": "2026-09-08",
     "readMins": 3,
-    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+        "c": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-an-alien-mind",
+    "id": "openai-the-work-now-within-reach",
     "category": "ai",
     "source": "OpenAI",
-    "title": "An Alien Mind",
-    "excerpt": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "title": "The Work Now Within Reach",
+    "excerpt": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
     "author": "Лента OpenAI",
-    "date": "2026-09-06",
+    "date": "2026-09-08",
     "readMins": 3,
-    "link": "https://openai.com/index/an-alien-mind",
+    "link": "https://openai.com/index/the-work-now-within-reach",
     "body": [
       {
         "t": "p",
-        "c": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+        "c": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
       },
       {
         "t": "p",
@@ -44,19 +44,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-research-acceleration-the-view-inside-opena",
+    "id": "openai-introducing-chatgpt-images-2-5",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Research acceleration: The view inside OpenAI",
-    "excerpt": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "title": "Introducing ChatGPT Images 2.5",
+    "excerpt": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
     "author": "Лента OpenAI",
-    "date": "2026-09-06",
+    "date": "2026-09-08",
     "readMins": 3,
-    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
     "body": [
       {
         "t": "p",
-        "c": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
+        "c": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
       },
       {
         "t": "p",
@@ -65,19 +65,61 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-daybreak-for-frontline-defenders-1b-to-prot",
+    "id": "openai-on-the-navier-stokes-millennium-prize-probl",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "excerpt": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "excerpt": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
     "author": "Лента OpenAI",
-    "date": "2026-09-03",
+    "date": "2026-09-08",
     "readMins": 3,
-    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "link": "https://openai.com/index/navier-stokes-solution",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+        "c": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-alphagenome-atlas-a-predictive-map",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "excerpt": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-09-08",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "body": [
+      {
+        "t": "p",
+        "c": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-safety-for-whom-refusing-the-right-su",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-08",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -170,27 +212,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-training-a-coding-model-to-paint-wate",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-03",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/train-to-paint-with-code",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-proactive-cyber-defense-for-govern",
     "category": "research",
     "source": "Google DeepMind",
@@ -221,27 +242,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-09-02",
     "readMins": 3,
     "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-introducing-agentic-video-understa",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Introducing agentic video understanding with Gemini",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-09-01",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-08T11:05:00.757Z";
+window.INTELLECT_GENERATED_AT = "2026-09-09T11:09:29.606Z";
