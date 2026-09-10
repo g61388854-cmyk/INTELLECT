@@ -1,6 +1,90 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-09T11:09:29.606Z */
+/* Обновлено: 2026-09-10T11:06:20.981Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-the-ai-policy-window-is-open-we-need-to-act",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "The AI policy window is open. We need to act.",
+    "excerpt": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-09",
+    "readMins": 3,
+    "link": "https://openai.com/index/ai-policy-window",
+    "body": [
+      {
+        "t": "p",
+        "c": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-gpt-6-astra-the-next-generation-in-intellig",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "excerpt": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-09",
+    "readMins": 3,
+    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "body": [
+      {
+        "t": "p",
+        "c": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-paul-christiano-joins-openai-foundation-boa",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "excerpt": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-09",
+    "readMins": 3,
+    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "body": [
+      {
+        "t": "p",
+        "c": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-ibm-releases-sota-granite-time-series",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-09",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-gpt-5-6-sol-helps-run-quantum-computing",
     "category": "ai",
@@ -15,69 +99,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-the-work-now-within-reach",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "The Work Now Within Reach",
-    "excerpt": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-08",
-    "readMins": 3,
-    "link": "https://openai.com/index/the-work-now-within-reach",
-    "body": [
-      {
-        "t": "p",
-        "c": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-introducing-chatgpt-images-2-5",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT Images 2.5",
-    "excerpt": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-08",
-    "readMins": 3,
-    "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "body": [
-      {
-        "t": "p",
-        "c": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-on-the-navier-stokes-millennium-prize-probl",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "excerpt": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-08",
-    "readMins": 3,
-    "link": "https://openai.com/index/navier-stokes-solution",
-    "body": [
-      {
-        "t": "p",
-        "c": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
       },
       {
         "t": "p",
@@ -179,27 +200,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-09-03",
     "readMins": 3,
     "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-give-your-coding-agents-a-memory-you-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Give Your Coding Agents a Memory You Own",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-03",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/funes",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-09T11:09:29.606Z";
+window.INTELLECT_GENERATED_AT = "2026-09-10T11:06:20.981Z";
