@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-10T11:06:20.981Z */
+/* Обновлено: 2026-09-11T11:04:59.891Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-the-ai-policy-window-is-open-we-need-to-act",
+    "id": "openai-how-a-researcher-uses-codex-and-chatgpt-to-",
     "category": "ai",
     "source": "OpenAI",
-    "title": "The AI policy window is open. We need to act.",
-    "excerpt": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "excerpt": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
     "author": "Лента OpenAI",
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "readMins": 3,
-    "link": "https://openai.com/index/ai-policy-window",
+    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "body": [
       {
         "t": "p",
-        "c": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
+        "c": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-gpt-6-astra-the-next-generation-in-intellig",
+    "id": "openai-now-everyone-can-put-data-to-work",
     "category": "ai",
     "source": "OpenAI",
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "excerpt": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "title": "Now everyone can put data to work",
+    "excerpt": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
     "author": "Лента OpenAI",
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "readMins": 3,
-    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "link": "https://openai.com/index/put-data-to-work",
     "body": [
       {
         "t": "p",
-        "c": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+        "c": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
       },
       {
         "t": "p",
@@ -44,19 +44,61 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-paul-christiano-joins-openai-foundation-boa",
+    "id": "openai-introducing-chatgpt-for-financial-services",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "excerpt": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "title": "Introducing ChatGPT for Financial Services",
+    "excerpt": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
     "author": "Лента OpenAI",
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "readMins": 3,
-    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
     "body": [
       {
         "t": "p",
-        "c": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+        "c": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-expanding-ai-access-and-cyber-defense-for-f",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "excerpt": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-10",
+    "readMins": 3,
+    "link": "https://openai.com/index/expanding-ai-access-us-government",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-rebuilding-automatic1111-with-gradio-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-10",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/gradio-workflow-1111",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -78,27 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-gpt-5-6-sol-helps-run-quantum-computing",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "excerpt": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-08",
-    "readMins": 3,
-    "link": "https://openai.com/index/codex-quantum-computing-experiments",
-    "body": [
-      {
-        "t": "p",
-        "c": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
       },
       {
         "t": "p",
@@ -179,27 +200,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-09-03",
     "readMins": 3,
     "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-fine-tuning-a-350m-model-for-better-s",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-03",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-10T11:06:20.981Z";
+window.INTELLECT_GENERATED_AT = "2026-09-11T11:04:59.891Z";
