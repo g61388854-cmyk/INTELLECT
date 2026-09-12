@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-11T11:04:59.891Z */
+/* Обновлено: 2026-09-12T10:34:05.361Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-perplexity-trusts-gpt-6-astra-with-end-to-e",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "excerpt": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-14",
+    "readMins": 3,
+    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "body": [
+      {
+        "t": "p",
+        "c": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-rapidly-scaling-online-storage-to-serve-ove",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "excerpt": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-11",
+    "readMins": 3,
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-cognition-helps-devin-test-its-own-work-wit",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "excerpt": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-11",
+    "readMins": 3,
+    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "body": [
+      {
+        "t": "p",
+        "c": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-a-researcher-uses-codex-and-chatgpt-to-",
     "category": "ai",
@@ -15,69 +78,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-now-everyone-can-put-data-to-work",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Now everyone can put data to work",
-    "excerpt": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-10",
-    "readMins": 3,
-    "link": "https://openai.com/index/put-data-to-work",
-    "body": [
-      {
-        "t": "p",
-        "c": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-introducing-chatgpt-for-financial-services",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT for Financial Services",
-    "excerpt": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-10",
-    "readMins": 3,
-    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "body": [
-      {
-        "t": "p",
-        "c": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-expanding-ai-access-and-cyber-defense-for-f",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "excerpt": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-10",
-    "readMins": 3,
-    "link": "https://openai.com/index/expanding-ai-access-us-government",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-11T11:04:59.891Z";
+window.INTELLECT_GENERATED_AT = "2026-09-12T10:34:05.362Z";
