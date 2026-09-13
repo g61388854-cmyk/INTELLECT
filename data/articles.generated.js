@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-12T10:34:05.361Z */
+/* Обновлено: 2026-09-13T11:37:04.822Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-perplexity-trusts-gpt-6-astra-with-end-to-e",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-12T10:34:05.362Z";
+window.INTELLECT_GENERATED_AT = "2026-09-13T11:37:04.822Z";
