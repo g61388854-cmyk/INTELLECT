@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-13T11:37:04.822Z */
+/* Обновлено: 2026-09-14T12:31:20.731Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-perplexity-trusts-gpt-6-astra-with-end-to-e",
@@ -78,6 +78,27 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-async-grpo-with-lora-across-hf-jobs-a",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-10",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -179,27 +200,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-09-03",
     "readMins": 3,
     "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-neomme-an-efficient-multimodal-native",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-03",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-13T11:37:04.822Z";
+window.INTELLECT_GENERATED_AT = "2026-09-14T12:31:20.731Z";
