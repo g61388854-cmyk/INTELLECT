@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-14T12:31:20.731Z */
+/* Обновлено: 2026-09-15T11:34:13.996Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-how-fyxer-built-an-ai-executive-assistant-p",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "excerpt": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-14",
+    "readMins": 3,
+    "link": "https://openai.com/index/fyxer",
+    "body": [
+      {
+        "t": "p",
+        "c": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-perplexity-trusts-gpt-6-astra-with-end-to-e",
     "category": "ai",
@@ -57,27 +78,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-a-researcher-uses-codex-and-chatgpt-to-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "excerpt": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-10",
-    "readMins": 3,
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "body": [
-      {
-        "t": "p",
-        "c": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-14T12:31:20.731Z";
+window.INTELLECT_GENERATED_AT = "2026-09-15T11:34:13.996Z";
