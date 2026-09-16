@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-15T11:34:13.996Z */
+/* Обновлено: 2026-09-16T11:20:35.585Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "google-deepmind-introducing-gemini-3-8-live-and-3-",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-09-15",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-your-agent-aced-the-task-will-it-do-i",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-15",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-fyxer-built-an-ai-executive-assistant-p",
     "category": "ai",
@@ -128,27 +170,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-ibm-releases-sota-granite-time-series",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-09",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-alphagenome-atlas-a-predictive-map",
     "category": "research",
     "source": "Google DeepMind",
@@ -221,27 +242,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-09-02",
     "readMins": 3,
     "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-introducing-gemini-3-8-flash-and-3",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-09-02",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-15T11:34:13.996Z";
+window.INTELLECT_GENERATED_AT = "2026-09-16T11:20:35.585Z";
