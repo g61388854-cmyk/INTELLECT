@@ -1,6 +1,90 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-16T11:20:35.585Z */
+/* Обновлено: 2026-09-17T11:28:55.982Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-helping-older-adults-use-ai-in-everyday-lif",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Helping older adults use AI in everyday life",
+    "excerpt": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-reimagining-advertising-with-ai",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Reimagining advertising with AI",
+    "excerpt": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/reimagining-advertising-with-ai",
+    "body": [
+      {
+        "t": "p",
+        "c": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-to-connect-ai-usage-to-business-value",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How to connect AI usage to business value",
+    "excerpt": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-our-framework-for-reporting-model-misalignm",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Our framework for reporting model misalignment",
+    "excerpt": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/model-misalignment-reporting-framework",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "google-deepmind-introducing-gemini-3-8-live-and-3-",
     "category": "research",
@@ -36,90 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-fyxer-built-an-ai-executive-assistant-p",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "excerpt": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-14",
-    "readMins": 3,
-    "link": "https://openai.com/index/fyxer",
-    "body": [
-      {
-        "t": "p",
-        "c": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-perplexity-trusts-gpt-6-astra-with-end-to-e",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "excerpt": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-14",
-    "readMins": 3,
-    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "body": [
-      {
-        "t": "p",
-        "c": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-rapidly-scaling-online-storage-to-serve-ove",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "excerpt": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-11",
-    "readMins": 3,
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-cognition-helps-devin-test-its-own-work-wit",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "excerpt": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-11",
-    "readMins": 3,
-    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "body": [
-      {
-        "t": "p",
-        "c": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
       },
       {
         "t": "p",
@@ -279,7 +279,7 @@ window.INTELLECT_GENERATED = [
     "category": "tech",
     "source": "NVIDIA",
     "title": "NVIDIA Rubin Platform, Open Models, Autonomous Driving: NVIDIA Presents Blueprint for the Future at CES",
-    "excerpt": "NVIDIA founder and CEO Jensen Huang took the stage at the Fontainebleau Las Vegas to open CES 2026, declaring that AI is scaling into every domain and every device. “Computing has…",
+    "excerpt": "Editor’s note: The name of NVIDIA DRIVE Hyperion was changed to NVIDIA Hyperion in September 2026. All references to the name have been updated in this blog. NVIDIA founder and…",
     "author": "Лента NVIDIA",
     "date": "2026-01-05",
     "readMins": 3,
@@ -287,7 +287,7 @@ window.INTELLECT_GENERATED = [
     "body": [
       {
         "t": "p",
-        "c": "NVIDIA founder and CEO Jensen Huang took the stage at the Fontainebleau Las Vegas to open CES 2026, declaring that AI is scaling into every domain and every device. “Computing has been fundamentally reshaped as a result of accelerated computing, as a result of artificial intelligence,” Huang said. “What that means is some $10 trillion [&#8230;]"
+        "c": "Editor’s note: The name of NVIDIA DRIVE Hyperion was changed to NVIDIA Hyperion in September 2026. All references to the name have been updated in this blog. NVIDIA founder and CEO Jensen Huang took the stage at the Fontainebleau Las Vegas to open CES 2026, declaring that AI is scaling into every domain and every [&#8230;]"
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-16T11:20:35.585Z";
+window.INTELLECT_GENERATED_AT = "2026-09-17T11:28:55.982Z";
