@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-17T11:28:55.982Z */
+/* Обновлено: 2026-09-18T11:01:39.600Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-how-cooley-is-accelerating-ipo-work-with-ch",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "excerpt": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-17",
+    "readMins": 3,
+    "link": "https://openai.com/index/cooley-gopublic",
+    "body": [
+      {
+        "t": "p",
+        "c": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-introducing-astra-for-law",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing Astra for Law",
+    "excerpt": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-17",
+    "readMins": 3,
+    "link": "https://openai.com/index/astra-for-law",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-helping-older-adults-use-ai-in-everyday-lif",
     "category": "ai",
@@ -36,48 +78,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-to-connect-ai-usage-to-business-value",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How to connect AI usage to business value",
-    "excerpt": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-our-framework-for-reporting-model-misalignm",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Our framework for reporting model misalignment",
-    "excerpt": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/model-misalignment-reporting-framework",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-17T11:28:55.982Z";
+window.INTELLECT_GENERATED_AT = "2026-09-18T11:01:39.600Z";
