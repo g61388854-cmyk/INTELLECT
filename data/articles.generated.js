@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-18T11:01:39.600Z */
+/* Обновлено: 2026-09-19T10:45:12.168Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-introducing-the-australian-youth-safety-blu",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "excerpt": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-18",
+    "readMins": 3,
+    "link": "https://openai.com/index/australian-youth-safety-blueprint",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-cooley-is-accelerating-ipo-work-with-ch",
     "category": "ai",
@@ -57,27 +78,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-reimagining-advertising-with-ai",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Reimagining advertising with AI",
-    "excerpt": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/reimagining-advertising-with-ai",
-    "body": [
-      {
-        "t": "p",
-        "c": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-18T11:01:39.600Z";
+window.INTELLECT_GENERATED_AT = "2026-09-19T10:45:12.169Z";
