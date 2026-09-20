@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-19T10:45:12.168Z */
+/* Обновлено: 2026-09-20T11:08:22.938Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-introducing-the-australian-youth-safety-blu",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-19T10:45:12.169Z";
+window.INTELLECT_GENERATED_AT = "2026-09-20T11:08:22.938Z";
