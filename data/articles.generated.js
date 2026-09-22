@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-21T12:37:19.547Z */
+/* Обновлено: 2026-09-22T11:24:01.917Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-introducing-the-australian-youth-safety-blu",
+    "id": "hugging-face-transformers-now-runs-llama-cpp-quant",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "excerpt": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-18",
+    "source": "Hugging Face",
+    "title": "Transformers now runs llama.cpp quants",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-22",
     "readMins": 3,
-    "link": "https://openai.com/index/australian-youth-safety-blueprint",
+    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-cooley-is-accelerating-ipo-work-with-ch",
+    "id": "hugging-face-jun-kim-omlx-creator-and-maintainer-j",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "excerpt": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-17",
+    "source": "Hugging Face",
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-22",
     "readMins": 3,
-    "link": "https://openai.com/index/cooley-gopublic",
+    "link": "https://huggingface.co/blog/omlx",
     "body": [
       {
         "t": "p",
-        "c": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -44,19 +44,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-introducing-astra-for-law",
+    "id": "openai-advisory-group-on-mathematics-and-artificia",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Introducing Astra for Law",
-    "excerpt": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "excerpt": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
     "author": "Лента OpenAI",
-    "date": "2026-09-17",
+    "date": "2026-09-21",
     "readMins": 3,
-    "link": "https://openai.com/index/astra-for-law",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
+        "c": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
       },
       {
         "t": "p",
@@ -65,19 +65,103 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-helping-older-adults-use-ai-in-everyday-lif",
+    "id": "openai-higgsfield-ai-ships-new-video-features-in-a",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Helping older adults use AI in everyday life",
-    "excerpt": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "excerpt": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
     "author": "Лента OpenAI",
-    "date": "2026-09-16",
+    "date": "2026-09-21",
     "readMins": 3,
-    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+        "c": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-building-standards-for-the-next-phase-of-ai",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Building standards for the next phase of AI",
+    "excerpt": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-21",
+    "readMins": 3,
+    "link": "https://openai.com/index/building-standards-next-phase-ai",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-expanding-openai-academy-with-new-learning-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "excerpt": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-21",
+    "readMins": 3,
+    "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "body": [
+      {
+        "t": "p",
+        "c": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-pruning-llms-like-a-physicist-block-r",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-21",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-tokenizers-v1-encode-decode-and-scali",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-21",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/tokenizers-v1",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -107,69 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-your-agent-aced-the-task-will-it-do-i",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-15",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-async-grpo-with-lora-across-hf-jobs-a",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-10",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-rebuilding-automatic1111-with-gradio-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-10",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/gradio-workflow-1111",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-alphagenome-atlas-a-predictive-map",
     "category": "research",
     "source": "Google DeepMind",
@@ -183,27 +204,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-safety-for-whom-refusing-the-right-su",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-08",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-21T12:37:19.547Z";
+window.INTELLECT_GENERATED_AT = "2026-09-22T11:24:01.917Z";
