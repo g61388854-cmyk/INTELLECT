@@ -1,6 +1,111 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-22T11:24:01.917Z */
+/* Обновлено: 2026-09-23T11:20:57.342Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-grab-and-openai-bring-practical-ai-skills-t",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "excerpt": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-23",
+    "readMins": 3,
+    "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-better-prompt-caching-for-gpt-6",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Better prompt caching for GPT-6",
+    "excerpt": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-22",
+    "readMins": 3,
+    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-introducing-gpt-6-sol-and-luna",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "excerpt": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-22",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "body": [
+      {
+        "t": "p",
+        "c": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-parallel-cut-research-time-and-cost-in-half",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "excerpt": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-22",
+    "readMins": 3,
+    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "body": [
+      {
+        "t": "p",
+        "c": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-how-uk-aisi-and-evaleval-are-making-b",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-22",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/evaleval-aisi",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-transformers-now-runs-llama-cpp-quant",
     "category": "ai",
@@ -44,90 +149,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-advisory-group-on-mathematics-and-artificia",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "excerpt": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-21",
-    "readMins": 3,
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-higgsfield-ai-ships-new-video-features-in-a",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "excerpt": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-21",
-    "readMins": 3,
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "body": [
-      {
-        "t": "p",
-        "c": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-building-standards-for-the-next-phase-of-ai",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Building standards for the next phase of AI",
-    "excerpt": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-21",
-    "readMins": 3,
-    "link": "https://openai.com/index/building-standards-next-phase-ai",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-expanding-openai-academy-with-new-learning-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Expanding OpenAI Academy with new learning paths",
-    "excerpt": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-21",
-    "readMins": 3,
-    "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-    "body": [
-      {
-        "t": "p",
-        "c": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-pruning-llms-like-a-physicist-block-r",
     "category": "ai",
     "source": "Hugging Face",
@@ -137,27 +158,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-09-21",
     "readMins": 3,
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-tokenizers-v1-encode-decode-and-scali",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "tokenizers v1: encode, decode and scaling, measured",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-21",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/tokenizers-v1",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-22T11:24:01.917Z";
+window.INTELLECT_GENERATED_AT = "2026-09-23T11:20:57.342Z";
