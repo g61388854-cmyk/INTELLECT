@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-23T11:20:57.342Z */
+/* Обновлено: 2026-09-24T11:33:24.530Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-grab-and-openai-bring-practical-ai-skills-t",
+    "id": "openai-two-years-of-openai-academy",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-    "excerpt": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "title": "Two years of OpenAI Academy",
+    "excerpt": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
     "author": "Лента OpenAI",
     "date": "2026-09-23",
     "readMins": 3,
-    "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "link": "https://openai.com/index/two-years-of-openai-academy",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
+        "c": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-better-prompt-caching-for-gpt-6",
+    "id": "openai-openai-extends-cyber-access-to-ukraine-for-",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Better prompt caching for GPT-6",
-    "excerpt": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "excerpt": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
     "author": "Лента OpenAI",
-    "date": "2026-09-22",
+    "date": "2026-09-23",
     "readMins": 3,
-    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
     "body": [
       {
         "t": "p",
-        "c": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+        "c": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
       },
       {
         "t": "p",
@@ -44,19 +44,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-introducing-gpt-6-sol-and-luna",
+    "id": "openai-sam-altman-s-remarks-at-the-united-nations-",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "excerpt": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "excerpt": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
     "author": "Лента OpenAI",
-    "date": "2026-09-22",
+    "date": "2026-09-23",
     "readMins": 3,
-    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "body": [
       {
         "t": "p",
-        "c": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+        "c": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
       },
       {
         "t": "p",
@@ -65,19 +65,82 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-parallel-cut-research-time-and-cost-in-half",
+    "id": "openai-harvey-turns-legal-context-into-stronger-dr",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "excerpt": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "excerpt": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
     "author": "Лента OpenAI",
-    "date": "2026-09-22",
+    "date": "2026-09-23",
     "readMins": 3,
-    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "body": [
       {
         "t": "p",
-        "c": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
+        "c": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-advancing-private-ai-compute-with-",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-09-23",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Introducing private, server-side memory to Private AI Compute for personal AI."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-gemini-3-8-text-to-speech-says-hel",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-09-23",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-how-to-use-nvidia-warp-and-mjwarp-to-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-23",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -149,27 +212,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-pruning-llms-like-a-physicist-block-r",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-21",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-gemini-3-8-live-and-3-",
     "category": "research",
     "source": "Google DeepMind",
@@ -204,48 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-introducing-weathernext-3-our-most",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-09-03",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-proactive-cyber-defense-for-govern",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-09-02",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-23T11:20:57.342Z";
+window.INTELLECT_GENERATED_AT = "2026-09-24T11:33:24.530Z";
