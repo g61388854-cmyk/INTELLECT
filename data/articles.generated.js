@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-24T11:33:24.530Z */
+/* Обновлено: 2026-09-25T11:39:46.968Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "google-deepmind-introducing-gemini-3-8-live-with-l",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-09-24",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-accelerating-vision-language-models-w",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-24",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-two-years-of-openai-academy",
     "category": "ai",
@@ -191,27 +233,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-jun-kim-omlx-creator-and-maintainer-j",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-22",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/omlx",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-gemini-3-8-live-and-3-",
     "category": "research",
     "source": "Google DeepMind",
@@ -225,27 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-alphagenome-atlas-a-predictive-map",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "excerpt": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-09-08",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "body": [
-      {
-        "t": "p",
-        "c": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-24T11:33:24.530Z";
+window.INTELLECT_GENERATED_AT = "2026-09-25T11:39:46.968Z";
