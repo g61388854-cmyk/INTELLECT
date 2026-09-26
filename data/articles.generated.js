@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-25T11:39:46.968Z */
+/* Обновлено: 2026-09-26T11:14:13.460Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-proaction-boosts-sales-60-and-saves-75-hour",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "excerpt": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-25",
+    "readMins": 3,
+    "link": "https://openai.com/index/proaction",
+    "body": [
+      {
+        "t": "p",
+        "c": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "google-deepmind-introducing-gemini-3-8-live-with-l",
     "category": "research",
@@ -99,27 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-harvey-turns-legal-context-into-stronger-dr",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "excerpt": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-23",
-    "readMins": 3,
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "body": [
-      {
-        "t": "p",
-        "c": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-25T11:39:46.968Z";
+window.INTELLECT_GENERATED_AT = "2026-09-26T11:14:13.460Z";
