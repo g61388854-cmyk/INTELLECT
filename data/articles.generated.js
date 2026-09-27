@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-26T11:14:13.460Z */
+/* Обновлено: 2026-09-27T11:52:56.051Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-proaction-boosts-sales-60-and-saves-75-hour",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-26T11:14:13.460Z";
+window.INTELLECT_GENERATED_AT = "2026-09-27T11:52:56.051Z";
