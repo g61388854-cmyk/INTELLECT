@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-27T11:52:56.051Z */
+/* Обновлено: 2026-09-28T13:39:21.128Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-holo4-powering-generalist-computer-us",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Holo4: powering generalist computer-use agents",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-28",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/Hcompany/holo4",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-proaction-boosts-sales-60-and-saves-75-hour",
     "category": "ai",
@@ -212,27 +233,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-transformers-now-runs-llama-cpp-quant",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Transformers now runs llama.cpp quants",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-22",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-gemini-3-8-live-and-3-",
     "category": "research",
     "source": "Google DeepMind",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-27T11:52:56.051Z";
+window.INTELLECT_GENERATED_AT = "2026-09-28T13:39:21.128Z";
