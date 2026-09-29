@@ -1,6 +1,90 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-28T13:39:21.128Z */
+/* Обновлено: 2026-09-29T12:38:02.104Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-how-we-will-do-better-for-australia",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How we will do better for Australia",
+    "excerpt": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-28",
+    "readMins": 3,
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-towards-safety-cases-for-frontier-ai-traini",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Towards safety cases for frontier AI training",
+    "excerpt": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "author": "Лента OpenAI",
+    "date": "2026-09-28",
+    "readMins": 3,
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "body": [
+      {
+        "t": "p",
+        "c": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-the-lenfest-institute-grows-landmark-progra",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "excerpt": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-28",
+    "readMins": 3,
+    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-are-you-a-codex-original",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Are you a Codex Original?",
+    "excerpt": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the…",
+    "author": "Лента OpenAI",
+    "date": "2026-09-28",
+    "readMins": 3,
+    "link": "https://openai.com/form/codex-originals",
+    "body": [
+      {
+        "t": "p",
+        "c": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-holo4-powering-generalist-computer-us",
     "category": "ai",
@@ -15,27 +99,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-proaction-boosts-sales-60-and-saves-75-hour",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "excerpt": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-25",
-    "readMins": 3,
-    "link": "https://openai.com/index/proaction",
-    "body": [
-      {
-        "t": "p",
-        "c": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
       },
       {
         "t": "p",
@@ -78,69 +141,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-two-years-of-openai-academy",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Two years of OpenAI Academy",
-    "excerpt": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-23",
-    "readMins": 3,
-    "link": "https://openai.com/index/two-years-of-openai-academy",
-    "body": [
-      {
-        "t": "p",
-        "c": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-openai-extends-cyber-access-to-ukraine-for-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "excerpt": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-23",
-    "readMins": 3,
-    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-sam-altman-s-remarks-at-the-united-nations-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "excerpt": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-23",
-    "readMins": 3,
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-28T13:39:21.128Z";
+window.INTELLECT_GENERATED_AT = "2026-09-29T12:38:02.104Z";
