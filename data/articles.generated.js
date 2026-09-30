@@ -1,20 +1,104 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-29T12:38:02.104Z */
+/* Обновлено: 2026-09-30T12:23:50.248Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-how-we-will-do-better-for-australia",
+    "id": "openai-introducing-gpt-6-1-sol",
     "category": "ai",
     "source": "OpenAI",
-    "title": "How we will do better for Australia",
-    "excerpt": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "title": "Introducing GPT-6.1 Sol",
+    "excerpt": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
     "author": "Лента OpenAI",
-    "date": "2026-09-28",
+    "date": "2026-09-29",
     "readMins": 3,
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
+        "c": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-devday-2026-recap",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "DevDay 2026 Recap",
+    "excerpt": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-29",
+    "readMins": 3,
+    "link": "https://openai.com/index/devday-2026-recap",
+    "body": [
+      {
+        "t": "p",
+        "c": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-introducing-dots",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing dots",
+    "excerpt": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-29",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-dots",
+    "body": [
+      {
+        "t": "p",
+        "c": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-nvidia-kumo-tabular-sets-a-new-accura",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-29",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-getting-the-source-right-not-just-the",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-29",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -36,48 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-the-lenfest-institute-grows-landmark-progra",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "excerpt": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-28",
-    "readMins": 3,
-    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-are-you-a-codex-original",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Are you a Codex Original?",
-    "excerpt": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the…",
-    "author": "Лента OpenAI",
-    "date": "2026-09-28",
-    "readMins": 3,
-    "link": "https://openai.com/form/codex-originals",
-    "body": [
-      {
-        "t": "p",
-        "c": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below."
       },
       {
         "t": "p",
@@ -179,48 +221,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-09-23",
     "readMins": 3,
     "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-how-to-use-nvidia-warp-and-mjwarp-to-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-23",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-how-uk-aisi-and-evaleval-are-making-b",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-22",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/evaleval-aisi",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-29T12:38:02.104Z";
+window.INTELLECT_GENERATED_AT = "2026-09-30T12:23:50.248Z";
