@@ -1,6 +1,111 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-09-30T12:23:50.248Z */
+/* Обновлено: 2026-10-01T12:58:27.799Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-disrupting-a-coordinated-model-distillation",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "excerpt": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-30",
+    "readMins": 3,
+    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-helping-small-businesses-put-ai-to-work",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Helping small businesses put AI to work",
+    "excerpt": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "author": "Лента OpenAI",
+    "date": "2026-09-30",
+    "readMins": 3,
+    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-gemini-4-argon-our-next-era-of-fro",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-09-30",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-introducing-synthid-bio",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Introducing SynthID Bio",
+    "excerpt": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-09-30",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-open-tts-leaderboard-scalable-evaluat",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-09-30",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/open-tts-leaderboard",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-introducing-gpt-6-1-sol",
     "category": "ai",
@@ -36,27 +141,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-introducing-dots",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Introducing dots",
-    "excerpt": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-29",
-    "readMins": 3,
-    "link": "https://openai.com/index/introducing-dots",
-    "body": [
-      {
-        "t": "p",
-        "c": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
       },
       {
         "t": "p",
@@ -107,27 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-towards-safety-cases-for-frontier-ai-traini",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Towards safety cases for frontier AI training",
-    "excerpt": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "author": "Лента OpenAI",
-    "date": "2026-09-28",
-    "readMins": 3,
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "body": [
-      {
-        "t": "p",
-        "c": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-holo4-powering-generalist-computer-us",
     "category": "ai",
     "source": "Hugging Face",
@@ -170,27 +233,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-accelerating-vision-language-models-w",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-24",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-advancing-private-ai-compute-with-",
     "category": "research",
     "source": "Google DeepMind",
@@ -204,48 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Introducing private, server-side memory to Private AI Compute for personal AI."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-gemini-3-8-text-to-speech-says-hel",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-09-23",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-introducing-gemini-3-8-live-and-3-",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-09-15",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-09-30T12:23:50.248Z";
+window.INTELLECT_GENERATED_AT = "2026-10-01T12:58:27.799Z";
