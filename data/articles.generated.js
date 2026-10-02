@@ -1,6 +1,111 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-01T12:58:27.799Z */
+/* Обновлено: 2026-10-02T12:20:45.852Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-autosynthdata-generating-training-dat",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-02",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-the-eternal-complement",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "The eternal complement",
+    "excerpt": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-01",
+    "readMins": 3,
+    "link": "https://openai.com/index/the-eternal-complement",
+    "body": [
+      {
+        "t": "p",
+        "c": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-albertsons-companies-is-reimagining-ret",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "excerpt": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-01",
+    "readMins": 3,
+    "link": "https://openai.com/index/albertsons-reimagining-retail",
+    "body": [
+      {
+        "t": "p",
+        "c": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-the-den-frees-up-10-15-hours-a-week-to-grow",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "excerpt": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-01",
+    "readMins": 3,
+    "link": "https://openai.com/index/the-den-family-social",
+    "body": [
+      {
+        "t": "p",
+        "c": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-introducing-olmo-core-3-open-scalable",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-01",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/olmocore3",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-disrupting-a-coordinated-model-distillation",
     "category": "ai",
@@ -15,27 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-helping-small-businesses-put-ai-to-work",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Helping small businesses put AI to work",
-    "excerpt": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-30",
-    "readMins": 3,
-    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
       },
       {
         "t": "p",
@@ -107,48 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-introducing-gpt-6-1-sol",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Introducing GPT-6.1 Sol",
-    "excerpt": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-29",
-    "readMins": 3,
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "body": [
-      {
-        "t": "p",
-        "c": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-devday-2026-recap",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "DevDay 2026 Recap",
-    "excerpt": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-29",
-    "readMins": 3,
-    "link": "https://openai.com/index/devday-2026-recap",
-    "body": [
-      {
-        "t": "p",
-        "c": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-nvidia-kumo-tabular-sets-a-new-accura",
     "category": "ai",
     "source": "Hugging Face",
@@ -158,48 +200,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-09-29",
     "readMins": 3,
     "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-getting-the-source-right-not-just-the",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-29",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-holo4-powering-generalist-computer-us",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Holo4: powering generalist computer-use agents",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-28",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/Hcompany/holo4",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-01T12:58:27.799Z";
+window.INTELLECT_GENERATED_AT = "2026-10-02T12:20:45.852Z";
