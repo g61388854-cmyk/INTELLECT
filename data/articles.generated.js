@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-02T12:20:45.852Z */
+/* Обновлено: 2026-10-03T11:30:48.756Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-a-model-guide-for-the-gpt-6-family",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "A model guide for the GPT-6 family",
+    "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-02",
+    "readMins": 3,
+    "link": "https://openai.com/index/practical-guide-building-gpt-6",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-chatham-scales-its-capital-markets-expertis",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-02",
+    "readMins": 3,
+    "link": "https://openai.com/index/chatham-financial",
+    "body": [
+      {
+        "t": "p",
+        "c": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-open-sourcing-astabrief-the-fast-repo",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-02",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-autosynthdata-generating-training-dat",
     "category": "ai",
@@ -57,69 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-the-den-frees-up-10-15-hours-a-week-to-grow",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "excerpt": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-01",
-    "readMins": 3,
-    "link": "https://openai.com/index/the-den-family-social",
-    "body": [
-      {
-        "t": "p",
-        "c": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-introducing-olmo-core-3-open-scalable",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-01",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/olmocore3",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-disrupting-a-coordinated-model-distillation",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "excerpt": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-    "author": "Лента OpenAI",
-    "date": "2026-09-30",
-    "readMins": 3,
-    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-02T12:20:45.852Z";
+window.INTELLECT_GENERATED_AT = "2026-10-03T11:30:48.757Z";
