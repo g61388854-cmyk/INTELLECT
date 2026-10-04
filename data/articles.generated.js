@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-03T11:30:48.756Z */
+/* Обновлено: 2026-10-04T12:11:50.884Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-the-agent-said-it-was-done-the-databa",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-03",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-a-model-guide-for-the-gpt-6-family",
     "category": "ai",
@@ -191,27 +212,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-nvidia-kumo-tabular-sets-a-new-accura",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-29",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-gemini-3-8-live-with-l",
     "category": "research",
     "source": "Google DeepMind",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-03T11:30:48.757Z";
+window.INTELLECT_GENERATED_AT = "2026-10-04T12:11:50.884Z";
