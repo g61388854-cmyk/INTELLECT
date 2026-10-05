@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-04T12:11:50.884Z */
+/* Обновлено: 2026-10-05T14:22:14.822Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-building-advertising-for-the-way-people-use",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Building advertising for the way people use AI",
+    "excerpt": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-05",
+    "readMins": 3,
+    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-the-agent-said-it-was-done-the-databa",
     "category": "ai",
@@ -120,27 +141,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-albertsons-companies-is-reimagining-ret",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "excerpt": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-01",
-    "readMins": 3,
-    "link": "https://openai.com/index/albertsons-reimagining-retail",
-    "body": [
-      {
-        "t": "p",
-        "c": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-04T12:11:50.884Z";
+window.INTELLECT_GENERATED_AT = "2026-10-05T14:22:14.822Z";
