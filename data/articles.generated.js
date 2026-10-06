@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-05T14:22:14.822Z */
+/* Обновлено: 2026-10-06T13:11:32.333Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-falcon-emirati-when-an-llm-learns-the",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-06",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-our-approach-to-eu-text-provenance-rules",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Our approach to EU text provenance rules",
+    "excerpt": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-05",
+    "readMins": 3,
+    "link": "https://openai.com/index/eu-text-provenance",
+    "body": [
+      {
+        "t": "p",
+        "c": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-building-advertising-for-the-way-people-use",
     "category": "ai",
@@ -128,27 +170,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-the-eternal-complement",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "The eternal complement",
-    "excerpt": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-01",
-    "readMins": 3,
-    "link": "https://openai.com/index/the-eternal-complement",
-    "body": [
-      {
-        "t": "p",
-        "c": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-gemini-4-argon-our-next-era-of-fro",
     "category": "research",
     "source": "Google DeepMind",
@@ -183,27 +204,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-open-tts-leaderboard-scalable-evaluat",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-09-30",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/open-tts-leaderboard",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-05T14:22:14.822Z";
+window.INTELLECT_GENERATED_AT = "2026-10-06T13:11:32.333Z";
