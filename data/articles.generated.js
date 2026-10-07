@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-06T13:11:32.333Z */
+/* Обновлено: 2026-10-07T13:08:34.488Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "hugging-face-falcon-emirati-when-an-llm-learns-the",
+    "id": "openai-how-jump-trading-is-scaling-quant-research-",
     "category": "ai",
-    "source": "Hugging Face",
-    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
+    "source": "OpenAI",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "excerpt": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "author": "Лента OpenAI",
     "date": "2026-10-06",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "link": "https://openai.com/index/jump-trading",
     "body": [
       {
         "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
+        "c": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-our-approach-to-eu-text-provenance-rules",
+    "id": "openai-sharing-ai-progress-in-mathematics",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Our approach to EU text provenance rules",
-    "excerpt": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "title": "Sharing AI progress in mathematics",
+    "excerpt": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
     "author": "Лента OpenAI",
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "readMins": 3,
-    "link": "https://openai.com/index/eu-text-provenance",
+    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
     "body": [
       {
         "t": "p",
-        "c": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
+        "c": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
       },
       {
         "t": "p",
@@ -44,19 +44,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-building-advertising-for-the-way-people-use",
+    "id": "openai-advancing-computer-use-with-ironclad",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Building advertising for the way people use AI",
-    "excerpt": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "title": "Advancing computer use with Ironclad",
+    "excerpt": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
     "author": "Лента OpenAI",
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "readMins": 3,
-    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+        "c": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
       },
       {
         "t": "p",
@@ -65,99 +65,36 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-the-agent-said-it-was-done-the-databa",
+    "id": "openai-atlassian-and-openai-expand-partnership-to-",
     "category": "ai",
-    "source": "Hugging Face",
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "source": "OpenAI",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "excerpt": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-06",
+    "readMins": 3,
+    "link": "https://openai.com/index/atlassian-partnership",
+    "body": [
+      {
+        "t": "p",
+        "c": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-embeddinggemma-2-an-open-lightweig",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
     "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-03",
+    "author": "Лента Google DeepMind",
+    "date": "2026-10-06",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-a-model-guide-for-the-gpt-6-family",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "A model guide for the GPT-6 family",
-    "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-02",
-    "readMins": 3,
-    "link": "https://openai.com/index/practical-guide-building-gpt-6",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-chatham-scales-its-capital-markets-expertis",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-02",
-    "readMins": 3,
-    "link": "https://openai.com/index/chatham-financial",
-    "body": [
-      {
-        "t": "p",
-        "c": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-open-sourcing-astabrief-the-fast-repo",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-02",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/astabrief",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-autosynthdata-generating-training-dat",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-02",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
     "body": [
       {
         "t": "p",
@@ -225,27 +162,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-advancing-private-ai-compute-with-",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-09-23",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Introducing private, server-side memory to Private AI Compute for personal AI."
       },
       {
         "t": "p",
@@ -338,4 +254,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-06T13:11:32.333Z";
+window.INTELLECT_GENERATED_AT = "2026-10-07T13:08:34.488Z";
