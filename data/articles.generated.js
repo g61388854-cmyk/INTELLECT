@@ -1,6 +1,111 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-07T13:08:34.488Z */
+/* Обновлено: 2026-10-08T13:15:51.434Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-helping-teens-learn-plan-and-shape-the-futu",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "excerpt": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-07",
+    "readMins": 3,
+    "link": "https://openai.com/index/teens-learn-and-plan",
+    "body": [
+      {
+        "t": "p",
+        "c": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-radisson-hotel-group-brings-hotel-discovery",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "excerpt": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-07",
+    "readMins": 3,
+    "link": "https://openai.com/index/radisson",
+    "body": [
+      {
+        "t": "p",
+        "c": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-gpt-6-and-intelligent-ui-for-everyone",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "excerpt": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-07",
+    "readMins": 3,
+    "link": "https://openai.com/index/gpt-6-for-everyone",
+    "body": [
+      {
+        "t": "p",
+        "c": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-multimodal-open-d1-decision-models-fo",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Multimodal open d1 decision models for the edge",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-07",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-one-model-family-two-gold-level-resul",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-07",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-jump-trading-is-scaling-quant-research-",
     "category": "ai",
@@ -23,69 +128,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-sharing-ai-progress-in-mathematics",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Sharing AI progress in mathematics",
-    "excerpt": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-06",
-    "readMins": 3,
-    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-advancing-computer-use-with-ironclad",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Advancing computer use with Ironclad",
-    "excerpt": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-06",
-    "readMins": 3,
-    "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-atlassian-and-openai-expand-partnership-to-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "excerpt": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-06",
-    "readMins": 3,
-    "link": "https://openai.com/index/atlassian-partnership",
-    "body": [
-      {
-        "t": "p",
-        "c": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-embeddinggemma-2-an-open-lightweig",
     "category": "research",
     "source": "Google DeepMind",
@@ -95,6 +137,48 @@ window.INTELLECT_GENERATED = [
     "date": "2026-10-06",
     "readMins": 3,
     "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-the-agent-said-it-was-done-the-databa",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-03",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-open-sourcing-astabrief-the-fast-repo",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-02",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/astabrief",
     "body": [
       {
         "t": "p",
@@ -254,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-07T13:08:34.488Z";
+window.INTELLECT_GENERATED_AT = "2026-10-08T13:15:51.434Z";
