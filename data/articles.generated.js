@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-08T13:15:51.434Z */
+/* Обновлено: 2026-10-09T13:02:53.751Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-helping-teens-learn-plan-and-shape-the-futu",
+    "id": "openai-sophos-cuts-threat-investigation-time-by-96",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "excerpt": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
     "author": "Лента OpenAI",
-    "date": "2026-10-07",
+    "date": "2026-10-09",
     "readMins": 3,
-    "link": "https://openai.com/index/teens-learn-and-plan",
+    "link": "https://openai.com/index/sophos",
     "body": [
       {
         "t": "p",
-        "c": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+        "c": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-radisson-hotel-group-brings-hotel-discovery",
+    "id": "openai-how-oracle-turns-days-of-work-into-minutes-",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "excerpt": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "excerpt": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
     "author": "Лента OpenAI",
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "readMins": 3,
-    "link": "https://openai.com/index/radisson",
+    "link": "https://openai.com/index/oracle",
     "body": [
       {
         "t": "p",
-        "c": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+        "c": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
       },
       {
         "t": "p",
@@ -44,19 +44,61 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-gpt-6-and-intelligent-ui-for-everyone",
+    "id": "openai-pollo-ai-turns-creative-ideas-into-campaign",
     "category": "ai",
     "source": "OpenAI",
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "excerpt": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "excerpt": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
     "author": "Лента OpenAI",
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "readMins": 3,
-    "link": "https://openai.com/index/gpt-6-for-everyone",
+    "link": "https://openai.com/index/pollo-ai",
     "body": [
       {
         "t": "p",
-        "c": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
+        "c": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-legalon-halves-codex-costs-while-maintainin",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "excerpt": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-08",
+    "readMins": 3,
+    "link": "https://openai.com/index/legalon-halves-codex-costs",
+    "body": [
+      {
+        "t": "p",
+        "c": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-the-model-that-didn-t-exist-so-you-ma",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "The model that didn't exist, so you made it yourself",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-08",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/building-with-ml-intern",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -74,6 +116,27 @@ window.INTELLECT_GENERATED = [
     "date": "2026-10-07",
     "readMins": 3,
     "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-introducing-falcon-asr",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Introducing Falcon ASR",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-07",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
     "body": [
       {
         "t": "p",
@@ -107,27 +170,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-jump-trading-is-scaling-quant-research-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "excerpt": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-06",
-    "readMins": 3,
-    "link": "https://openai.com/index/jump-trading",
-    "body": [
-      {
-        "t": "p",
-        "c": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-embeddinggemma-2-an-open-lightweig",
     "category": "research",
     "source": "Google DeepMind",
@@ -137,48 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-10-06",
     "readMins": 3,
     "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-the-agent-said-it-was-done-the-databa",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-03",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-open-sourcing-astabrief-the-fast-repo",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-02",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/astabrief",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-08T13:15:51.434Z";
+window.INTELLECT_GENERATED_AT = "2026-10-09T13:02:53.751Z";
