@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-09T13:02:53.751Z */
+/* Обновлено: 2026-10-10T12:19:39.075Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-sophos-cuts-threat-investigation-time-by-96",
@@ -15,6 +15,48 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-asana-cuts-model-costs-76x-in-browser-tests",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "excerpt": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-09",
+    "readMins": 3,
+    "link": "https://openai.com/index/asana-browser-agent",
+    "body": [
+      {
+        "t": "p",
+        "c": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-impactful-scheduling-for-gpu-clusters",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Impactful scheduling for GPU clusters",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-09",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -57,27 +99,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-legalon-halves-codex-costs-while-maintainin",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "LegalOn halves Codex costs while maintaining development speed",
-    "excerpt": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-08",
-    "readMins": 3,
-    "link": "https://openai.com/index/legalon-halves-codex-costs",
-    "body": [
-      {
-        "t": "p",
-        "c": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
       },
       {
         "t": "p",
@@ -137,27 +158,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-10-07",
     "readMins": 3,
     "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-one-model-family-two-gold-level-resul",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-07",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-09T13:02:53.751Z";
+window.INTELLECT_GENERATED_AT = "2026-10-10T12:19:39.075Z";
