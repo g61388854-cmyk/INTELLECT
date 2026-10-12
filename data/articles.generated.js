@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-11T12:36:06.951Z */
+/* Обновлено: 2026-10-12T15:09:15.051Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-sophos-cuts-threat-investigation-time-by-96",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-11T12:36:06.951Z";
+window.INTELLECT_GENERATED_AT = "2026-10-12T15:09:15.051Z";
