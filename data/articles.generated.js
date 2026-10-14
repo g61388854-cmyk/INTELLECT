@@ -1,6 +1,153 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-13T14:01:31.709Z */
+/* Обновлено: 2026-10-14T11:38:13.866Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-the-eu-s-next-chapter-in-ai-is-agentic",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "The EU’s next chapter in AI is agentic",
+    "excerpt": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-14",
+    "readMins": 3,
+    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "body": [
+      {
+        "t": "p",
+        "c": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-google-deepmind-and-singapore-gove",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-10-14",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-higgsfield-takes-ai-video-from-1-minute-to-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "excerpt": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-13",
+    "readMins": 3,
+    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "body": [
+      {
+        "t": "p",
+        "c": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-developing-gemini-4-argon-responsi",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-10-13",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-gemini-4-argon-for-robotics",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Gemini 4 Argon for Robotics",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-10-13",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-gemini-4-argon-built-to-solve-your",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-10-13",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-run-fast-private-agents-on-device-wit",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-13",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-sophos-cuts-threat-investigation-time-by-96",
     "category": "ai",
@@ -65,48 +212,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-oracle-turns-days-of-work-into-minutes-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "excerpt": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-08",
-    "readMins": 3,
-    "link": "https://openai.com/index/oracle",
-    "body": [
-      {
-        "t": "p",
-        "c": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-pollo-ai-turns-creative-ideas-into-campaign",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "excerpt": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-08",
-    "readMins": 3,
-    "link": "https://openai.com/index/pollo-ai",
-    "body": [
-      {
-        "t": "p",
-        "c": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-the-model-that-didn-t-exist-so-you-ma",
     "category": "ai",
     "source": "Hugging Face",
@@ -128,27 +233,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-multimodal-open-d1-decision-models-fo",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Multimodal open d1 decision models for the edge",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-07",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-introducing-falcon-asr",
     "category": "ai",
     "source": "Hugging Face",
@@ -158,90 +242,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-10-07",
     "readMins": 3,
     "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-embeddinggemma-2-an-open-lightweig",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-10-06",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-gemini-4-argon-our-next-era-of-fro",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-09-30",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-introducing-synthid-bio",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Introducing SynthID Bio",
-    "excerpt": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-09-30",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-introducing-gemini-3-8-live-with-l",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-09-24",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-13T14:01:31.709Z";
+window.INTELLECT_GENERATED_AT = "2026-10-14T11:38:13.866Z";
