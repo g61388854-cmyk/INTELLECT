@@ -1,20 +1,83 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-14T11:38:13.866Z */
+/* Обновлено: 2026-10-15T11:16:45.602Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-the-eu-s-next-chapter-in-ai-is-agentic",
+    "id": "openai-amp-puts-ai-agents-to-work-beyond-code-with",
     "category": "ai",
     "source": "OpenAI",
-    "title": "The EU’s next chapter in AI is agentic",
-    "excerpt": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "excerpt": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
     "author": "Лента OpenAI",
     "date": "2026-10-14",
     "readMins": 3,
-    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "link": "https://openai.com/index/amp-beyond-coding",
     "body": [
       {
         "t": "p",
-        "c": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
+        "c": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-sentinelone-cuts-malware-analysis-from-week",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "excerpt": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-14",
+    "readMins": 3,
+    "link": "https://openai.com/index/sentinelone",
+    "body": [
+      {
+        "t": "p",
+        "c": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-third-moment-research-runs-10-000-agent",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "excerpt": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-14",
+    "readMins": 3,
+    "link": "https://openai.com/index/third-moment-research",
+    "body": [
+      {
+        "t": "p",
+        "c": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-block-is-building-ai-powered-security-w",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "excerpt": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-14",
+    "readMins": 3,
+    "link": "https://openai.com/index/block-ai-powered-security",
+    "body": [
+      {
+        "t": "p",
+        "c": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
       },
       {
         "t": "p",
@@ -44,19 +107,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-higgsfield-takes-ai-video-from-1-minute-to-",
+    "id": "hugging-face-hiro-acev2-simulating-extreme-weather",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "excerpt": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-13",
+    "source": "Hugging Face",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-14",
     "readMins": 3,
-    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
     "body": [
       {
         "t": "p",
-        "c": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -137,69 +200,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-10-13",
     "readMins": 3,
     "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-sophos-cuts-threat-investigation-time-by-96",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-09",
-    "readMins": 3,
-    "link": "https://openai.com/index/sophos",
-    "body": [
-      {
-        "t": "p",
-        "c": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-asana-cuts-model-costs-76x-in-browser-tests",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "excerpt": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-09",
-    "readMins": 3,
-    "link": "https://openai.com/index/asana-browser-agent",
-    "body": [
-      {
-        "t": "p",
-        "c": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-impactful-scheduling-for-gpu-clusters",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Impactful scheduling for GPU clusters",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-09",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-14T11:38:13.866Z";
+window.INTELLECT_GENERATED_AT = "2026-10-15T11:16:45.602Z";
