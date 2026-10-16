@@ -1,6 +1,174 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-15T11:16:45.602Z */
+/* Обновлено: 2026-10-16T11:11:20.711Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-scaling-indic-pretraining-2-8-trillio",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-16",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-bringing-gpt-rosalind-to-academic-research-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "excerpt": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-15",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "body": [
+      {
+        "t": "p",
+        "c": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-teaching-students-to-think-and-learn-throug",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Teaching students to think and learn through questions",
+    "excerpt": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-15",
+    "readMins": 3,
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "body": [
+      {
+        "t": "p",
+        "c": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-sullivan-cromwell-brings-legal-expertise-in",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "excerpt": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-15",
+    "readMins": 3,
+    "link": "https://openai.com/index/sullivan-cromwell",
+    "body": [
+      {
+        "t": "p",
+        "c": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-accelerating-the-search-for-antimi",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-10-15",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-granite-switch-4-1-chat-decisions-and",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-15",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-welcome-muse-spark-open-open-weight-f",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-15",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/meta-muse-spark-open",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-welcome-flux-3-image-klein-in-diffuse",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-15",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/flux-3",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-amp-puts-ai-agents-to-work-beyond-code-with",
     "category": "ai",
@@ -23,69 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-sentinelone-cuts-malware-analysis-from-week",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "excerpt": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-14",
-    "readMins": 3,
-    "link": "https://openai.com/index/sentinelone",
-    "body": [
-      {
-        "t": "p",
-        "c": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-third-moment-research-runs-10-000-agent",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "excerpt": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-14",
-    "readMins": 3,
-    "link": "https://openai.com/index/third-moment-research",
-    "body": [
-      {
-        "t": "p",
-        "c": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-block-is-building-ai-powered-security-w",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "excerpt": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-14",
-    "readMins": 3,
-    "link": "https://openai.com/index/block-ai-powered-security",
-    "body": [
-      {
-        "t": "p",
-        "c": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-google-deepmind-and-singapore-gove",
     "category": "research",
     "source": "Google DeepMind",
@@ -99,27 +204,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-hiro-acev2-simulating-extreme-weather",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-14",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -158,90 +242,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-10-13",
     "readMins": 3,
     "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-gemini-4-argon-built-to-solve-your",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-10-13",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-run-fast-private-agents-on-device-wit",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-13",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-the-model-that-didn-t-exist-so-you-ma",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "The model that didn't exist, so you made it yourself",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-08",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/building-with-ml-intern",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-introducing-falcon-asr",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Introducing Falcon ASR",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-07",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-15T11:16:45.602Z";
+window.INTELLECT_GENERATED_AT = "2026-10-16T11:11:20.711Z";
