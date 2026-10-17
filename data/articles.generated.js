@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-16T11:11:20.711Z */
+/* Обновлено: 2026-10-17T10:30:16.789Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-how-ita-is-building-generative-ai-for-its-e",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "excerpt": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated…",
+    "author": "Лента OpenAI",
+    "date": "2026-10-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/itau-generative-ai",
+    "body": [
+      {
+        "t": "p",
+        "c": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-stack-overflow-for-agents-triples-signups-w",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "body": [
+      {
+        "t": "p",
+        "c": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-benefit-street-partners-answers-questions-f",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "excerpt": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/benefit-street-partners",
+    "body": [
+      {
+        "t": "p",
+        "c": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-scaling-indic-pretraining-2-8-trillio",
     "category": "ai",
@@ -11,6 +74,27 @@ window.INTELLECT_GENERATED = [
     "date": "2026-10-16",
     "readMins": 3,
     "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-welcome-beam-a-501b-open-model-you-ca",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-16",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/reflection-beam",
     "body": [
       {
         "t": "p",
@@ -36,48 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-teaching-students-to-think-and-learn-throug",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Teaching students to think and learn through questions",
-    "excerpt": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-15",
-    "readMins": 3,
-    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "body": [
-      {
-        "t": "p",
-        "c": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-sullivan-cromwell-brings-legal-expertise-in",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "excerpt": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-15",
-    "readMins": 3,
-    "link": "https://openai.com/index/sullivan-cromwell",
-    "body": [
-      {
-        "t": "p",
-        "c": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
       },
       {
         "t": "p",
@@ -141,48 +183,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-welcome-flux-3-image-klein-in-diffuse",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-15",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/flux-3",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-amp-puts-ai-agents-to-work-beyond-code-with",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "excerpt": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-14",
-    "readMins": 3,
-    "link": "https://openai.com/index/amp-beyond-coding",
-    "body": [
-      {
-        "t": "p",
-        "c": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-16T11:11:20.711Z";
+window.INTELLECT_GENERATED_AT = "2026-10-17T10:30:16.789Z";
