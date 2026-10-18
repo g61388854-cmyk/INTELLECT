@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-17T10:30:16.789Z */
+/* Обновлено: 2026-10-18T10:50:34.651Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-how-ita-is-building-generative-ai-for-its-e",
@@ -23,27 +23,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-stack-overflow-for-agents-triples-signups-w",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "body": [
-      {
-        "t": "p",
-        "c": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "openai-benefit-street-partners-answers-questions-f",
     "category": "ai",
     "source": "OpenAI",
@@ -57,6 +36,27 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-stack-overflow-for-agents-triples-signups-w",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "body": [
+      {
+        "t": "p",
+        "c": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-17T10:30:16.789Z";
+window.INTELLECT_GENERATED_AT = "2026-10-18T10:50:34.651Z";
