@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-18T10:50:34.651Z */
+/* Обновлено: 2026-10-19T12:52:26.082Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-how-ita-is-building-generative-ai-for-its-e",
@@ -149,6 +149,27 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
+    "id": "nvidia-open-from-data-center-to-desktop-nvidia-exp",
+    "category": "tech",
+    "source": "NVIDIA",
+    "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+    "excerpt": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.…",
+    "author": "Лента NVIDIA",
+    "date": "2026-10-15",
+    "readMins": 3,
+    "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+    "body": [
+      {
+        "t": "p",
+        "c": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized [&#8230;]"
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
     "id": "hugging-face-granite-switch-4-1-chat-decisions-and",
     "category": "ai",
     "source": "Hugging Face",
@@ -170,15 +191,15 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-welcome-muse-spark-open-open-weight-f",
+    "id": "hugging-face-apertus-1-5-release-notes",
     "category": "ai",
     "source": "Hugging Face",
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "title": "Apertus 1.5 Release Notes",
     "excerpt": "Подробности — в полном материале на сайте источника.",
     "author": "Лента Hugging Face",
     "date": "2026-10-15",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/meta-muse-spark-open",
+    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
     "body": [
       {
         "t": "p",
@@ -315,27 +336,6 @@ window.INTELLECT_GENERATED = [
         "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
       }
     ]
-  },
-  {
-    "id": "nvidia-reaching-across-the-isles-uk-llm-brings-ai-",
-    "category": "tech",
-    "source": "NVIDIA",
-    "title": "Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron",
-    "excerpt": "Celtic languages — including Cornish, Irish, Scottish Gaelic and Welsh — are the U.K.’s oldest living languages. To empower their speakers, the UK-LLM sovereign AI initiative is…",
-    "author": "Лента NVIDIA",
-    "date": "2025-09-14",
-    "readMins": 3,
-    "link": "https://blogs.nvidia.com/blog/uk-llm-nemotron/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Celtic languages — including Cornish, Irish, Scottish Gaelic and Welsh — are the U.K.’s oldest living languages. To empower their speakers, the UK-LLM sovereign AI initiative is building an AI model based on NVIDIA Nemotron that can reason in both English and Welsh, a language spoken by about 850,000 people in Wales today. Enabling high-quality [&#8230;]"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-18T10:50:34.651Z";
+window.INTELLECT_GENERATED_AT = "2026-10-19T12:52:26.082Z";
