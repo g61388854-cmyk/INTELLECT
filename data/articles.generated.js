@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-19T12:52:26.082Z */
+/* Обновлено: 2026-10-20T11:21:18.940Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-mps-in-pytorch-2-15",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "MPS in PyTorch 2.15",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-20",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-advancing-coding-in-low-resource-programmin",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Advancing coding in low‑resource programming languages",
+    "excerpt": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-19",
+    "readMins": 3,
+    "link": "https://openai.com/index/low-resource-programming-languages",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-torchneuron-running-hf-models-on-aws-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-19",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/hf-torchneuron",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-how-ita-is-building-generative-ai-for-its-e",
     "category": "ai",
@@ -107,27 +170,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-bringing-gpt-rosalind-to-academic-research-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "excerpt": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-15",
-    "readMins": 3,
-    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "body": [
-      {
-        "t": "p",
-        "c": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-accelerating-the-search-for-antimi",
     "category": "research",
     "source": "Google DeepMind",
@@ -162,48 +204,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized [&#8230;]"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-granite-switch-4-1-chat-decisions-and",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-15",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-apertus-1-5-release-notes",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Apertus 1.5 Release Notes",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-15",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-19T12:52:26.082Z";
+window.INTELLECT_GENERATED_AT = "2026-10-20T11:21:18.940Z";
