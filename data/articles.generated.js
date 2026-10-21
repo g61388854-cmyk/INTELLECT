@@ -1,16 +1,142 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-20T11:21:18.940Z */
+/* Обновлено: 2026-10-21T11:36:51.106Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "hugging-face-mps-in-pytorch-2-15",
+    "id": "hugging-face-announcing-simready-central-an-open-l",
     "category": "ai",
     "source": "Hugging Face",
-    "title": "MPS in PyTorch 2.15",
+    "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-21",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-franchisee-reconciles-cash-in-94-less-time-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "excerpt": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-20",
+    "readMins": 3,
+    "link": "https://openai.com/index/ted-taylor-restaurant",
+    "body": [
+      {
+        "t": "p",
+        "c": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-terminal-x-matches-senior-investor-judgment",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "excerpt": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-20",
+    "readMins": 3,
+    "link": "https://openai.com/index/terminal-x",
+    "body": [
+      {
+        "t": "p",
+        "c": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-openai-acquires-orchestra-bio",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "OpenAI acquires Orchestra Bio",
+    "excerpt": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-20",
+    "readMins": 3,
+    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-fairstress-a-deeper-evaluation-of-fai",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
     "excerpt": "Подробности — в полном материале на сайте источника.",
     "author": "Лента Hugging Face",
     "date": "2026-10-20",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-altk-evolve-how-learned-memory-tops-t",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-20",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-hugging-face-torchtpu-tpus-natively",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-20",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/hf-torchtpu",
     "body": [
       {
         "t": "p",
@@ -36,132 +162,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-torchneuron-running-hf-models-on-aws-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-19",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/hf-torchneuron",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-ita-is-building-generative-ai-for-its-e",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "excerpt": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated…",
-    "author": "Лента OpenAI",
-    "date": "2026-10-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/itau-generative-ai",
-    "body": [
-      {
-        "t": "p",
-        "c": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-benefit-street-partners-answers-questions-f",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "excerpt": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/benefit-street-partners",
-    "body": [
-      {
-        "t": "p",
-        "c": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-stack-overflow-for-agents-triples-signups-w",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "body": [
-      {
-        "t": "p",
-        "c": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-scaling-indic-pretraining-2-8-trillio",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-16",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-welcome-beam-a-501b-open-model-you-ca",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-16",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/reflection-beam",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-20T11:21:18.940Z";
+window.INTELLECT_GENERATED_AT = "2026-10-21T11:36:51.106Z";
