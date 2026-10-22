@@ -1,16 +1,121 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-21T11:36:51.106Z */
+/* Обновлено: 2026-10-22T11:36:28.011Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "hugging-face-announcing-simready-central-an-open-l",
+    "id": "hugging-face-ensemble-forecasting-with-ibm-granite",
     "category": "ai",
     "source": "Hugging Face",
-    "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-22",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-at-t-is-rethinking-in-house-legal-work-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "excerpt": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-21",
+    "readMins": 3,
+    "link": "https://openai.com/index/att-legal",
+    "body": [
+      {
+        "t": "p",
+        "c": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-broad-access-through-consistent-standards",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Broad access through consistent standards",
+    "excerpt": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-21",
+    "readMins": 3,
+    "link": "https://openai.com/index/broad-access-through-consistent-standards",
+    "body": [
+      {
+        "t": "p",
+        "c": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-openai-models-are-coming-to-google-cloud",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "OpenAI models are coming to Google Cloud",
+    "excerpt": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-21",
+    "readMins": 3,
+    "link": "https://openai.com/index/openai-models-google-cloud",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-patch-the-planet-global-response-coordinati",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "excerpt": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-21",
+    "readMins": 3,
+    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "body": [
+      {
+        "t": "p",
+        "c": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-nvidia-kumo-relational-outperforms-su",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
     "excerpt": "Подробности — в полном материале на сайте источника.",
     "author": "Лента Hugging Face",
     "date": "2026-10-21",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
     "body": [
       {
         "t": "p",
@@ -23,78 +128,15 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-franchisee-reconciles-cash-in-94-less-time-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "excerpt": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-20",
-    "readMins": 3,
-    "link": "https://openai.com/index/ted-taylor-restaurant",
-    "body": [
-      {
-        "t": "p",
-        "c": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-terminal-x-matches-senior-investor-judgment",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-    "excerpt": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-20",
-    "readMins": 3,
-    "link": "https://openai.com/index/terminal-x",
-    "body": [
-      {
-        "t": "p",
-        "c": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-openai-acquires-orchestra-bio",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "OpenAI acquires Orchestra Bio",
-    "excerpt": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-20",
-    "readMins": 3,
-    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-fairstress-a-deeper-evaluation-of-fai",
+    "id": "hugging-face-how-specializing-the-vocabulary-of-sl",
     "category": "ai",
     "source": "Hugging Face",
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
     "excerpt": "Подробности — в полном материале на сайте источника.",
     "author": "Лента Hugging Face",
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "body": [
       {
         "t": "p",
@@ -107,61 +149,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-altk-evolve-how-learned-memory-tops-t",
+    "id": "hugging-face-profiling-torchneuron-part-1-system-l",
     "category": "ai",
     "source": "Hugging Face",
-    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
     "excerpt": "Подробности — в полном материале на сайте источника.",
     "author": "Лента Hugging Face",
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "body": [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-hugging-face-torchtpu-tpus-natively",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-20",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/hf-torchtpu",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-advancing-coding-in-low-resource-programmin",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Advancing coding in low‑resource programming languages",
-    "excerpt": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-19",
-    "readMins": 3,
-    "link": "https://openai.com/index/low-resource-programming-languages",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-21T11:36:51.106Z";
+window.INTELLECT_GENERATED_AT = "2026-10-22T11:36:28.011Z";
