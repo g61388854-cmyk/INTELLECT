@@ -1,6 +1,153 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-22T11:36:28.011Z */
+/* Обновлено: 2026-10-23T11:25:52.215Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-openai-and-poland-s-nask-partner-to-advance",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "excerpt": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-23",
+    "readMins": 3,
+    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-build-more-responsive-apps-with-the-decisio",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Build more responsive apps with the Decisions API",
+    "excerpt": "Fast, focused, low-cost decisions for any application.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-22",
+    "readMins": 3,
+    "link": "https://openai.com/index/decisions-api",
+    "body": [
+      {
+        "t": "p",
+        "c": "Fast, focused, low-cost decisions for any application."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-what-fde-means-at-openai",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "What FDE means at OpenAI",
+    "excerpt": "What forward deployed engineering means at OpenAI",
+    "author": "Лента OpenAI",
+    "date": "2026-10-22",
+    "readMins": 3,
+    "link": "https://openai.com/index/forward-deployed-engineering-means",
+    "body": [
+      {
+        "t": "p",
+        "c": "What forward deployed engineering means at OpenAI"
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-uber-brings-chatgpt-work-to-all-employees-w",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "excerpt": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-22",
+    "readMins": 3,
+    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "body": [
+      {
+        "t": "p",
+        "c": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-beyond-tree-cover-mapping-the-worl",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-10-22",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "body": [
+      {
+        "t": "p",
+        "c": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-turning-database-grading-into-rl-rewa",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-22",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-olmoearth-v1-3-state-of-the-art-embed",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-22",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-ensemble-forecasting-with-ibm-granite",
     "category": "ai",
@@ -23,90 +170,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-at-t-is-rethinking-in-house-legal-work-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "excerpt": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-21",
-    "readMins": 3,
-    "link": "https://openai.com/index/att-legal",
-    "body": [
-      {
-        "t": "p",
-        "c": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-broad-access-through-consistent-standards",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Broad access through consistent standards",
-    "excerpt": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-21",
-    "readMins": 3,
-    "link": "https://openai.com/index/broad-access-through-consistent-standards",
-    "body": [
-      {
-        "t": "p",
-        "c": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-openai-models-are-coming-to-google-cloud",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "OpenAI models are coming to Google Cloud",
-    "excerpt": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-21",
-    "readMins": 3,
-    "link": "https://openai.com/index/openai-models-google-cloud",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-patch-the-planet-global-response-coordinati",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "excerpt": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-21",
-    "readMins": 3,
-    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "body": [
-      {
-        "t": "p",
-        "c": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-nvidia-kumo-relational-outperforms-su",
     "category": "ai",
     "source": "Hugging Face",
@@ -116,48 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-10-21",
     "readMins": 3,
     "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-how-specializing-the-vocabulary-of-sl",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-21",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-profiling-torchneuron-part-1-system-l",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-21",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "body": [
       {
         "t": "p",
@@ -254,27 +275,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "google-deepmind-gemini-4-argon-for-robotics",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Gemini 4 Argon for Robotics",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-10-13",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "nvidia-nvidia-nemotron-achieves-benchmark-leading-",
     "category": "tech",
     "source": "NVIDIA",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-22T11:36:28.011Z";
+window.INTELLECT_GENERATED_AT = "2026-10-23T11:25:52.216Z";
