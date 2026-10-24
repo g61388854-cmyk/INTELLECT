@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-23T11:25:52.215Z */
+/* Обновлено: 2026-10-24T10:44:56.486Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-rapidly-scaling-online-storage-to-serve-ove",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "excerpt": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-23",
+    "readMins": 3,
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-securing-our-frontier-model-training-enviro",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Securing our frontier model training environment",
+    "excerpt": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-23",
+    "readMins": 3,
+    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-openai-and-poland-s-nask-partner-to-advance",
     "category": "ai",
@@ -23,6 +65,48 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
+    "id": "hugging-face-litpivot-developing-research-ideas-th",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-23",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-does-your-model-run-on-aws-trainium-l",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-23",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
     "id": "openai-build-more-responsive-apps-with-the-decisio",
     "category": "ai",
     "source": "OpenAI",
@@ -36,48 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Fast, focused, low-cost decisions for any application."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-what-fde-means-at-openai",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "What FDE means at OpenAI",
-    "excerpt": "What forward deployed engineering means at OpenAI",
-    "author": "Лента OpenAI",
-    "date": "2026-10-22",
-    "readMins": 3,
-    "link": "https://openai.com/index/forward-deployed-engineering-means",
-    "body": [
-      {
-        "t": "p",
-        "c": "What forward deployed engineering means at OpenAI"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-uber-brings-chatgpt-work-to-all-employees-w",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "excerpt": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-22",
-    "readMins": 3,
-    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "body": [
-      {
-        "t": "p",
-        "c": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
       },
       {
         "t": "p",
@@ -128,27 +170,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-olmoearth-v1-3-state-of-the-art-embed",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-22",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-ensemble-forecasting-with-ibm-granite",
     "category": "ai",
     "source": "Hugging Face",
@@ -158,27 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-10-22",
     "readMins": 3,
     "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-nvidia-kumo-relational-outperforms-su",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-21",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-23T11:25:52.216Z";
+window.INTELLECT_GENERATED_AT = "2026-10-24T10:44:56.486Z";
