@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-25T11:10:33.535Z */
+/* Обновлено: 2026-10-26T12:44:18.081Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-rapidly-scaling-online-storage-to-serve-ove",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-25T11:10:33.535Z";
+window.INTELLECT_GENERATED_AT = "2026-10-26T12:44:18.081Z";
