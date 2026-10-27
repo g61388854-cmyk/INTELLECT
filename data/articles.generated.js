@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-26T12:44:18.081Z */
+/* Обновлено: 2026-10-27T11:58:47.321Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-rapidly-scaling-online-storage-to-serve-ove",
+    "id": "openai-greptile-takes-bug-detection-beyond-code-re",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "excerpt": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "excerpt": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
     "author": "Лента OpenAI",
-    "date": "2026-10-23",
+    "date": "2026-10-26",
     "readMins": 3,
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "link": "https://openai.com/index/greptile-code-review-codex-astra",
     "body": [
       {
         "t": "p",
-        "c": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+        "c": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-securing-our-frontier-model-training-enviro",
+    "id": "openai-working-with-academic-communities-to-build-",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Securing our frontier model training environment",
-    "excerpt": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "title": "Working with academic communities to build scientific understanding",
+    "excerpt": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
     "author": "Лента OpenAI",
-    "date": "2026-10-23",
+    "date": "2026-10-26",
     "readMins": 3,
-    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+        "c": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
       },
       {
         "t": "p",
@@ -44,19 +44,40 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-openai-and-poland-s-nask-partner-to-advance",
+    "id": "openai-gpt-6-1-sol-helps-coderabbit-strengthen-sec",
     "category": "ai",
     "source": "OpenAI",
-    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-    "excerpt": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "excerpt": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
     "author": "Лента OpenAI",
-    "date": "2026-10-23",
+    "date": "2026-10-26",
     "readMins": 3,
-    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+        "c": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-chatgpt-s-expanding-world-of-work",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "ChatGPT’s expanding world of work",
+    "excerpt": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-26",
+    "readMins": 3,
+    "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "body": [
+      {
+        "t": "p",
+        "c": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
       },
       {
         "t": "p",
@@ -99,27 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-build-more-responsive-apps-with-the-decisio",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Build more responsive apps with the Decisions API",
-    "excerpt": "Fast, focused, low-cost decisions for any application.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-22",
-    "readMins": 3,
-    "link": "https://openai.com/index/decisions-api",
-    "body": [
-      {
-        "t": "p",
-        "c": "Fast, focused, low-cost decisions for any application."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-26T12:44:18.081Z";
+window.INTELLECT_GENERATED_AT = "2026-10-27T11:58:47.321Z";
