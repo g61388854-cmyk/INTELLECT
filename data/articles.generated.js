@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-27T11:58:47.321Z */
+/* Обновлено: 2026-10-28T12:37:15.577Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-greptile-takes-bug-detection-beyond-code-re",
+    "id": "openai-legora-is-building-the-agentic-operating-sy",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-    "excerpt": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "title": "Legora is building the agentic operating system for legal work",
+    "excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
     "author": "Лента OpenAI",
-    "date": "2026-10-26",
+    "date": "2026-10-28",
     "readMins": 3,
-    "link": "https://openai.com/index/greptile-code-review-codex-astra",
+    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
     "body": [
       {
         "t": "p",
-        "c": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+        "c": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-working-with-academic-communities-to-build-",
+    "id": "openai-retell-uses-openai-models-to-help-power-100",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Working with academic communities to build scientific understanding",
-    "excerpt": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "excerpt": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
     "author": "Лента OpenAI",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "readMins": 3,
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "link": "https://openai.com/index/retell-ai",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+        "c": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
       },
       {
         "t": "p",
@@ -44,19 +44,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-gpt-6-1-sol-helps-coderabbit-strengthen-sec",
+    "id": "openai-openai-expands-partnership-with-oracle-to-b",
     "category": "ai",
     "source": "OpenAI",
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "excerpt": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "excerpt": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
     "author": "Лента OpenAI",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "readMins": 3,
-    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
     "body": [
       {
         "t": "p",
-        "c": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+        "c": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
       },
       {
         "t": "p",
@@ -65,19 +65,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-chatgpt-s-expanding-world-of-work",
+    "id": "openai-how-check-point-accelerates-vulnerability-r",
     "category": "ai",
     "source": "OpenAI",
-    "title": "ChatGPT’s expanding world of work",
-    "excerpt": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "excerpt": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
     "author": "Лента OpenAI",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "readMins": 3,
-    "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "link": "https://openai.com/index/check-point-daybreak",
     "body": [
       {
         "t": "p",
-        "c": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+        "c": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
       },
       {
         "t": "p",
@@ -86,15 +86,57 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-litpivot-developing-research-ideas-th",
+    "id": "google-deepmind-genie-4-a-new-generation-of-world-",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Genie 4: A new generation of world simulation",
+    "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-10-27",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-build-specialized-multimodal-models-w",
     "category": "ai",
     "source": "Hugging Face",
-    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "title": "Build specialized multimodal models with LFM3",
     "excerpt": "Подробности — в полном материале на сайте источника.",
     "author": "Лента Hugging Face",
-    "date": "2026-10-23",
+    "date": "2026-10-27",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-can-we-trust-llms-to-judge-whether-a-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-27",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
     "body": [
       {
         "t": "p",
@@ -170,27 +212,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-ensemble-forecasting-with-ibm-granite",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-22",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-accelerating-the-search-for-antimi",
     "category": "research",
     "source": "Google DeepMind",
@@ -246,27 +267,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-developing-gemini-4-argon-responsi",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-10-13",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-27T11:58:47.321Z";
+window.INTELLECT_GENERATED_AT = "2026-10-28T12:37:15.577Z";
