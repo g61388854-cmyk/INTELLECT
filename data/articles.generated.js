@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-28T12:37:15.577Z */
+/* Обновлено: 2026-10-29T12:47:04.725Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-introducing-anyspeechrecognizer-and-a",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-29",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/anydecisionmodel",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-openai-and-servicenow-expand-partnership-ac",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "excerpt": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-28",
+    "readMins": 3,
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-the-future-of-the-firm",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "The future of the firm",
+    "excerpt": "How AI might enter the org chart—beneath, beside, and between us.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-28",
+    "readMins": 3,
+    "link": "https://openai.com/index/the-future-of-the-firm",
+    "body": [
+      {
+        "t": "p",
+        "c": "How AI might enter the org chart—beneath, beside, and between us."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-legora-is-building-the-agentic-operating-sy",
     "category": "ai",
@@ -10,11 +73,53 @@ window.INTELLECT_GENERATED = [
     "author": "Лента OpenAI",
     "date": "2026-10-28",
     "readMins": 3,
-    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "link": "https://openai.com/index/legora",
     "body": [
       {
         "t": "p",
         "c": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-gemini-4-carbon-our-next-frontier-",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-10-28",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-nvidia-nemotron-3-5-transcribe-and-gr",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-28",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -36,48 +141,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-openai-expands-partnership-with-oracle-to-b",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "excerpt": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-27",
-    "readMins": 3,
-    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-check-point-accelerates-vulnerability-r",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Check Point accelerates vulnerability research with Daybreak",
-    "excerpt": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-27",
-    "readMins": 3,
-    "link": "https://openai.com/index/check-point-daybreak",
-    "body": [
-      {
-        "t": "p",
-        "c": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
       },
       {
         "t": "p",
@@ -149,27 +212,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-does-your-model-run-on-aws-trainium-l",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-23",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-beyond-tree-cover-mapping-the-worl",
     "category": "research",
     "source": "Google DeepMind",
@@ -183,27 +225,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-turning-database-grading-into-rl-rewa",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-22",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -246,27 +267,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized [&#8230;]"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-google-deepmind-and-singapore-gove",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-10-14",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-28T12:37:15.577Z";
+window.INTELLECT_GENERATED_AT = "2026-10-29T12:47:04.725Z";
