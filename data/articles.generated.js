@@ -1,6 +1,132 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-29T12:47:04.725Z */
+/* Обновлено: 2026-10-30T12:38:47.310Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-an-updated-model-spec-for-more-capable-and-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "excerpt": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-29",
+    "readMins": 3,
+    "link": "https://openai.com/index/updated-model-spec",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-we-detect-frontier-model-misalignment",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How we detect frontier model misalignment",
+    "excerpt": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-29",
+    "readMins": 3,
+    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-ropes-gray-is-developing-ai-for-transac",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "excerpt": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-29",
+    "readMins": 3,
+    "link": "https://openai.com/index/ropes-gray-ai-diligence",
+    "body": [
+      {
+        "t": "p",
+        "c": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-granite-switch-4-1-1-update-models-li",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-29",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-announcing-project-protostar-making-p",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-29",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/announcing-project-protostar",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-welcome-le-chonk-mistral-large-4-on-h",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-29",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/mistral-large4",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-introducing-anyspeechrecognizer-and-a",
     "category": "ai",
@@ -44,48 +170,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-the-future-of-the-firm",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "The future of the firm",
-    "excerpt": "How AI might enter the org chart—beneath, beside, and between us.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-28",
-    "readMins": 3,
-    "link": "https://openai.com/index/the-future-of-the-firm",
-    "body": [
-      {
-        "t": "p",
-        "c": "How AI might enter the org chart—beneath, beside, and between us."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-legora-is-building-the-agentic-operating-sy",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Legora is building the agentic operating system for legal work",
-    "excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-28",
-    "readMins": 3,
-    "link": "https://openai.com/index/legora",
-    "body": [
-      {
-        "t": "p",
-        "c": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-gemini-4-carbon-our-next-frontier-",
     "category": "research",
     "source": "Google DeepMind",
@@ -107,48 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-nvidia-nemotron-3-5-transcribe-and-gr",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-28",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-retell-uses-openai-models-to-help-power-100",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Retell uses OpenAI models to help power 100M monthly calls",
-    "excerpt": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-27",
-    "readMins": 3,
-    "link": "https://openai.com/index/retell-ai",
-    "body": [
-      {
-        "t": "p",
-        "c": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-genie-4-a-new-generation-of-world-",
     "category": "research",
     "source": "Google DeepMind",
@@ -162,48 +204,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-build-specialized-multimodal-models-w",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Build specialized multimodal models with LFM3",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-27",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-can-we-trust-llms-to-judge-whether-a-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Can we trust LLMs to judge whether a research idea is novel?",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-27",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/novelty-bench",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-29T12:47:04.725Z";
+window.INTELLECT_GENERATED_AT = "2026-10-30T12:38:47.310Z";
