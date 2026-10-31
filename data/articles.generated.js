@@ -1,6 +1,90 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-30T12:38:47.310Z */
+/* Обновлено: 2026-10-31T12:07:29.975Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-making-it-easier-for-websites-to-express-ai",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Making it easier for websites to express AI training preferences",
+    "excerpt": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-30",
+    "readMins": 3,
+    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-community-safety-report-and-new-protections",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Community safety report and new protections for teens",
+    "excerpt": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-30",
+    "readMins": 3,
+    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-fair-use-benefits-everyone",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Fair use benefits everyone",
+    "excerpt": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+    "author": "Лента OpenAI",
+    "date": "2026-10-30",
+    "readMins": 3,
+    "link": "https://openai.com/index/fair-use-benefits-everyone",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-nemotron-halloween",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "nemotron-halloween",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-10-30",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-an-updated-model-spec-for-more-capable-and-",
     "category": "ai",
@@ -15,48 +99,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-we-detect-frontier-model-misalignment",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How we detect frontier model misalignment",
-    "excerpt": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-29",
-    "readMins": 3,
-    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-ropes-gray-is-developing-ai-for-transac",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Ropes & Gray is developing AI for transactional diligence",
-    "excerpt": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-29",
-    "readMins": 3,
-    "link": "https://openai.com/index/ropes-gray-ai-diligence",
-    "body": [
-      {
-        "t": "p",
-        "c": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
       },
       {
         "t": "p",
@@ -120,48 +162,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-introducing-anyspeechrecognizer-and-a",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-29",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/anydecisionmodel",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-openai-and-servicenow-expand-partnership-ac",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "excerpt": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-28",
-    "readMins": 3,
-    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-30T12:38:47.310Z";
+window.INTELLECT_GENERATED_AT = "2026-10-31T12:07:29.975Z";
