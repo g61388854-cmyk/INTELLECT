@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-10-31T12:07:29.975Z */
+/* Обновлено: 2026-11-01T13:07:15.702Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-making-it-easier-for-websites-to-express-ai",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-10-31T12:07:29.975Z";
+window.INTELLECT_GENERATED_AT = "2026-11-01T13:07:15.702Z";
