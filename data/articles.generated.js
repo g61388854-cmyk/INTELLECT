@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-01T13:07:15.702Z */
+/* Обновлено: 2026-11-02T15:30:43.838Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-introducing-the-grid-protectors-program",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing the Grid Protectors Program",
+    "excerpt": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-02",
+    "readMins": 3,
+    "link": "https://openai.com/index/grid-protectors-program",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-making-it-easier-for-websites-to-express-ai",
     "category": "ai",
@@ -65,6 +86,27 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
+    "id": "google-deepmind-speeding-up-planning-decisions-wit",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Speeding up planning decisions with AI",
+    "excerpt": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "author": "Лента Google DeepMind",
+    "date": "2026-10-30",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Google DeepMind and UK government work together to reduce planning assessment times"
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
     "id": "hugging-face-nemotron-halloween",
     "category": "ai",
     "source": "Hugging Face",
@@ -78,27 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-an-updated-model-spec-for-more-capable-and-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "excerpt": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-29",
-    "readMins": 3,
-    "link": "https://openai.com/index/updated-model-spec",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
       },
       {
         "t": "p",
@@ -233,27 +254,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "google-deepmind-accelerating-the-search-for-antimi",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-10-15",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "nvidia-open-from-data-center-to-desktop-nvidia-exp",
     "category": "tech",
     "source": "NVIDIA",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-01T13:07:15.702Z";
+window.INTELLECT_GENERATED_AT = "2026-11-02T15:30:43.838Z";
