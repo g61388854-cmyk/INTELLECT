@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-02T15:30:43.838Z */
+/* Обновлено: 2026-11-03T13:59:35.222Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-heimstaden-is-changing-residential-real-est",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "excerpt": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-03",
+    "readMins": 3,
+    "link": "https://openai.com/index/heimstaden",
+    "body": [
+      {
+        "t": "p",
+        "c": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-transformers-model-integration-contra",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Transformers Model Integration Contracts",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-03",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/transformers-mic",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-scaling-git-at-openai",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Scaling Git at OpenAI",
+    "excerpt": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-02",
+    "readMins": 3,
+    "link": "https://openai.com/index/scaling-git-at-openai",
+    "body": [
+      {
+        "t": "p",
+        "c": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-introducing-the-grid-protectors-program",
     "category": "ai",
@@ -23,61 +86,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-making-it-easier-for-websites-to-express-ai",
+    "id": "openai-rewarding-defenders-with-bigger-bug-bountie",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Making it easier for websites to express AI training preferences",
-    "excerpt": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "excerpt": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
     "author": "Лента OpenAI",
-    "date": "2026-10-30",
+    "date": "2026-11-02",
     "readMins": 3,
-    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-community-safety-report-and-new-protections",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Community safety report and new protections for teens",
-    "excerpt": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-30",
-    "readMins": 3,
-    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-fair-use-benefits-everyone",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Fair use benefits everyone",
-    "excerpt": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-    "author": "Лента OpenAI",
-    "date": "2026-10-30",
-    "readMins": 3,
-    "link": "https://openai.com/index/fair-use-benefits-everyone",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+        "c": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
       },
       {
         "t": "p",
@@ -158,27 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-10-29",
     "readMins": 3,
     "link": "https://huggingface.co/blog/announcing-project-protostar",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-welcome-le-chonk-mistral-large-4-on-h",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-10-29",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/mistral-large4",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-02T15:30:43.838Z";
+window.INTELLECT_GENERATED_AT = "2026-11-03T13:59:35.222Z";
