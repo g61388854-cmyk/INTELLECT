@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-04T14:15:19.687Z */
+/* Обновлено: 2026-11-05T14:28:38.123Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-accelerating-engineering-for-the-physical-w",
+    "id": "openai-setting-a-new-standard-for-responsible-ai-i",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Accelerating engineering for the physical world",
-    "excerpt": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "excerpt": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
     "author": "Лента OpenAI",
-    "date": "2026-11-03",
+    "date": "2026-11-05",
     "readMins": 3,
-    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
     "body": [
       {
         "t": "p",
-        "c": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+        "c": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-cisco-defends-at-machine-speed-with-ope",
+    "id": "hugging-face-a-closer-look-at-phonon-tts-launching",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "How Cisco defends at machine speed with OpenAI",
-    "excerpt": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-03",
+    "source": "Hugging Face",
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-05",
     "readMins": 3,
-    "link": "https://openai.com/index/cisco-cyber",
+    "link": "https://huggingface.co/blog/phonon-tts",
     "body": [
       {
         "t": "p",
-        "c": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -44,19 +44,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-heimstaden-is-changing-residential-real-est",
+    "id": "openai-openai-to-acquire-pierre-computer-company-i",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Heimstaden is changing residential real estate management with AI",
-    "excerpt": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "excerpt": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
     "author": "Лента OpenAI",
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "readMins": 3,
-    "link": "https://openai.com/index/heimstaden",
+    "link": "https://openai.com/index/openai-to-acquire-pierre",
     "body": [
       {
         "t": "p",
-        "c": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+        "c": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
       },
       {
         "t": "p",
@@ -65,19 +65,61 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-openai-appoints-jill-hazelbaker-as-chief-co",
+    "id": "openai-daybreak-red-is-now-available-in-aws-govclo",
     "category": "ai",
     "source": "OpenAI",
-    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-    "excerpt": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "excerpt": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
     "author": "Лента OpenAI",
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "readMins": 3,
-    "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
     "body": [
       {
         "t": "p",
-        "c": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
+        "c": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-a-thousand-fewer-paths-to-root",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "A thousand fewer paths to root",
+    "excerpt": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-04",
+    "readMins": 3,
+    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-dharma-field-extractor-any-document-i",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-04",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -137,48 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-11-03",
     "readMins": 3,
     "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-cwe-bench-v2-more-coverage-quality-an",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "CWE-bench v2: More coverage, quality, and transparency",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-03",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/cwe-bench",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-transformers-model-integration-contra",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Transformers Model Integration Contracts",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-03",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/transformers-mic",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-04T14:15:19.687Z";
+window.INTELLECT_GENERATED_AT = "2026-11-05T14:28:38.123Z";
