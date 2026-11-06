@@ -1,20 +1,167 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-05T14:28:38.123Z */
+/* Обновлено: 2026-11-06T14:05:55.702Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-setting-a-new-standard-for-responsible-ai-i",
+    "id": "hugging-face-toyblocks-a-controlled-world-for-robo",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "Setting a new standard for responsible AI infrastructure",
-    "excerpt": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-05",
+    "source": "Hugging Face",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-06",
     "readMins": 3,
-    "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "link": "https://huggingface.co/blog/allenai/toyblocks",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-egyptian-and-nigerian-english-join-th",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-06",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-australian-universities-are-creating-ai-nat",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Australian universities are creating AI-native graduates",
+    "excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-05",
+    "readMins": 3,
+    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "body": [
+      {
+        "t": "p",
+        "c": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-cult-fit-builds-operational-muscle-with-cod",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Cult.fit builds operational muscle with Codex",
+    "excerpt": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-05",
+    "readMins": 3,
+    "link": "https://openai.com/index/cultfit-builds-with-codex",
+    "body": [
+      {
+        "t": "p",
+        "c": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-gpt-6-cyber-advancing-the-frontier-of-align",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-05",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-gpt-6-cyber",
+    "body": [
+      {
+        "t": "p",
+        "c": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-merge-builds-product-and-business-tools-wit",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "excerpt": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-05",
+    "readMins": 3,
+    "link": "https://openai.com/index/merge-builds-with-openai",
+    "body": [
+      {
+        "t": "p",
+        "c": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-gemini-omni-1-2-flash-fast-and-cos",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-11-05",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-new-nvidia-cosmos-3-open-models-for-i",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-05",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -44,90 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-openai-to-acquire-pierre-computer-company-i",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-    "excerpt": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-04",
-    "readMins": 3,
-    "link": "https://openai.com/index/openai-to-acquire-pierre",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-daybreak-red-is-now-available-in-aws-govclo",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-    "excerpt": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-04",
-    "readMins": 3,
-    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-    "body": [
-      {
-        "t": "p",
-        "c": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-a-thousand-fewer-paths-to-root",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "A thousand fewer paths to root",
-    "excerpt": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-04",
-    "readMins": 3,
-    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-dharma-field-extractor-any-document-i",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-04",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-agentic-cheminformatics-with-googl",
     "category": "research",
     "source": "Google DeepMind",
@@ -141,48 +204,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-statebench-testing-how-language-model",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "StateBench: Testing how language models track state changes over long documents",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-03",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/statebench",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-palette-teaching-a-small-model-to-bui",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Palette: teaching a small model to build decks in your design language",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-03",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -225,27 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-genie-4-a-new-generation-of-world-",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Genie 4: A new generation of world simulation",
-    "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-10-27",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-05T14:28:38.123Z";
+window.INTELLECT_GENERATED_AT = "2026-11-06T14:05:55.702Z";
