@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-06T14:05:55.702Z */
+/* Обновлено: 2026-11-07T12:49:55.574Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-partnering-with-hacktron-to-find-vulnerabil",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "excerpt": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-06",
+    "readMins": 3,
+    "link": "https://openai.com/index/partnering-with-hacktron",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-measuring-how-ai-agents-handle-everyday-wet",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-06",
+    "readMins": 3,
+    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-toyblocks-a-controlled-world-for-robo",
     "category": "ai",
@@ -78,48 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-gpt-6-cyber-advancing-the-frontier-of-align",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-    "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-05",
-    "readMins": 3,
-    "link": "https://openai.com/index/introducing-gpt-6-cyber",
-    "body": [
-      {
-        "t": "p",
-        "c": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-merge-builds-product-and-business-tools-wit",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Merge builds product and business tools with OpenAI technology",
-    "excerpt": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-05",
-    "readMins": 3,
-    "link": "https://openai.com/index/merge-builds-with-openai",
-    "body": [
-      {
-        "t": "p",
-        "c": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-06T14:05:55.702Z";
+window.INTELLECT_GENERATED_AT = "2026-11-07T12:49:55.574Z";
