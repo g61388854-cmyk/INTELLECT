@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-07T12:49:55.574Z */
+/* Обновлено: 2026-11-08T13:10:57.907Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-partnering-with-hacktron-to-find-vulnerabil",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-07T12:49:55.574Z";
+window.INTELLECT_GENERATED_AT = "2026-11-08T13:10:57.908Z";
