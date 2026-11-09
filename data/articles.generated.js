@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-08T13:10:57.907Z */
+/* Обновлено: 2026-11-09T15:56:50.178Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-nemotron-personas-finance-japan-a-syn",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-09",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-your-experts-have-partners-there-s-ho",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-09",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-partnering-with-hacktron-to-find-vulnerabil",
     "category": "ai",
@@ -137,48 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-11-05",
     "readMins": 3,
     "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-new-nvidia-cosmos-3-open-models-for-i",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-05",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-a-closer-look-at-phonon-tts-launching",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-05",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/phonon-tts",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-08T13:10:57.908Z";
+window.INTELLECT_GENERATED_AT = "2026-11-09T15:56:50.178Z";
