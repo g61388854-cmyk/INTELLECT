@@ -1,6 +1,111 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-09T15:56:50.178Z */
+/* Обновлено: 2026-11-10T14:43:52.325Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-helping-caregivers-use-ai-in-everyday-life",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Helping caregivers use AI in everyday life",
+    "excerpt": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-10",
+    "readMins": 3,
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-closing-the-ai-guidance-gap-in-education",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Closing the AI guidance gap in education",
+    "excerpt": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-10",
+    "readMins": 3,
+    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "body": [
+      {
+        "t": "p",
+        "c": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-introducing-alphaproof-code-a-brea",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-11-10",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "body": [
+      {
+        "t": "p",
+        "c": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-chatgpt-enterprise-now-available-in-aws-mar",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "excerpt": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-09",
+    "readMins": 3,
+    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "body": [
+      {
+        "t": "p",
+        "c": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-control-room-a-central-system-to-track-and-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "excerpt": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-09",
+    "readMins": 3,
+    "link": "https://openai.com/index/control-room",
+    "body": [
+      {
+        "t": "p",
+        "c": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-nemotron-personas-finance-japan-a-syn",
     "category": "ai",
@@ -44,48 +149,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-partnering-with-hacktron-to-find-vulnerabil",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "excerpt": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-06",
-    "readMins": 3,
-    "link": "https://openai.com/index/partnering-with-hacktron",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-measuring-how-ai-agents-handle-everyday-wet",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Measuring how AI agents handle everyday wet-lab science",
-    "excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-06",
-    "readMins": 3,
-    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-toyblocks-a-controlled-world-for-robo",
     "category": "ai",
     "source": "Hugging Face",
@@ -120,48 +183,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-australian-universities-are-creating-ai-nat",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Australian universities are creating AI-native graduates",
-    "excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-05",
-    "readMins": 3,
-    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "body": [
-      {
-        "t": "p",
-        "c": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-cult-fit-builds-operational-muscle-with-cod",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Cult.fit builds operational muscle with Codex",
-    "excerpt": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-05",
-    "readMins": 3,
-    "link": "https://openai.com/index/cultfit-builds-with-codex",
-    "body": [
-      {
-        "t": "p",
-        "c": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
       },
       {
         "t": "p",
@@ -225,27 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Google DeepMind and UK government work together to reduce planning assessment times"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-gemini-4-carbon-our-next-frontier-",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Gemini 4 Carbon: Our next frontier model",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-10-28",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-09T15:56:50.178Z";
+window.INTELLECT_GENERATED_AT = "2026-11-10T14:43:52.325Z";
