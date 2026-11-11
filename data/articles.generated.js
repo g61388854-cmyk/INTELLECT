@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-10T14:43:52.325Z */
+/* Обновлено: 2026-11-11T13:58:51.641Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-gilbert-tobin-rethinks-the-business-of-law-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-12",
+    "readMins": 3,
+    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "body": [
+      {
+        "t": "p",
+        "c": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-chatgpt-plus-for-veterans-and-servicemember",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "excerpt": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-11",
+    "readMins": 3,
+    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "body": [
+      {
+        "t": "p",
+        "c": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-botpsy-on-device-personal-assistant-w",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-11",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/qvac/botpsy",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-helping-caregivers-use-ai-in-everyday-life",
     "category": "ai",
@@ -23,19 +86,40 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-closing-the-ai-guidance-gap-in-education",
+    "id": "openai-introducing-businesses-in-chatgpt",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Closing the AI guidance gap in education",
-    "excerpt": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "title": "Introducing Businesses in ChatGPT",
+    "excerpt": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
     "author": "Лента OpenAI",
     "date": "2026-11-10",
     "readMins": 3,
-    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "link": "https://openai.com/index/introducing-businesses-chatgpt",
     "body": [
       {
         "t": "p",
-        "c": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+        "c": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-gemini-4-carbon-is-now-available",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Gemini 4 Carbon is now available",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-11-10",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -65,19 +149,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-chatgpt-enterprise-now-available-in-aws-mar",
+    "id": "hugging-face-pay-for-hugging-face-hub-with-your-go",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "ChatGPT Enterprise now available in AWS Marketplace",
-    "excerpt": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-09",
+    "source": "Hugging Face",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-10",
     "readMins": 3,
-    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
     "body": [
       {
         "t": "p",
-        "c": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -86,19 +170,40 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-control-room-a-central-system-to-track-and-",
+    "id": "hugging-face-decision-models-in-hugging-face",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "excerpt": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-09",
+    "source": "Hugging Face",
+    "title": "Decision Models in Hugging Face",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-10",
     "readMins": 3,
-    "link": "https://openai.com/index/control-room",
+    "link": "https://huggingface.co/blog/decision",
     "body": [
       {
         "t": "p",
-        "c": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "google-deepmind-gemini-robotics-2-5-accelerates-re",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+    "author": "Лента Google DeepMind",
+    "date": "2026-11-09",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
       },
       {
         "t": "p",
@@ -128,69 +233,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-your-experts-have-partners-there-s-ho",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-09",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-toyblocks-a-controlled-world-for-robo",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-06",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/toyblocks",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-egyptian-and-nigerian-english-join-th",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-06",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-gemini-omni-1-2-flash-fast-and-cos",
     "category": "research",
     "source": "Google DeepMind",
@@ -204,48 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-agentic-cheminformatics-with-googl",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Agentic cheminformatics with Google Antigravity",
-    "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-11-03",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-speeding-up-planning-decisions-wit",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Speeding up planning decisions with AI",
-    "excerpt": "Google DeepMind and UK government work together to reduce planning assessment times",
-    "author": "Лента Google DeepMind",
-    "date": "2026-10-30",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Google DeepMind and UK government work together to reduce planning assessment times"
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-10T14:43:52.325Z";
+window.INTELLECT_GENERATED_AT = "2026-11-11T13:58:51.641Z";
