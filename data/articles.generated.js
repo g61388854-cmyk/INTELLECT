@@ -1,6 +1,48 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-11T13:58:51.641Z */
+/* Обновлено: 2026-11-12T14:59:52.516Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-holiday-extras-is-rethinking-what-it-can-bu",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "excerpt": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-12",
+    "readMins": 3,
+    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "body": [
+      {
+        "t": "p",
+        "c": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-supporting-research-on-ai-and-children-s-sa",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Supporting research on AI and children’s safety",
+    "excerpt": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-12",
+    "readMins": 3,
+    "link": "https://openai.com/index/children-first-declaration",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-gilbert-tobin-rethinks-the-business-of-law-",
     "category": "ai",
@@ -15,6 +57,27 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-the-definitive-fine-tuning-guide-for-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-12",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/3d-lora-finetuning",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -44,6 +107,27 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
+    "id": "google-deepmind-alphagenome-2-deciphering-how-cell",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-11-11",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
     "id": "hugging-face-botpsy-on-device-personal-assistant-w",
     "category": "ai",
     "source": "Hugging Face",
@@ -65,40 +149,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-helping-caregivers-use-ai-in-everyday-life",
+    "id": "hugging-face-token-pooling-aware-training-for-mult",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "Helping caregivers use AI in everyday life",
-    "excerpt": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-10",
+    "source": "Hugging Face",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-11",
     "readMins": 3,
-    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "link": "https://huggingface.co/blog/token-pooling",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-introducing-businesses-in-chatgpt",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Introducing Businesses in ChatGPT",
-    "excerpt": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-10",
-    "readMins": 3,
-    "link": "https://openai.com/index/introducing-businesses-chatgpt",
-    "body": [
-      {
-        "t": "p",
-        "c": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -170,27 +233,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-decision-models-in-hugging-face",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Decision Models in Hugging Face",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-10",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/decision",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-gemini-robotics-2-5-accelerates-re",
     "category": "research",
     "source": "Google DeepMind",
@@ -204,48 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-nemotron-personas-finance-japan-a-syn",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-09",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-gemini-omni-1-2-flash-fast-and-cos",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-11-05",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-11T13:58:51.641Z";
+window.INTELLECT_GENERATED_AT = "2026-11-12T14:59:52.516Z";
