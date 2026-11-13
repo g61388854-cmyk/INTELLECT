@@ -1,6 +1,69 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-12T14:59:52.516Z */
+/* Обновлено: 2026-11-13T14:25:29.183Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-llama-cpp-v1-0-0-a-stronger-foundatio",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-13",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-amplitude-ships-product-improvements-in",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-12",
+    "readMins": 3,
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "body": [
+      {
+        "t": "p",
+        "c": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-gondola-doubles-revenue-as-its-team-builds-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "excerpt": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-12",
+    "readMins": 3,
+    "link": "https://openai.com/business/customer-stories/gondola",
+    "body": [
+      {
+        "t": "p",
+        "c": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-holiday-extras-is-rethinking-what-it-can-bu",
     "category": "ai",
@@ -44,19 +107,40 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-gilbert-tobin-rethinks-the-business-of-law-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Gilbert + Tobin rethinks the business of law with AI",
-    "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-    "author": "Лента OpenAI",
+    "id": "google-deepmind-introducing-gemini-4-hydrogen",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Google DeepMind",
     "date": "2026-11-12",
     "readMins": 3,
-    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
     "body": [
       {
         "t": "p",
-        "c": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-llmon-an-llm-native-markup-language-n",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-12",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -78,27 +162,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-chatgpt-plus-for-veterans-and-servicemember",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "ChatGPT Plus for veterans and servicemembers",
-    "excerpt": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-11",
-    "readMins": 3,
-    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-    "body": [
-      {
-        "t": "p",
-        "c": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
       },
       {
         "t": "p",
@@ -149,27 +212,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-token-pooling-aware-training-for-mult",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-11",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/token-pooling",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-gemini-4-carbon-is-now-available",
     "category": "research",
     "source": "Google DeepMind",
@@ -204,48 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-pay-for-hugging-face-hub-with-your-go",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-10",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-gemini-robotics-2-5-accelerates-re",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-    "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-    "author": "Лента Google DeepMind",
-    "date": "2026-11-09",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-12T14:59:52.516Z";
+window.INTELLECT_GENERATED_AT = "2026-11-13T14:25:29.184Z";
