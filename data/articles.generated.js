@@ -1,6 +1,90 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-13T14:25:29.183Z */
+/* Обновлено: 2026-11-14T13:21:32.094Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-introducing-chatgpt-wallet",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT Wallet",
+    "excerpt": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-13",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "body": [
+      {
+        "t": "p",
+        "c": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-shield-helps-technicians-hand-off-legacy-po",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "excerpt": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-13",
+    "readMins": 3,
+    "link": "https://openai.com/business/customer-stories/shield",
+    "body": [
+      {
+        "t": "p",
+        "c": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-build-a-robot-pick-and-place-simulati",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-13",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-xybench-helping-with-the-problem-behi",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "XYBench: Helping with the problem behind the question",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-13",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-llama-cpp-v1-0-0-a-stronger-foundatio",
     "category": "ai",
@@ -65,48 +149,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-holiday-extras-is-rethinking-what-it-can-bu",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Holiday Extras is rethinking what it can build with Codex",
-    "excerpt": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-12",
-    "readMins": 3,
-    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-    "body": [
-      {
-        "t": "p",
-        "c": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-supporting-research-on-ai-and-children-s-sa",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Supporting research on AI and children’s safety",
-    "excerpt": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-12",
-    "readMins": 3,
-    "link": "https://openai.com/index/children-first-declaration",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-gemini-4-hydrogen",
     "category": "research",
     "source": "Google DeepMind",
@@ -149,27 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-the-definitive-fine-tuning-guide-for-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-12",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/3d-lora-finetuning",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-alphagenome-2-deciphering-how-cell",
     "category": "research",
     "source": "Google DeepMind",
@@ -183,27 +204,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-botpsy-on-device-personal-assistant-w",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-11",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/qvac/botpsy",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-13T14:25:29.184Z";
+window.INTELLECT_GENERATED_AT = "2026-11-14T13:21:32.094Z";
