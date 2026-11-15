@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-14T13:21:32.094Z */
+/* Обновлено: 2026-11-15T13:48:48.569Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-introducing-chatgpt-wallet",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-14T13:21:32.094Z";
+window.INTELLECT_GENERATED_AT = "2026-11-15T13:48:48.569Z";
