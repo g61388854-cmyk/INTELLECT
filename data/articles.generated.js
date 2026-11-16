@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-15T13:48:48.569Z */
+/* Обновлено: 2026-11-16T15:31:25.259Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-introducing-chatgpt-wallet",
+    "id": "openai-lvmh-s-media-division-announces-strategic-p",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Introducing ChatGPT Wallet",
-    "excerpt": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "excerpt": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
     "author": "Лента OpenAI",
-    "date": "2026-11-13",
+    "date": "2026-11-16",
     "readMins": 3,
-    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "link": "https://openai.com/index/lvmh-media-division-partnership",
     "body": [
       {
         "t": "p",
-        "c": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+        "c": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
       },
       {
         "t": "p",
@@ -23,19 +23,61 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-shield-helps-technicians-hand-off-legacy-po",
+    "id": "openai-advancing-computer-use-agents-for-healthcar",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-    "excerpt": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
     "author": "Лента OpenAI",
-    "date": "2026-11-13",
+    "date": "2026-11-16",
     "readMins": 3,
-    "link": "https://openai.com/business/customer-stories/shield",
+    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
     "body": [
       {
         "t": "p",
-        "c": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-more-ways-to-move-care-forward-with-chatgpt",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "excerpt": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "body": [
+      {
+        "t": "p",
+        "c": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-the-king-s-trust-and-openai-launch-1m-partn",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "excerpt": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/the-kings-trust-and-openai",
+    "body": [
+      {
+        "t": "p",
+        "c": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
       },
       {
         "t": "p",
@@ -99,48 +141,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-how-amplitude-ships-product-improvements-in",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-    "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-12",
-    "readMins": 3,
-    "link": "https://openai.com/business/customer-stories/amplitude",
-    "body": [
-      {
-        "t": "p",
-        "c": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-gondola-doubles-revenue-as-its-team-builds-",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Gondola doubles revenue as its team builds more with Codex",
-    "excerpt": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-12",
-    "readMins": 3,
-    "link": "https://openai.com/business/customer-stories/gondola",
-    "body": [
-      {
-        "t": "p",
-        "c": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-15T13:48:48.569Z";
+window.INTELLECT_GENERATED_AT = "2026-11-16T15:31:25.259Z";
