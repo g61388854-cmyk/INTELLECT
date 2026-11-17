@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-16T15:31:25.259Z */
+/* Обновлено: 2026-11-17T15:51:04.539Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-lvmh-s-media-division-announces-strategic-p",
+    "id": "openai-strengthening-nato-and-allied-cyber-defense",
     "category": "ai",
     "source": "OpenAI",
-    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-    "excerpt": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "excerpt": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
     "author": "Лента OpenAI",
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "readMins": 3,
-    "link": "https://openai.com/index/lvmh-media-division-partnership",
+    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
     "body": [
       {
         "t": "p",
-        "c": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+        "c": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
       },
       {
         "t": "p",
@@ -23,61 +23,82 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-advancing-computer-use-agents-for-healthcar",
+    "id": "openai-introducing-openai-for-chile",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Advancing computer-use agents for healthcare teams",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "title": "Introducing OpenAI for Chile",
+    "excerpt": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-17",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-broadening-access-to-ai-for-scientists",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Broadening access to AI for scientists",
+    "excerpt": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
     "author": "Лента OpenAI",
     "date": "2026-11-16",
     "readMins": 3,
-    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "body": [
+      {
+        "t": "p",
+        "c": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-strengthening-the-fight-against-online-chil",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "excerpt": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-16",
+    "readMins": 3,
+    "link": "https://openai.com/index/strengthening-online-child-safety",
+    "body": [
+      {
+        "t": "p",
+        "c": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-hugging-face-and-openrouter-join-forc",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-16",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/openrouter",
     "body": [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-more-ways-to-move-care-forward-with-chatgpt",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "More ways to move care forward with ChatGPT for Healthcare",
-    "excerpt": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-    "body": [
-      {
-        "t": "p",
-        "c": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-the-king-s-trust-and-openai-launch-1m-partn",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "The King’s Trust and OpenAI launch £1m partnership",
-    "excerpt": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/the-kings-trust-and-openai",
-    "body": [
-      {
-        "t": "p",
-        "c": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
       },
       {
         "t": "p",
@@ -158,27 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-11-12",
     "readMins": 3,
     "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-llmon-an-llm-native-markup-language-n",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-12",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-16T15:31:25.259Z";
+window.INTELLECT_GENERATED_AT = "2026-11-17T15:51:04.539Z";
