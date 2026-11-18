@@ -1,6 +1,90 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-17T15:51:04.539Z */
+/* Обновлено: 2026-11-18T15:29:30.025Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-le-groupe-figaro-and-openai-partner-to-brin",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "excerpt": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-18",
+    "readMins": 3,
+    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "body": [
+      {
+        "t": "p",
+        "c": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-time-series-models-in-the-streamhouse",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-18",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-rumble-2-flash-an-open-0-5b-speech-mo",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-18",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/rumble-2-flash",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-introducing-gpt-6-2-astra-and-sol",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "excerpt": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-17",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "body": [
+      {
+        "t": "p",
+        "c": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-strengthening-nato-and-allied-cyber-defense",
     "category": "ai",
@@ -23,61 +107,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-introducing-openai-for-chile",
+    "id": "openai-introducing-chatgpt-for-sales",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Introducing OpenAI for Chile",
-    "excerpt": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "title": "Introducing ChatGPT for Sales",
+    "excerpt": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
     "author": "Лента OpenAI",
     "date": "2026-11-17",
     "readMins": 3,
-    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "link": "https://openai.com/index/introducing-chatgpt-for-sales",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-broadening-access-to-ai-for-scientists",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Broadening access to AI for scientists",
-    "excerpt": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-    "body": [
-      {
-        "t": "p",
-        "c": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-strengthening-the-fight-against-online-chil",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-    "excerpt": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-16",
-    "readMins": 3,
-    "link": "https://openai.com/index/strengthening-online-child-safety",
-    "body": [
-      {
-        "t": "p",
-        "c": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+        "c": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
       },
       {
         "t": "p",
@@ -116,48 +158,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-11-13",
     "readMins": 3,
     "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-xybench-helping-with-the-problem-behi",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "XYBench: Helping with the problem behind the question",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-13",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/xybench",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-llama-cpp-v1-0-0-a-stronger-foundatio",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-13",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-17T15:51:04.539Z";
+window.INTELLECT_GENERATED_AT = "2026-11-18T15:29:30.025Z";
