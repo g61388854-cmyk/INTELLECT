@@ -1,20 +1,20 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-19T15:36:55.403Z */
+/* Обновлено: 2026-11-20T15:16:55.163Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "openai-the-silent-consensus",
+    "id": "hugging-face-introducing-harness-adapters-adapt-yo",
     "category": "ai",
-    "source": "OpenAI",
-    "title": "The Silent Consensus",
-    "excerpt": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-18",
+    "source": "Hugging Face",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-20",
     "readMins": 3,
-    "link": "https://openai.com/index/the-silent-consensus",
+    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
     "body": [
       {
         "t": "p",
-        "c": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -23,19 +23,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-research-acceleration-the-jagged-frontier",
+    "id": "openai-how-openai-s-performance-factory-keeps-chat",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Research acceleration: The jagged frontier",
-    "excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "excerpt": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
     "author": "Лента OpenAI",
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "readMins": 3,
-    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
     "body": [
       {
         "t": "p",
-        "c": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+        "c": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
       },
       {
         "t": "p",
@@ -44,19 +44,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-sumitomo-life-s-leaders-helped-teams-ad",
+    "id": "openai-deploying-daybreak-red",
     "category": "ai",
     "source": "OpenAI",
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "title": "Deploying Daybreak Red",
+    "excerpt": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
     "author": "Лента OpenAI",
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "readMins": 3,
-    "link": "https://openai.com/business/customer-stories/sumitomo-life",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
     "body": [
       {
         "t": "p",
-        "c": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+        "c": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
       },
       {
         "t": "p",
@@ -65,19 +65,40 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-inside-the-codex-sandbox",
+    "id": "openai-see-pr-scans-in-action",
     "category": "ai",
     "source": "OpenAI",
-    "title": "Inside the Codex sandbox",
-    "excerpt": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+    "title": "See PR scans in action",
+    "excerpt": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
     "author": "Лента OpenAI",
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "readMins": 3,
-    "link": "https://openai.com/index/inside-the-codex-sandbox",
+    "link": "https://openai.com/business/learn/pr-scans-demo",
     "body": [
       {
         "t": "p",
-        "c": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+        "c": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-explore-the-codex-security-plugin",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Explore the Codex Security Plugin",
+    "excerpt": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-19",
+    "readMins": 3,
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "body": [
+      {
+        "t": "p",
+        "c": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
       },
       {
         "t": "p",
@@ -179,27 +200,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-11-18",
     "readMins": 3,
     "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-180b-parameters-32gb-of-ram-pushing-m",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-18",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/moe-expert-streaming",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-19T15:36:55.403Z";
+window.INTELLECT_GENERATED_AT = "2026-11-20T15:16:55.163Z";
