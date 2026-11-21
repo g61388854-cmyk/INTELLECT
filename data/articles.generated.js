@@ -1,6 +1,90 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-20T15:16:55.163Z */
+/* Обновлено: 2026-11-21T14:30:21.120Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "openai-combatting-adversarial-distillation",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Combatting adversarial distillation",
+    "excerpt": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-20",
+    "readMins": 3,
+    "link": "https://openai.com/index/combatting-adversarial-distillation",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-hebbia-sees-improvements-in-financial-resea",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-20",
+    "readMins": 3,
+    "link": "https://openai.com/business/customer-stories/hebbia",
+    "body": [
+      {
+        "t": "p",
+        "c": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-can-ai-help-scientists-identify-promising-d",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "excerpt": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-20",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-medchembench",
+    "body": [
+      {
+        "t": "p",
+        "c": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-welcome-inkling-2-mini-cutting-edge-p",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-20",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/inkling2mini",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-introducing-harness-adapters-adapt-yo",
     "category": "ai",
@@ -36,69 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-deploying-daybreak-red",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Deploying Daybreak Red",
-    "excerpt": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-19",
-    "readMins": 3,
-    "link": "https://openai.com/business/learn/deploying-daybreak-red",
-    "body": [
-      {
-        "t": "p",
-        "c": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-see-pr-scans-in-action",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "See PR scans in action",
-    "excerpt": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-19",
-    "readMins": 3,
-    "link": "https://openai.com/business/learn/pr-scans-demo",
-    "body": [
-      {
-        "t": "p",
-        "c": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-explore-the-codex-security-plugin",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Explore the Codex Security Plugin",
-    "excerpt": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-19",
-    "readMins": 3,
-    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "body": [
-      {
-        "t": "p",
-        "c": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
       },
       {
         "t": "p",
@@ -179,27 +200,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-11-18",
     "readMins": 3,
     "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-time-series-models-in-the-streamhouse",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-18",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-20T15:16:55.163Z";
+window.INTELLECT_GENERATED_AT = "2026-11-21T14:30:21.120Z";
