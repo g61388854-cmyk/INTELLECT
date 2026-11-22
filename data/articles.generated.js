@@ -1,5 +1,5 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-21T14:30:21.120Z */
+/* Обновлено: 2026-11-22T14:26:15.106Z */
 window.INTELLECT_GENERATED = [
   {
     "id": "openai-combatting-adversarial-distillation",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-21T14:30:21.120Z";
+window.INTELLECT_GENERATED_AT = "2026-11-22T14:26:15.106Z";
