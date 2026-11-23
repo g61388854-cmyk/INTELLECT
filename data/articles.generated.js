@@ -1,6 +1,90 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-22T14:26:15.106Z */
+/* Обновлено: 2026-11-23T17:54:15.969Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "google-deepmind-finding-faster-quantum-algorithms-",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "excerpt": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "author": "Лента Google DeepMind",
+    "date": "2026-11-23",
+    "readMins": 3,
+    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "body": [
+      {
+        "t": "p",
+        "c": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-robotrack-point-tracking-for-real-wor",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-23",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/allenai/robotrack",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-how-to-build-and-maintain-an-agentic-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "How to build and maintain an agentic evaluation",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-23",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/agentic-evals",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-perplexity-and-intelligence",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Perplexity and Intelligence",
+    "excerpt": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-22",
+    "readMins": 3,
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "body": [
+      {
+        "t": "p",
+        "c": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "openai-combatting-adversarial-distillation",
     "category": "ai",
@@ -107,27 +191,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-how-openai-s-performance-factory-keeps-chat",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-    "excerpt": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-19",
-    "readMins": 3,
-    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-    "body": [
-      {
-        "t": "p",
-        "c": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-gemini-4-neon",
     "category": "research",
     "source": "Google DeepMind",
@@ -170,48 +233,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-daisyrose-27b-pushing-the-frontier-of",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-18",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-why-your-fine-tuning-job-takes-longer",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Why your fine-tuning job takes longer than the FLOPs say",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-18",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "google-deepmind-introducing-gemini-4-hydrogen",
     "category": "research",
     "source": "Google DeepMind",
@@ -225,27 +246,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-alphagenome-2-deciphering-how-cell",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-11-11",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
       },
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-22T14:26:15.106Z";
+window.INTELLECT_GENERATED_AT = "2026-11-23T17:54:15.969Z";
