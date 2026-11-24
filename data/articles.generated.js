@@ -1,6 +1,90 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-23T17:54:15.969Z */
+/* Обновлено: 2026-11-24T17:26:38.898Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-microduck-obstacle-avoidance-a-sim2re",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-24",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-openai-and-cisco-introduce-shirudo",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "excerpt": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-23",
+    "readMins": 3,
+    "link": "https://openai.com/index/introducing-shirudo",
+    "body": [
+      {
+        "t": "p",
+        "c": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-connected-intelligence-for-in-house-legal",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Connected intelligence for in-house legal",
+    "excerpt": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build…",
+    "author": "Лента OpenAI",
+    "date": "2026-11-23",
+    "readMins": 3,
+    "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "body": [
+      {
+        "t": "p",
+        "c": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-richpanel-helps-companies-automate-50-of-su",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "excerpt": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-23",
+    "readMins": 3,
+    "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "body": [
+      {
+        "t": "p",
+        "c": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "google-deepmind-finding-faster-quantum-algorithms-",
     "category": "research",
@@ -86,69 +170,6 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "openai-combatting-adversarial-distillation",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Combatting adversarial distillation",
-    "excerpt": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-20",
-    "readMins": 3,
-    "link": "https://openai.com/index/combatting-adversarial-distillation",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-hebbia-sees-improvements-in-financial-resea",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-    "excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-20",
-    "readMins": 3,
-    "link": "https://openai.com/business/customer-stories/hebbia",
-    "body": [
-      {
-        "t": "p",
-        "c": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-can-ai-help-scientists-identify-promising-d",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Can AI help scientists identify promising drug candidates?",
-    "excerpt": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-20",
-    "readMins": 3,
-    "link": "https://openai.com/index/introducing-medchembench",
-    "body": [
-      {
-        "t": "p",
-        "c": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
     "id": "hugging-face-welcome-inkling-2-mini-cutting-edge-p",
     "category": "ai",
     "source": "Hugging Face",
@@ -158,27 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-11-20",
     "readMins": 3,
     "link": "https://huggingface.co/blog/inkling2mini",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-introducing-harness-adapters-adapt-yo",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-20",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-23T17:54:15.969Z";
+window.INTELLECT_GENERATED_AT = "2026-11-24T17:26:38.898Z";
