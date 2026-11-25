@@ -1,6 +1,111 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-24T17:26:38.898Z */
+/* Обновлено: 2026-11-25T17:03:01.811Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-an-indic-voice-agent-with-cuga",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "An Indic Voice Agent with CUGA",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-25",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-gpt-6-models-demonstrate-intrinsic-protein-",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "excerpt": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-24",
+    "readMins": 3,
+    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "body": [
+      {
+        "t": "p",
+        "c": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-searching-for-distant-planets-with-astra",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "Searching for distant planets with Astra",
+    "excerpt": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-24",
+    "readMins": 3,
+    "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "body": [
+      {
+        "t": "p",
+        "c": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-intentful-uses-dots-to-make-more-time-f",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How Intentful uses dots to make more time for growth",
+    "excerpt": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-24",
+    "readMins": 3,
+    "link": "https://openai.com/business/customer-stories/intentful-dots",
+    "body": [
+      {
+        "t": "p",
+        "c": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "openai-how-ifood-scales-coding-agents-across-15-00",
+    "category": "ai",
+    "source": "OpenAI",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента OpenAI",
+    "date": "2026-11-24",
+    "readMins": 3,
+    "link": "https://openai.com/business/customer-stories/ifood",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-microduck-obstacle-avoidance-a-sim2re",
     "category": "ai",
@@ -15,69 +120,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-openai-and-cisco-introduce-shirudo",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "OpenAI and Cisco introduce Shirudo",
-    "excerpt": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-23",
-    "readMins": 3,
-    "link": "https://openai.com/index/introducing-shirudo",
-    "body": [
-      {
-        "t": "p",
-        "c": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-connected-intelligence-for-in-house-legal",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Connected intelligence for in-house legal",
-    "excerpt": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build…",
-    "author": "Лента OpenAI",
-    "date": "2026-11-23",
-    "readMins": 3,
-    "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-    "body": [
-      {
-        "t": "p",
-        "c": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-richpanel-helps-companies-automate-50-of-su",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Richpanel helps companies automate 50% of support in 30 days",
-    "excerpt": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-23",
-    "readMins": 3,
-    "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-    "body": [
-      {
-        "t": "p",
-        "c": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
       },
       {
         "t": "p",
@@ -137,48 +179,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-11-23",
     "readMins": 3,
     "link": "https://huggingface.co/blog/agentic-evals",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "openai-perplexity-and-intelligence",
-    "category": "ai",
-    "source": "OpenAI",
-    "title": "Perplexity and Intelligence",
-    "excerpt": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-    "author": "Лента OpenAI",
-    "date": "2026-11-22",
-    "readMins": 3,
-    "link": "https://openai.com/index/perplexity-and-intelligence",
-    "body": [
-      {
-        "t": "p",
-        "c": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-welcome-inkling-2-mini-cutting-edge-p",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-20",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/inkling2mini",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-24T17:26:38.898Z";
+window.INTELLECT_GENERATED_AT = "2026-11-25T17:03:01.811Z";
