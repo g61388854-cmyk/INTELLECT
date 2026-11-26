@@ -1,16 +1,79 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-25T17:03:01.811Z */
+/* Обновлено: 2026-11-26T16:43:52.162Z */
 window.INTELLECT_GENERATED = [
   {
-    "id": "hugging-face-an-indic-voice-agent-with-cuga",
+    "id": "hugging-face-introducing-the-llama-cpp-benchmark-d",
     "category": "ai",
     "source": "Hugging Face",
-    "title": "An Indic Voice Agent with CUGA",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-26",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-building-on-nemotron-3-5-parse-open-d",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-26",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-swarms-flocks-gangs-how-to-build-trai",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-26",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/training-swarms",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
+  {
+    "id": "hugging-face-where-scientists-draw-the-line-on-ai-",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Where scientists draw the line on AI agents",
     "excerpt": "Подробности — в полном материале на сайте источника.",
     "author": "Лента Hugging Face",
     "date": "2026-11-25",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
     "body": [
       {
         "t": "p",
@@ -107,19 +170,19 @@ window.INTELLECT_GENERATED = [
     ]
   },
   {
-    "id": "hugging-face-microduck-obstacle-avoidance-a-sim2re",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
+    "id": "google-deepmind-from-spectrum-to-structure-identif",
+    "category": "research",
+    "source": "Google DeepMind",
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "excerpt": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+    "author": "Лента Google DeepMind",
     "date": "2026-11-24",
     "readMins": 3,
-    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
     "body": [
       {
         "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
+        "c": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
       },
       {
         "t": "p",
@@ -141,48 +204,6 @@ window.INTELLECT_GENERATED = [
       {
         "t": "p",
         "c": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-robotrack-point-tracking-for-real-wor",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-23",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/robotrack",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-how-to-build-and-maintain-an-agentic-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "How to build and maintain an agentic evaluation",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-23",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/agentic-evals",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
       },
       {
         "t": "p",
@@ -221,27 +242,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-11-18",
     "readMins": 3,
     "link": "https://deepmind.google/blog/genie-4-is-now-available/",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "google-deepmind-introducing-gemini-4-hydrogen",
-    "category": "research",
-    "source": "Google DeepMind",
-    "title": "Introducing Gemini 4 Hydrogen",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Google DeepMind",
-    "date": "2026-11-12",
-    "readMins": 3,
-    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-25T17:03:01.811Z";
+window.INTELLECT_GENERATED_AT = "2026-11-26T16:43:52.162Z";
