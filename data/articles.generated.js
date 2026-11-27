@@ -1,6 +1,27 @@
 /* Автоматически сгенерировано scripts/fetch-news.mjs — не редактировать вручную. */
-/* Обновлено: 2026-11-26T16:43:52.162Z */
+/* Обновлено: 2026-11-27T16:29:45.361Z */
 window.INTELLECT_GENERATED = [
+  {
+    "id": "hugging-face-taking-trainium3-to-the-track-generat",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "excerpt": "Подробности — в полном материале на сайте источника.",
+    "author": "Лента Hugging Face",
+    "date": "2026-11-27",
+    "readMins": 3,
+    "link": "https://huggingface.co/blog/video-trainium3",
+    "body": [
+      {
+        "t": "p",
+        "c": "Подробности — в полном материале на сайте источника."
+      },
+      {
+        "t": "p",
+        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
+      }
+    ]
+  },
   {
     "id": "hugging-face-introducing-the-llama-cpp-benchmark-d",
     "category": "ai",
@@ -53,27 +74,6 @@ window.INTELLECT_GENERATED = [
     "date": "2026-11-26",
     "readMins": 3,
     "link": "https://huggingface.co/blog/training-swarms",
-    "body": [
-      {
-        "t": "p",
-        "c": "Подробности — в полном материале на сайте источника."
-      },
-      {
-        "t": "p",
-        "c": "Это автоматически собранный анонс. Полный материал доступен в первоисточнике."
-      }
-    ]
-  },
-  {
-    "id": "hugging-face-where-scientists-draw-the-line-on-ai-",
-    "category": "ai",
-    "source": "Hugging Face",
-    "title": "Where scientists draw the line on AI agents",
-    "excerpt": "Подробности — в полном материале на сайте источника.",
-    "author": "Лента Hugging Face",
-    "date": "2026-11-25",
-    "readMins": 3,
-    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
     "body": [
       {
         "t": "p",
@@ -338,4 +338,4 @@ window.INTELLECT_GENERATED = [
     ]
   }
 ];
-window.INTELLECT_GENERATED_AT = "2026-11-26T16:43:52.162Z";
+window.INTELLECT_GENERATED_AT = "2026-11-27T16:29:45.361Z";
